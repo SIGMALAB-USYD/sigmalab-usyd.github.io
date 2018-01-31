@@ -48,14 +48,6 @@
   # - title: "No Header but Image"
   #   url: "/design/no-header-but-image/"
 
-# - title: Research
-#   url: "/research/"
-#   side: left
-  # dropdown:
-  # - title: "Changelog"
-  #   url: "/changelog/"
-  # - title: "Roadmap"
-  #   url: "/roadmap/"
 
 - title: Recruitment
   url: "/recruitment/"
