@@ -23,20 +23,20 @@ title: "SIGMA Lab @ USYD"
 sidebar: right
 
 widget1:
-  title: "Research 1"
-  url: '#'
-  image: widget-1-302x182.jpg
-  text: 'Our research about xxxxxxxxxxxxxxxxxxxxxxxxx <br/> is already online!'
+  title: "Pose Estimation"
+  url: 'https://youtu.be/fSLmi166Mdk'
+  video: '<iframe src="https://www.youtube.com/embed/fSLmi166Mdk" width="360" height="240" style="max-width: 100%; max-height: 150pt;"></iframe>'
+  text: 'Check out our demo for multi-person <br/> pose estimation!'
 widget2:
-  title: "Research 2"
-  url: '#'
-  text: 'our research about xxxxxxxxxxxxxxxxxxxxxxx <br/> is already online!'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  title: "Video Detection"
+  url: 'https://youtu.be/ZtbUcv_OIZg'
+  text: 'We are also conducting reseaches about detecting objects in videos, check out our demo!'
+  video: '<iframe src="https://www.youtube.com/embed/ZtbUcv_OIZg" width="360" height="240" style="max-width: 100%; max-height: 150pt;"></iframe>'
 widget3:
-  title: "Our Research 3"
-  url: '#'
-  image: widget-github-303x182.jpg
-  text: 'our research about xxxxxxxxxxxxxxxxxxxxxxx <br/> is already online!'
+  title: "Pose Tracking"
+  url: 'https://youtu.be/CiKJuAH2U8I'
+  video: '<iframe src="https://www.youtube.com/embed/CiKJuAH2U8I" width="360" height="240" style="max-width: 100%; max-height: 150pt;"></iframe>'
+  text: 'Our team won the 2nd place in the pose-track challnege.'
 
 #
 # Use the call for action to show a button on the frontpage
@@ -85,7 +85,7 @@ homepage: true
     
     <!-- carrousel -->
 
-    <div id="myCarousel" class="carousel slide" data-ride="carousel" style="width: 650pt; height: 340pt">
+    <div id="myCarousel" class="carousel slide" data-ride="carousel" style="">
         <!-- Indicators -->
         <ol class="carousel-indicators">
           <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -96,31 +96,33 @@ homepage: true
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
           <div class="item active">
-            <a href="#">
-              <img src="images/gbd-net.jpg" alt="Los Angeles" style="width:100%; height:100%">
+            <a href="https://wlouyang.github.io/projects/GBD/index.html">
+              <img src="images/gbd-net.jpg" alt="GBD-Net for object detection" style="">
               <div class="carousel-caption d-none d-md-block">
-                <h3 style="color: #000000"> Winner of Imagenet 2016: GBD-Net for Image Detection</h3>
-                <p style="color: #000000">  </p>
+                <h3 style="color: #FFFFFF"> Object Detection </h3>
+                <p style="color: #FFFFFF"> We are conducting inspiring researches in general object detection. Our team won the 1st place of ILSVRC 2016. </p>
               </div>
             </a>
           </div>
 
           <div class="item">
-            <a href="#">
-              <img src="images/gallery-example-2.jpg" alt="Chicago" style="width:100%; height:100%">
+            
+              <img src="images/pose.jpg" alt="Pose Estimation" style="" />
               <div class="carousel-caption d-none d-md-block">
-                <h3 style="color: #FFFFFF"> Second Image</h3>
-                <p> caption for the second image.</p>
+              <a href="https://www.youtube.com/watch?time_continue=1&v=MKVvQK8FawE">
+                <h3 style="color: #FFFFFF"> Pose Estimation</h3>
+                <p style="color: #FFFFFF"> We have been focusing on pose estimation problem over years. Check our demo by a single click! </p>
+                </a>
               </div>
-            </a>
+            
           </div>
         
           <div class="item">
             <a href="#">
-              <img src="images/gallery-example-3.jpg" alt="New york" style="width:100%; height:100%">
+              <img src="images/re-id.png" alt="Re-Identification" style="">
               <div class="carousel-caption d-none d-md-block">
-                <h3 style="color: #FFFFFF"> Third Image</h3>
-                <p>caption for the third image. </p>
+                <h3 style="color: #FFFFFF"> Person Re-Identification</h3>
+                <p> We have been focusing on person re-id problem over years.  </p>
               </div>
             </a>
           </div>
@@ -143,7 +145,7 @@ homepage: true
 
       <button class="list-group-item list-group-item-action list-group-item-success">
         <span class="badge badge-default badge-pill">14-Dec-2017</span>
-        We are hiring! Several Ph.D. positions are now available at USYD in computer vision. Candidates with strong academic background and/or solid programming skill are highly preferred. Before applying, please first look at <a href=""><strong>Application Guideline for SIGMA Lab</strong></a>. For Chinese candidates, please refer to <a href=""><strong>SIGMA Lab申请须知</strong></a>.
+        We are hiring! Several Ph.D. positions are now available at USYD in computer vision. Candidates with strong academic background and/or solid programming skill are highly preferred. Before applying, please first look at <a href="guidelines/guideline_eng.pdf"><strong>Application Guideline for SIGMA Lab</strong></a>. For Chinese candidates, please refer to <a href="guidelines/guideline_chinese.pdf"><strong>SIGMA Lab申请须知</strong></a>.
       </button>
       
       <button class="list-group-item list-group-item-action">
@@ -160,4 +162,6 @@ homepage: true
   </div>
 </div>
 
+<br>
+### Our Research
 ---
