@@ -81,7 +81,7 @@
 	background-image: url(images/index_title.jpg);
 	background-repeat-x:  no-repeat;
 	background-attachment: scroll;
-	background-size: 1840px;
+	background-size: 800px;
     }
 }
 
