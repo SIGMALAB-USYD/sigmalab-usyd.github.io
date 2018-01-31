@@ -10,7 +10,7 @@ format: frontpage
   
                   <div class="head-image" style="">
                     <div class="">
-                      <h1 class="head-title"> SIGMA Lab </h1>
+                      <h1 class="head-title" style=""> SIGMA Lab </h1>
                     </div>
                     <div >
                       <h3 class="head-subtitle" style="margin-top: 30px;color: #FFFFFF;"> <span style="color: #00AAAA">S</span>ydney <span style="color: #00AAAA">I</span>ntelli<span style="color: #00AAAA">G</span>ent <span style="color: #00AAAA">M</span>ultimedi<span style="color: #00AAAA">A</span> Laboratory <br>The University of Sydney </h3>
