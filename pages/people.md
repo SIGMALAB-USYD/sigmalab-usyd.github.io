@@ -55,7 +55,7 @@ permalink: "/people/"
 	  		<img src="../images/people/wanli_ouyang.jpeg" width="150" height="150">
 	  	</div>
 	  	<div class="row">
-	  		<a href="http://www.ee.cuhk.edu.hk/~wlouyang/">Wanli Ouyang</a>
+	  		<a href="https://wlouyang.github.io/">Wanli Ouyang</a>
 	  	</div>
 	  	<div class="row">
 	  		Senior Lecturer
