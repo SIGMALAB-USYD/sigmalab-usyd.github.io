@@ -100,7 +100,7 @@ homepage: true
               <img src="images/gbd-net.jpg" alt="GBD-Net for object detection" style="">
               <div class="carousel-caption d-none d-md-block">
                 <h3 style="color: #FFFFFF"> Object Detection </h3>
-                <p style="color: #FFFFFF"> We are conducting inspiring researches in general object detection. Our team won the 1st place of ILSVRC 2016. </p>
+                <p style="color: #FFFFFF"> We are conducting inspiring researches in general object detection. Our team won the 1st place of ILSVRC 2016. We are also working on the related topics including video detection and object tracking.</p>
               </div>
             </a>
           </div>
@@ -119,8 +119,8 @@ homepage: true
             <a href="#">
               <img src="images/re-id.png" alt="Re-Identification" style="">
               <div class="carousel-caption d-none d-md-block">
-                <h3 style="color: #FFFFFF"> Person Re-Identification</h3>
-                <p> We have been focusing on person re-id problem over years.  </p>
+                <h3 style="color: #FFFFFF"> Person Re-Identification (ReID)</h3>
+                <p> Given one query image of one specific person, a person ReID system is expected to provide all the images of the same person from a large gallery database. We have been focusing on person re-id problem over years. </p>
               </div>
             </a>
           </div>
