@@ -23,20 +23,20 @@ title: "SIGMA Lab @ USYD"
 sidebar: right
 
 widget1:
-  title: "Research 1"
-  url: '#'
-  image: widget-1-302x182.jpg
-  text: 'Our research about xxxxxxxxxxxxxxxxxxxxxxxxx <br/> is already online!'
+  title: "Pose Estimation"
+  url: 'https://youtu.be/fSLmi166Mdk'
+  video: '<iframe src="https://www.youtube.com/embed/fSLmi166Mdk" width="360" height="240" style="max-width: 100%; max-height: 150pt;"></iframe>'
+  text: 'Check out our demo for multi-person <br/> pose estimation!'
 widget2:
-  title: "Research 2"
-  url: '#'
-  text: 'our research about xxxxxxxxxxxxxxxxxxxxxxx <br/> is already online!'
-  video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""/></a>'
+  title: "Video Detection"
+  url: 'https://youtu.be/ZtbUcv_OIZg'
+  text: 'We are also conducting reseaches about detecting objects in videos, check out our demo!'
+  video: '<iframe src="https://www.youtube.com/embed/ZtbUcv_OIZg" width="360" height="240" style="max-width: 100%; max-height: 150pt;"></iframe>'
 widget3:
-  title: "Our Research 3"
-  url: '#'
-  image: widget-github-303x182.jpg
-  text: 'our research about xxxxxxxxxxxxxxxxxxxxxxx <br/> is already online!'
+  title: "Pose Tracking"
+  url: 'https://youtu.be/CiKJuAH2U8I'
+  video: '<iframe src="https://www.youtube.com/embed/CiKJuAH2U8I" width="360" height="240" style="max-width: 100%; max-height: 150pt;"></iframe>'
+  text: 'Our team won the 2nd place in the pose-track challnege.'
 
 #
 # Use the call for action to show a button on the frontpage
@@ -162,4 +162,6 @@ homepage: true
   </div>
 </div>
 
+<br>
+### Our Research
 ---
