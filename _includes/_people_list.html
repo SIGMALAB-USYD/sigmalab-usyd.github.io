@@ -1,0 +1,41 @@
+<div class="row">
+	{% if include.title %}
+	<div class="row">
+		<h3 class="medium-12">{{ include.title }}</h3>
+		<br/>
+	</div>
+	{% endif %}
+
+	{% for person in include.people %}
+		<div class="row">
+			{% for i in (1..4) %}
+				<div class="medium-2 columns person">
+					{% if person %}
+						{% if person.image %}
+						  	<div class="row">
+						  		<img src="{{ site.url }}{{ site.baseurl }}/images/people/{{ person.image }}" width="150" height="150">
+						  	</div>
+					  	{% endif %}
+					  	{% if person.name %}
+						  	<div class="row">
+						  		{% if person.url %}
+						  			<a href="{{person.url}}">{{person.name}}</a>
+						  		{% else %}
+						  			{{ person.name }}
+						  		{% endif %}
+						  	</div>
+					  	{% endif %}
+					  	{% if person.desc %}
+						  	<div class="row">
+						  		{{ person.desc }}
+						  	</div>
+					  	{% endif %}
+					{% endif %}
+				</div>
+			{% endfor %}
+			<div class="columns medium-offset-1"></div>
+		</div>
+	{% endfor %}
+</div>
+
+---

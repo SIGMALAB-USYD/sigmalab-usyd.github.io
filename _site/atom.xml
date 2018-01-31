@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="//assets/xslt/atom.xslt" ?>
+<?xml-stylesheet type="text/css" href="//assets/css/atom.css" ?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+	<id>http://localhost:4000//</id>
+	<title>SIGMA Lab</title>
+	<updated>2018-01-31T11:06:19+11:00</updated>
+
+	<subtitle>Welcome to the homepage of the SIGMA Lab at the Univeristy of Sydney</subtitle>
+
+	
+		
+		<author>
+			
+				<name>Shuyang Sun</name>
+			
+			
+			
+		</author>
+	
+
+	<link href="http://localhost:4000//atom.xml" rel="self" type="application/rss+xml" />
+	<link href="http://localhost:4000//" rel="alternate" type="text/html" />
+
+	<generator uri="http://jekyllrb.com" version="3.3.1">Jekyll</generator>
+
+	
+</feed>
