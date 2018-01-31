@@ -23,10 +23,10 @@ title: "SIGMA Lab @ USYD"
 sidebar: right
 
 widget1:
-  title: "Research 1"
-  url: '#'
+  title: "Pose Estimation"
+  url: ''
   image: widget-1-302x182.jpg
-  text: 'Our research about xxxxxxxxxxxxxxxxxxxxxxxxx <br/> is already online!'
+  text: 'Checkout our demo for <br/> pose estimation!'
 widget2:
   title: "Research 2"
   url: '#'
