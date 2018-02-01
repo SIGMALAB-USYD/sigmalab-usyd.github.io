@@ -38,6 +38,25 @@ widget3:
   video: '<iframe src="https://www.youtube.com/embed/AL-8XCzRFo0" width="360" height="240" style="max-width: 100%; max-height: 150pt;"></iframe>'
   text: 'Our team won the 2nd place in the pose-track challnege.'
 
+#
+# Use the call for action to show a button on the frontpage
+#
+# To make internal links, just use a permalink like this
+# url: /getting-started/
+#
+# To style the button in different colors, use no value
+# to use the main color or success, alert or secondary.
+# To change colors see sass/_01_settings_colors.scss
+#
+#callforaction:
+#  url: https://tinyletter.com/feeling-responsive
+#  text: Inform me about new updates and features ›
+#  style: alert
+permalink: /index.html
+#
+# This is a nasty hack to make the navigation highlight
+# this page as active in the topbar navigation
+#
 homepage: true
 
 ---
@@ -58,28 +77,11 @@ homepage: true
 
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
-      		{% include carousel_item.html  active="true" 
-             url="https://wlouyang.github.io/projects/GBD/index.html" 
-             image="images/gbd-net.jpg" 
-             alt="GBD-Net for object detection" 
-             title="Object Detection" 
-             caption="We are conducting inspiring researches in general object detection. Our team won the 1st place of ILSVRC 2016. We are also working on the related topics including video detection and object tracking." 
-          %}
+      		{% include carousel_item.html  active="true" url="https://wlouyang.github.io/projects/GBD/index.html" image="images/gbd-net.jpg" alt="GBD-Net for object detection" title="Object Detection" caption="We are conducting inspiring researches in general object detection. Our team won the 1st place of ILSVRC 2016. We are also working on the related topics including video detection and object tracking." %}
 
-          {% include carousel_item.html  
-             url="http://cvboy.com/publication/cvpr2017_vip_cnn/" 
-             image="images/relation.jpg" 
-             alt="Visual Relationship Detection" 
-             title="Visual Relationship Detection" 
-             caption="Visual relationship detection involves detecting and localizing pairs of interacting objects in an image and also classifying the predicate or interaction between them. We are now working on this challenging problem. Click to see the detail!" 
-          %}
+      		{% include carousel_item.html  url="http://cvboy.com/publication/cvpr2017_vip_cnn/" image="images/relation.jpg" alt="Visual Relationship Detection" title="Visual Relationship Detection" caption="Visual relationship detection involves detecting and localizing pairs of interacting objects in an image and also classifying the predicate or interaction between them. We are now working on this challenging problem. Click to see the detail!" %}
 
-          {% include carousel_item.html  
-             url="http://cvboy.com/publication/cvpr2017_vip_cnn/" 
-             image="images/re-id.png" alt="Re-Identification" 
-             title="Person Re-Identification (ReID)" 
-             caption="Given one query image of one specific person, a person ReID system is expected to provide all the images of the same person from a large gallery database. We have been focusing on person re-id problem over years." 
-          %}
+      		{% include carousel_item.html  url="http://cvboy.com/publication/cvpr2017_vip_cnn/" image="images/re-id.png" alt="Re-Identification" title="Person Re-Identification (ReID)" caption="Given one query image of one specific person, a person ReID system is expected to provide all the images of the same person from a large gallery database. We have been focusing on person re-id problem over years." %}
         </div>
 
         <!-- Left and right controls -->
@@ -185,7 +187,7 @@ homepage: true
 
 
 <div class="pc">
-  <br>
-  <h3> Our Research </h3> 
+<br>
+<h3> Our Research </h3> 
 </div>
 ---
