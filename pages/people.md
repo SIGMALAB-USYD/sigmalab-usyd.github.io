@@ -69,24 +69,6 @@ permalink: "/people/"
 
 <div class="row">
 	<div class="row">
-		<h3 class="medium-12">Alumni</h3>
-		<br/>
-	</div>
-	<div class="row">
-		Currently there is no alumni from our lab as we're just start-up! Come and join us!
-		{% include member.html %}
-
-		{% include member.html %}
-
-		{% include member.html %}
-
-		{% include member.html %}
-	</div>
-</div>
-
----
-<div class="row">
-	<div class="row">
 		<h3 class="medium-12">Research Collaborator</h3>
 		<br>
 	</div>
@@ -124,4 +106,22 @@ permalink: "/people/"
 	{% include collaborator.html url="http://www.ee.cuhk.edu.hk/~syi/" name="Shuai Yi" affil="SenseTime" %}
 </div>
 
+---
+
+<div class="row">
+	<div class="row">
+		<h3 class="medium-12">Alumni</h3>
+		<br/>
+	</div>
+	<div class="row">
+		Currently there is no alumni from our lab as we're just start-up! Come and join us!
+		{% include member.html %}
+
+		{% include member.html %}
+
+		{% include member.html %}
+
+		{% include member.html %}
+	</div>
+</div>
 
