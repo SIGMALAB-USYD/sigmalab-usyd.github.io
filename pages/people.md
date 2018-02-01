@@ -175,7 +175,7 @@ permalink: "/people/"
 		<br/>
 	</div>
 	<div class="row">
-	Currently no alumni from our lab as we're just start-up! Come and join us!
+	Currently there is no alumni from our lab as we're just start-up! Come and join us!
 	  <div class="medium-2 columns student1"></div>
 	  <div class="medium-2 columns medium-offset-1 student2"></div>
 	  <div class="medium-2 columns medium-offset-1 student3"></div>
