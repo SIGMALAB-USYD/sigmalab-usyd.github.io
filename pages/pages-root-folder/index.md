@@ -117,23 +117,20 @@ homepage: true
              image="images/gbd-net.jpg" 
              alt="GBD-Net for object detection" 
              title="Object Detection" 
-             caption="We are conducting inspiring researches in general object detection. Our team won the 1st place of ILSVRC 2016. We are also working on the related topics including video detection and object tracking." 
-          %}
+             caption="We are conducting inspiring researches in general object detection. Our team won the 1st place of ILSVRC 2016. We are also working on the related topics including video detection and object tracking." %}
 
           {% include carousel_item.html  
              url="http://cvboy.com/publication/cvpr2017_vip_cnn/" 
              image="images/relation.jpg" 
              alt="Visual Relationship Detection" 
              title="Visual Relationship Detection" 
-             caption="Visual relationship detection involves detecting and localizing pairs of interacting objects in an image and also classifying the predicate or interaction between them. We are now working on this challenging problem. Click to see the detail!" 
-          %}
+             caption="Visual relationship detection involves detecting and localizing pairs of interacting objects in an image and also classifying the predicate or interaction between them. We are now working on this challenging problem. Click to see the detail!" %}
 
           {% include carousel_item.html  
              url="http://cvboy.com/publication/cvpr2017_vip_cnn/" 
              image="images/re-id.png" alt="Re-Identification" 
              title="Person Re-Identification (ReID)" 
-             caption="Given one query image of one specific person, a person ReID system is expected to provide all the images of the same person from a large gallery database. We have been focusing on person re-id problem over years." 
-          %}
+             caption="Given one query image of one specific person, a person ReID system is expected to provide all the images of the same person from a large gallery database. We have been focusing on person re-id problem over years." %}
         </div>
 
         <!-- Left and right controls -->
@@ -156,8 +153,7 @@ homepage: true
     <div class="list-group" style="margin-left=0">
   		{% include news_item.html 
   			highlight="true" date="14-Dec-2017"
-  			content="We are hiring! Several Ph.D. positions are now available at USYD in computer vision. Candidates with strong academic background and/or solid programming skill are highly preferred. Before applying, please first look at <a href=\"guidelines/guideline_eng.pdf\"><strong>Application Guideline for SIGMA Lab</strong></a>. For Chinese candidates, please refer to <a href=\"guidelines/guideline_chinese.pdf\"><strong>SIGMA Lab申请须知</strong></a>."
-  		%}
+  			content="We are hiring! Several Ph.D. positions are now available at USYD in computer vision. Candidates with strong academic background and/or solid programming skill are highly preferred. Before applying, please first look at <a href=\"guidelines/guideline_eng.pdf\"><strong>Application Guideline for SIGMA Lab</strong></a>. For Chinese candidates, please refer to <a href=\"guidelines/guideline_chinese.pdf\"><strong>SIGMA Lab申请须知</strong></a>." %}
 
   		{% include news_item.html  date="14-Dec-2017" content="Our lab homepage is now onine!" %}
   		
@@ -174,8 +170,7 @@ homepage: true
 
   		{% include news_item.html 
   			highlight="true" date="14-Dec-2017"
-  			content="We are hiring! Several Ph.D. positions are now available at USYD in computer vision. Candidates with strong academic background and/or solid programming skill are highly preferred. Before applying, please first look at <a href=\"guidelines/guideline_eng.pdf\"><strong>Application Guideline for SIGMA Lab</strong></a>. For Chinese candidates, please refer to <a href=\"guidelines/guideline_chinese.pdf\"><strong>SIGMA Lab申请须知</strong></a>."
-  		%}
+  			content="We are hiring! Several Ph.D. positions are now available at USYD in computer vision. Candidates with strong academic background and/or solid programming skill are highly preferred. Before applying, please first look at <a href=\"guidelines/guideline_eng.pdf\"><strong>Application Guideline for SIGMA Lab</strong></a>. For Chinese candidates, please refer to <a href=\"guidelines/guideline_chinese.pdf\"><strong>SIGMA Lab申请须知</strong></a>." %}
 
   		{% include news_item.html  date="14-Dec-2017" content="Our lab homepage is now onine!" %}
   		
@@ -190,4 +185,5 @@ homepage: true
 <br>
 <h3> Our Research </h3> 
 </div>
+
 ---
