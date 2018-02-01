@@ -8,36 +8,6 @@ header:
    image_fullwidth: 
 permalink: "/people/"
 
-# title1: Faculty
-# people1:
-# 	- image: wanli_ouyang.jpeg
-# 	  name: Wanli Ouyang
-# 	  desc: Senior Lecturer
-# 	  url: http://www.ee.cuhk.edu.hk/~wlouyang/
-
-# title2: Postgraduate Students
-# people2:
-# 	- images: shuyang_sun.png
-# 	  name: Shuyang Sun
-# 	  desc: M.Phil.
-# 	  url: https://kevin-ssy.github.io/
-# 	- images: geng_zhan.jpg
-# 	  name: Geng Zhan
-# 	  desc: M.Phil.-Ph.D.
-# 	  url: https://gengz.github.io/
-
-# title3: Visiting Students
-# people3:
-# 	- images: guo_lu.png
-# 	  name: Guo Lu
-# 	  desc: Ph.D from SJTU
-# 	- images: yingyue_xu.jpeg
-# 	  name: Yingyue Xu
-# 	  desc: Ph.D. from University of Oulu
-
-# {% include _people_list.html people=page.people1 title=page.title1 %}
-# {% include _people_list.html people=page.people2 title=page.title2 %}
-# {% include _people_list.html people=page.people3 title=page.title3 %}
 
 ---
 
@@ -50,41 +20,10 @@ permalink: "/people/"
 	</div>
 	
 	<div class="row">
-	  <div class="columns small-3 faculty1">
-	  	<div class="row">
-	  		<img src="../images/people/wanli_ouyang.jpeg" width="150" height="150">
-	  	</div>
-	  	<div class="row">
-	  		<a href="https://wlouyang.github.io/">Wanli Ouyang</a>
-	  	</div>
-	  	<div class="row">
-	  		Senior Lecturer
-	  	</div>
-	  </div>
-
-
-	  <div class="columns small-3 faculty2">
-	  	<div class="row">
-	  	</div>
-	  	<div class="row">
-	  	</div>
-	  	<div class="row">
-	  	</div>
-	  </div>
-
-
-	  <div class="columns small-3 faculty3">
-	  	<div class="row">
-	  	</div>
-	  	<div class="row">
-	  	</div>
-	  	<div class="row">
-	  	</div>
-	  </div>
-
-
-	  <div class="columns small-offset-1"></div>
+		{% include member.html photo="../images/people/wanli_ouyang.jpeg" homepage="https://wlouyang.github.io/" name="Wanli Ouyang" title="Senior Lecturer" %}
 	</div>
+
+
 </div>
 
 ---
@@ -96,34 +35,14 @@ permalink: "/people/"
 	</div>
 	
 	<div class="row">
-		<div class="small-3 columns student1">
-		  	<div class="row">
-		  		<img src="../images/people/shuyang_sun.png" width="150" height="150">
-		  	</div>
-		  	<div class="row">
-		  		<a href="https://kevin-ssy.github.io/">Shuyang Sun</a>
-		  	</div>
-		  	<div class="row">
-		  		M.Phil.
-		  	</div>
-		</div>
+		{% include member.html photo="../images/people/shuyang_sun.png" homepage="https://kevin-ssy.github.io/" name="Shuyang Sun" title="M.Phil." %}
 
+		{% include member.html photo="../images/people/geng_zhan.jpg" homepage="https://gengz.github.io/" name="Geng Zhan" title="M.Phil.-Ph.D." %}
+		
+		{% include member.html %}
 
-		<div class="small-3 columns student2">
-		  	<div class="row">
-		  		<img src="../images/people/geng_zhan.jpg" width="150" height="150">
-		  	</div>
-		  	<div class="row">
-		  		<a href="https://gengz.github.io/">Geng Zhan</a>
-		  	</div>
-		  	<div class="row">
-		  		M.Phil.-Ph.D.
-		  	</div>
-		</div>
+		{% include member.html %}
 
-
-		<div class="small-3 columns student3"></div>
-		<div class="small-3 columns student4"></div>
 	</div>
 </div>
 
@@ -135,35 +54,14 @@ permalink: "/people/"
 		<br/>
 	</div>
 	<div class="row">
-		<div class="small-3 columns student1">
-		  	<div class="row">
-		  		<img src="../images/people/guo_lu.png" width="150" height="150">
-		  	</div>
-		  	<div class="row">
-		  		Guo Lu
-		  	</div>
-		  	<div class="row">
-		  		Ph.D. from SJTU
-		  	</div>
-		</div>
 
+		{% include member.html photo="../images/people/guo_lu.png" name="Guo Lu" title="Ph.D. from SJTU" %}
 
-		<div class="small-3 columns student2">
-		  	<div class="row">
-		  		<img src="../images/people/yingyue_xu.jpeg" width="150" height="150">
-		  	</div>
-		  	<div class="row">
-		  		Yingyue Xu
-		  	</div>
-		  	<div class="row">
-		  		Ph.D. from Univ. of Oulu
-		  	</div>
-		</div>
+		{% include member.html photo="../images/people/yingyue_xu.jpeg" name="Yingyue Xu" title="Ph.D. from Univ. of Oulu" %}
+		
+		{% include member.html %}
 
-
-		<div class="small-3 columns student3"></div>
-		<div class="small-3 columns student4"></div>
-		<div class="columns medium-offset-1"></div>
+		{% include member.html %}
 	</div>
 </div>
 
@@ -175,25 +73,55 @@ permalink: "/people/"
 		<br/>
 	</div>
 	<div class="row">
-	Currently there is no alumni from our lab as we're just start-up! Come and join us!
-	  <div class="medium-2 columns student1"></div>
-	  <div class="medium-2 columns medium-offset-1 student2"></div>
-	  <div class="medium-2 columns medium-offset-1 student3"></div>
-	  <div class="medium-2 columns medium-offset-1 student4"></div>
-	  <div class="columns medium-offset-1"></div>
-	</div>
-	<div class="row">
-		  <div class="medium-2 columns student1"></div>
-		  <div class="medium-2 columns medium-offset-1 student2"></div>
-		  <div class="medium-2 columns medium-offset-1 student3"></div>
-		  <div class="medium-2 columns medium-offset-1 student4"></div>
-		  <div class="columns medium-offset-1"></div>
-	</div>
-	<div class="row">
-	  <div class="medium-2 columns student1"></div>
-	  <div class="medium-2 columns medium-offset-1 student2"></div>
-	  <div class="medium-2 columns medium-offset-1 student3"></div>
-	  <div class="medium-2 columns medium-offset-1 student4"></div>
-	  <div class="columns medium-offset-1"></div>
+		Currently there is no alumni from our lab as we're just start-up! Come and join us!
+		{% include member.html %}
+
+		{% include member.html %}
+
+		{% include member.html %}
+
+		{% include member.html %}
 	</div>
 </div>
+
+---
+<div class="row">
+	<div class="row">
+		<h3 class="medium-12">Research Collaborator</h3>
+		<br>
+	</div>
+
+	{% include collaborator.html url="http://www.ee.cuhk.edu.hk/~xgwang/" name="Xiaogang Wang" affil="CUHK" %}
+
+	{% include collaborator.html url="https://www.ie.cuhk.edu.hk/people/xotang.shtml" name="Xiao'ou Tang" affil="CUHK" %}
+
+	{% include collaborator.html url="http://www.ee.cuhk.edu.hk/~hsli/" name="Hongsheng Li" affil="CUHK" %}
+
+	{% include collaborator.html url="http://personal.ie.cuhk.edu.hk/~ccloy/" name="Cavan Loy" affil="CUHK" %}
+
+	{% include collaborator.html url="http://dahua.me/" name="Dahua Lin" affil="CUHK" %}
+
+	{% include collaborator.html url="http://www.cs.jhu.edu/~ayuille/" name="Alan Yuille" affil="JHU" %}
+
+	{% include collaborator.html url="http://disi.unitn.it/~sebe/" name="Nicu Sebe" affil="U. of Trento" %}
+
+	{% include collaborator.html url="https://sydney.edu.au/engineering/people/dong.xu.php" name="Dong Xu" affil="USYD" %}
+
+	{% include collaborator.html url="https://www.uts.edu.au/staff/yi.yang" name="Yi Yang" affil="UTS" %}
+
+	{% include collaborator.html url="http://www.cbsr.ia.ac.cn/users/liangwang/" name="Liang Wang" affil="CASIA" %}
+
+	{% include collaborator.html url="http://gr.xjtu.edu.cn/web/jrxue/home" name="Jianru Xue" affil="XJTU" %}
+
+	{% include collaborator.html url="http://www.linliang.net/" name="Liang Lin" affil="SYSU" %}
+
+	{% include collaborator.html url="http://web.xidian.edu.cn/qgmiao/en/index.html" name="Qiguang Miao" affil="Xidian U." %}
+
+	{% include collaborator.html url="http://mmlab.siat.ac.cn/yuqiao/" name="Yu Qiao" affil="SIAT" %}
+
+	{% include collaborator.html url="http://www.cbsr.ia.ac.cn/users/jjyan/main.htm" name="Junjie Yan" affil="SenseTime" %}
+
+	{% include collaborator.html url="http://www.ee.cuhk.edu.hk/~syi/" name="Shuai Yi" affil="SenseTime" %}
+</div>
+
+
