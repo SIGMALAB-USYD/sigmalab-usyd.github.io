@@ -1,0 +1,4 @@
+<button class="list-group-item list-group-item-action {% if include.highlight contains 'true' %} list-group-item-success {% endif %}">
+        <span class="badge badge-default badge-pill">{{ include.date }}</span>
+        {{ include.content }}
+</button>
