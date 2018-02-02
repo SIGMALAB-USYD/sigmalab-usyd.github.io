@@ -1,10 +1,10 @@
 ---
 layout: page
 title: "About"
-subheadline: "Why another Jekyll Theme?"
-teaser: "This is the homepage of the multimedia laboratory @ USYD."
+subheadline: ""
+teaser: "This is the homepage of the SIGMA laboratory @ USYD."
 permalink: "/info/"
 header:
-    image_fullwidth: "header_drop.jpg"
+    image_fullwidth: "index_title.jpg"
 ---
 Under construction.

@@ -69,7 +69,7 @@ permalink: "/people/"
 
 <div class="row">
 	<div class="row">
-		<h3 class="medium-12">Research Collaborator</h3>
+		<h3 class="medium-12">Research Collaborators</h3>
 		<br>
 	</div>
 
