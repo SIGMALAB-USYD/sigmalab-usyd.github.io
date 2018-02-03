@@ -165,6 +165,7 @@ homepage: true
 </div>
 
 <div class="column small-12 mobile">
+    <br>
     <h3>News</h3>
     <div class="list-group" style="margin-left=0">
 
