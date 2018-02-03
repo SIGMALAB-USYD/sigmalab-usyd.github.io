@@ -73,33 +73,39 @@ permalink: "/people/"
 		<br>
 	</div>
 
-	{% include collaborator.html url="http://www.ee.cuhk.edu.hk/~xgwang/" name="Xiaogang Wang" affil="CUHK" %}
+	{% include collaborator.html url="http://www.ee.cuhk.edu.hk/~xgwang/" name="Xiaogang Wang" affil="Chinese Univ. of Hong Kong" %}
 
-	{% include collaborator.html url="https://www.ie.cuhk.edu.hk/people/xotang.shtml" name="Xiao'ou Tang" affil="CUHK" %}
+	{% include collaborator.html url="https://www.ie.cuhk.edu.hk/people/xotang.shtml" name="Xiao'ou Tang" affil="Chinese Univ. of Hong Kong" %}
 
-	{% include collaborator.html url="http://www.ee.cuhk.edu.hk/~hsli/" name="Hongsheng Li" affil="CUHK" %}
+	{% include collaborator.html url="http://www.ee.cuhk.edu.hk/~wkcham/welcome.html" name="Wai-kuen Cham" affil="Chinese Univ. of Hong Kong" %}
 
-	{% include collaborator.html url="http://personal.ie.cuhk.edu.hk/~ccloy/" name="Cavan Loy" affil="CUHK" %}
+	{% include collaborator.html url="http://www.ee.cuhk.edu.hk/~hsli/" name="Hongsheng Li" affil="Chinese Univ. of Hong Kong" %}
 
-	{% include collaborator.html url="http://dahua.me/" name="Dahua Lin" affil="CUHK" %}
+	{% include collaborator.html url="http://personal.ie.cuhk.edu.hk/~ccloy/" name="Cavan Loy" affil="Chinese Univ. of Hong Kong" %}
 
-	{% include collaborator.html url="http://www.cs.jhu.edu/~ayuille/" name="Alan Yuille" affil="JHU" %}
+	{% include collaborator.html url="http://dahua.me/" name="Dahua Lin" affil="Chinese Univ. of Hong Kong" %}	
 
-	{% include collaborator.html url="http://disi.unitn.it/~sebe/" name="Nicu Sebe" affil="U. of Trento" %}
+	{% include collaborator.html url="http://www.cs.jhu.edu/~ayuille/" name="Alan Yuille" affil="John Hopkins Univ." %}
 
-	{% include collaborator.html url="https://sydney.edu.au/engineering/people/dong.xu.php" name="Dong Xu" affil="USYD" %}
+	{% include collaborator.html url="http://disi.unitn.it/~sebe/" name="Nicu Sebe" affil="Univ. of Trento" %}
 
-	{% include collaborator.html url="https://www.uts.edu.au/staff/yi.yang" name="Yi Yang" affil="UTS" %}
+	{% include collaborator.html url="https://sites.google.com/site/elisaricciunipg/home" name="Elisa Ricci" affil="Univ. of Perugia" %}
 
-	{% include collaborator.html url="http://www.cbsr.ia.ac.cn/users/liangwang/" name="Liang Wang" affil="CASIA" %}
+	{% include collaborator.html url="http://xavirema.eu/" name="Xavier Alameda-Pineda" affil="INRIA" %}
 
-	{% include collaborator.html url="http://gr.xjtu.edu.cn/web/jrxue/home" name="Jianru Xue" affil="XJTU" %}
+	{% include collaborator.html url="https://sydney.edu.au/engineering/people/dong.xu.php" name="Dong Xu" affil="Univ. of Sydney" %}
 
-	{% include collaborator.html url="http://www.linliang.net/" name="Liang Lin" affil="SYSU" %}
+	{% include collaborator.html url="https://www.uts.edu.au/staff/yi.yang" name="Yi Yang" affil="Univ. of Technology Sydney" %}
 
-	{% include collaborator.html url="http://web.xidian.edu.cn/qgmiao/en/index.html" name="Qiguang Miao" affil="Xidian U." %}
+	{% include collaborator.html url="http://www.cbsr.ia.ac.cn/users/liangwang/" name="Liang Wang" affil="Institute of Automation, Chinese Academy of Sciences" %}
 
-	{% include collaborator.html url="http://mmlab.siat.ac.cn/yuqiao/" name="Yu Qiao" affil="SIAT" %}
+	{% include collaborator.html url="http://gr.xjtu.edu.cn/web/jrxue/home" name="Jianru Xue" affil="Xi'an Jiao Tong Univ." %}
+
+	{% include collaborator.html url="http://www.linliang.net/" name="Liang Lin" affil="Sun Yat-Sen Univ." %}
+
+	{% include collaborator.html url="http://web.xidian.edu.cn/qgmiao/en/index.html" name="Qiguang Miao" affil="Xidian Univ." %}
+
+	{% include collaborator.html url="http://mmlab.siat.ac.cn/yuqiao/" name="Yu Qiao" affil="Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences" %}
 
 	{% include collaborator.html url="http://www.cbsr.ia.ac.cn/users/jjyan/main.htm" name="Junjie Yan" affil="SenseTime" %}
 
