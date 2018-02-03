@@ -83,12 +83,11 @@
 	background-attachment: scroll;
 	background-size: 800px;
     }
-}
 
-
-@media screen and (max-width: 800px) {
-	.row{
+    .row {
 		margin-left: 0 ! important;	
+		margin-right: 0 ! important;
 	}
 }
+
 
