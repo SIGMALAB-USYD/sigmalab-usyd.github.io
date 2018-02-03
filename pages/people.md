@@ -122,9 +122,9 @@ permalink: "/people/"
 
 	{% include collaborator.html url="http://www.ee.cuhk.edu.hk/~rzhao/" name="Rui Zhao" affil="R&D VP at SenseNet" %}
 
-	{% include collaborator.html url="http://www.ee.cuhk.edu.hk/~xyzeng/xyzeng_files/cv/CV_Xingyu%20Zeng.pdf" name="Xingyu Zeng" affil="R&D Director at SenseTime" %}
+	{% include collaborator.html url="http://www.ee.cuhk.edu.hk/~xyzeng/xyzeng_files/cv/CV_Xingyu%20Zeng.pdf" name="Xingyu Zeng" affil="Senior Researcher at SenseTime" %}
 
-	{% include collaborator.html url="http://www.ee.cuhk.edu.hk/~syi/" name="Shuai Yi" affil="R&D Director at SenseTime" %}
+	{% include collaborator.html url="http://www.ee.cuhk.edu.hk/~syi/" name="Shuai Yi" affil="Senior Researcher at SenseTime" %}
 
 	{% include collaborator.html url="http://www.ee.cuhk.edu.hk/~xchu/" name="Xiao Chu" affil="Research Scientist at Baidu USA" %}
 
