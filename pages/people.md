@@ -73,6 +73,11 @@ permalink: "/people/"
 		<br>
 	</div>
 
+	<div class="row">
+		<h5 class="medium-12">Professors & Researchers</h5>
+		<br>
+	</div>
+
 	{% include collaborator.html url="http://www.ee.cuhk.edu.hk/~xgwang/" name="Xiaogang Wang" affil="Chinese Univ. of Hong Kong" %}
 
 	{% include collaborator.html url="https://www.ie.cuhk.edu.hk/people/xotang.shtml" name="Xiao'ou Tang" affil="Chinese Univ. of Hong Kong" %}
@@ -109,7 +114,23 @@ permalink: "/people/"
 
 	{% include collaborator.html url="http://www.cbsr.ia.ac.cn/users/jjyan/main.htm" name="Junjie Yan" affil="SenseTime" %}
 
-	{% include collaborator.html url="http://www.ee.cuhk.edu.hk/~syi/" name="Shuai Yi" affil="SenseTime" %}
+
+	<div class="row">
+		<h5 class="medium-12">Former Graduated Students in CUHK</h5>
+		<br>
+	</div>
+
+	{% include collaborator.html url="http://www.ee.cuhk.edu.hk/~rzhao/" name="Rui Zhao" affil="R&D VP at SenseNet" %}
+
+	{% include collaborator.html url="http://www.ee.cuhk.edu.hk/~xyzeng/xyzeng_files/cv/CV_Xingyu%20Zeng.pdf" name="Xingyu Zeng" affil="R&D Director at SenseTime" %}
+
+	{% include collaborator.html url="http://www.ee.cuhk.edu.hk/~syi/" name="Shuai Yi" affil="R&D Director at SenseTime" %}
+
+	{% include collaborator.html url="http://www.ee.cuhk.edu.hk/~xchu/" name="Xiao Chu" affil="Research Scientist at Baidu USA" %}
+
+	{% include collaborator.html url="http://xiaotong.me/" name="Tong Xiao" affil="Research Scientist at Facebook Oculus" %}
+
+	{% include collaborator.html url="http://kangk.ai/" name="Kai Kang" affil="CV/ML Engineer at Apple" %}
 </div>
 
 ---
