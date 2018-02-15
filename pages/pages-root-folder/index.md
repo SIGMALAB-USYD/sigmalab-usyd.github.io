@@ -153,7 +153,7 @@ homepage: true
     <div class="list-group" style="margin-left=0">
   		{% include news_item.html 
   			highlight="true" date="14-Dec-2017"
-  			content="We are hiring! Several Ph.D. positions are now available at USYD in computer vision. Candidates with strong academic background and/or solid programming skill are highly preferred. Before applying, please first look at <a href=\"guidelines/guideline_eng.pdf\"><strong>Application Guideline for SIGMA Lab</strong></a>. For Chinese candidates, please refer to <a href=\"guidelines/guideline_chinese.pdf\"><strong>SIGMA Lab申请须知</strong></a>." %}
+  			content="We are hiring! Several Ph.D. positions are now available at USYD in computer vision. Candidates with strong academic background and/or solid programming skill are highly preferred. Before applying, please first look at <a href=\"guidelines/guideline_eng.pdf\"><strong>Application Guideline for SIGMA Lab</strong></a>. For Chinese candidates, please refer to <a href=\"guidelines/guideline_chinese.pdf\"><strong>SIGMA Lab申请须知</strong></a> and <a href=\"guidelines/scholarship_chi.pdf\"><strong>悉尼大学奖学金申请须知</strong></a>." %}
 
   		{% include news_item.html  date="14-Dec-2017" content="Our lab homepage is now onine!" %}
   		
