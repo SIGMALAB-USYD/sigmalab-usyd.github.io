@@ -182,6 +182,8 @@ Ouyang, W., Wang, X. (2012). A Discriminative Deep Model for Pedestrian Detectio
 Ouyang, W., Tombari, F., Mattoccia, S., Di Stefano, L., Cham, W. (2012). Performance evaluation of full search equivalent Pattern matching algorithms. IEEE Transactions on Pattern Analysis and Machine Intelligence, 34(1), 127-143. 
 \[[pdf]()\] \[[code&project page]()\]
 
+Wanli Ouyang, Renqi Zhang and Wai-Kuen Cham, "Fast pattern matching using orthogonal Haar transform ", In Proc. IEEE CVPR 2010.
+
 Renqi Zhang, Wanli Ouyang and Wai-Kuen Cham, "Image Deblocking using Dual Adaptive FIR Wiener Filter in the DCT Transform Domain," In Proc. IEEE Int. Conf. Acoustics, Speech, and Signal Processing, ICASSP 2009, Taiwan, April 19-24, 2009, pp.1181-1184.
 
 Renqi Zhang, Wanli Ouyang and Wai-Kuen Cham, "Image Multi-scale Edge Detection using 3-D Hidden Markov Model based on the Non-decimated Wavelet," In Proc. 2009 IEEE International Conference on Image Processing (ICIP), Cairo, Egypt, November 7-10, 2009, pp.2173-2176.
