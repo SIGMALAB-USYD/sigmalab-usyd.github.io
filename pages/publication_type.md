@@ -21,36 +21,25 @@ permalink: "/publication_type/"
 \[[sort by type](/publication_type/)\]	\[[sort by date](/publication/)\]
 
 
-### Journal Papers
-
-Zeng, X., Ouyang, W., Yan, J., Li, H., Xiao, T., Wang, K., Liu, Y., Zhou, Y., Yang, B., Wang, Z., et al (2017). Crafting GBD-Net for Object Detection [In Press]. IEEE Transactions on Pattern Analysis and Machine Intelligence. 
-\[[pdf]()\] \[[code&project page]()\]
-
-Ouyang, W., Zeng, X., Wang, X., Qiu, S., Luo, P., Tian, Y., Li, H., Yang, S., Wang, Z., Li, H., et al (2017). DeepID-Net: Object Detection with Deformable Part Based Convolutional Neural Networks. IEEE Transactions on Pattern Analysis and Machine Intelligence, 39(7), 1320-1334. 
-
-Ouyang, W., Zhao, T., Cham, W., Wei, L. (2017). Fast Full-Search Equivalent Pattern Matching Using Asymmetric Haar Wavelet Packets [In Press]. IEEE Transactions on Circuits and Systems for Video Technology. 
-
-Ouyang, W., Zhou, H., Li, H., Li, Q., Yan, J., Wang, X. (2017). Jointly learning deep features, deformable parts, occlusion and classification for pedestrian detection [In Press]. IEEE Transactions on Pattern Analysis and Machine Intelligence. 
-
-Zhao, R., Ouyang, W., Wang, X. (2017). Person Re-Identification by Saliency Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence, 39(2), 356-370. 
-
-Kang, K., Li, H., Yan, J., Zeng, X., Yang, B., Xiao, T., Zhang, C., Wang, Z., Wang, R., Wang, X., et al (2017). T-CNN:Tubelets with Convolutional Neural Networks for Object Detection from Videos [In Press]. IEEE Transactions on Circuits and Systems for Video Technology. 
-
-Ouyang, W., Zeng, X., Wang, X. (2016). Learning Mutual Visibility Relationship for Pedestrian Detection with a Deep Model. International Journal of Computer Vision, 120(1), 14-27. 
-
-Ouyang, W., Zeng, X., Wang, X. (2016). Partial Occlusion Handling in Pedestrian Detection With a Deep Model. IEEE Transactions on Circuits and Systems for Video Technology, 26(11), 2123-2137. 
-
-Ouyang, W., Zeng, X., Wang, X. (2015). Single-pedestrian detection aided by two-pedestrian detection. IEEE Transactions on Pattern Analysis and Machine Intelligence, 37(9), 1875-1889. 
-
-Ouyang, W., Zhang, R., Cham, W. (2013). Segmented gray-code kernels for fast pattern matching. IEEE Transactions on Image Processing, 22(4), 1512-1525. 
-
-Ouyang, W., Tombari, F., Mattoccia, S., Di Stefano, L., Cham, W. (2012). Performance evaluation of full search equivalent Pattern matching algorithms. IEEE Transactions on Pattern Analysis and Machine Intelligence, 34(1), 127-143. 
-
-Tombari, F., Ouyang, W., Di Stefano, L., Cham, W. (2011). Adaptive Low Resolution Pruning for fast Full Search-equivalent pattern matching. Pattern Recognition Letters, 32(15), 2119-2127. 
-
-Zhang, R., Ouyang, W., Cham, W. (2011). Image postprocessing by Non-local Kuan's filter. Journal of Visual Communication and Image Representation, 22(3), 251-262. 
-
 ### Conference Papers
+
+Xuanyi Dong, Yan Yan, Wanli Ouyang, Yi Yang. "Style Aggregated Network for Facial Landmark Detection", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+
+Yikang Li, Nan Duan, Bolei Zhou, Xiao Chu, Wanli Ouyang, Xiaogang Wang. "Visual Question Generation as Dual Task of Visual Question Answering", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+
+Jing Xu, Rui Zhao, Feng Zhu, Huaming Wang, Wanli Ouyang. "Attention-aware Compositional Network for Person Re-Identication", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+
+YuWu, Yutian Lin, Xuanyi Dong, Yan Yan,Wanli Ouyang, Yi Yang. "Exploit the Unknown Gradually: One-Shot Video-Based Person Re-Identication by Stepwise Learning", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+
+Wei Yang, Wanli Ouyang, Xiaolong Wang, Xiaogang Wang. "3D Human Pose Estimation in the Wild by Adversarial Learning", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+
+Weichen Zhang, Wanli Ouyang, Dong Xu, Wen Li. "Collaborative and Adversarial Network for Unsupervised domain adaptation", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+
+Shuyang Sun, Zhanghui Kuang, Lu Sheng, Wanli Ouyang, Wei Zhang. "Optical Flow Guided Feature: A Motion Representation for Video Action Recognition", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+
+Dan Xu, Wanli Ouyang, Xiaogang Wang, Nicu Sebe. "PAD-Net: Multi-Tasks Guided Prediciton-and-Distillation Network for Simultaneous Depth Estimation and Scene Parsing ", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+
+Chunfeng Song, Yan Huang, Liang Wang, Wanli Ouyang. "Mask-guided Contrastive Attention Model for Person Re-Identication ", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
 
 Ouyang, W., Wang, K., Zhu, X., Wang, X. (2017). Chained Cascade Network for Object Detection. International Conference on Computer Vision (ICCV 2017).
 
@@ -125,4 +114,33 @@ Zhao, R., Ouyang, W., Wang, X. (2013). Unsupervised Salience Learning for Person
 Zhao, R., Ouyang, W., Wang, X. (2013). Unsupervised Salience Learning for Person Re-identification. 2013 IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2013). 
 
 Ouyang, W., Wang, X. (2012). A Discriminative Deep Model for Pedestrian Detection with Occlusion Handling. 2012 IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2012), Providence: (IEEE) Institute of Electrical and Electronics Engineers. 
+
+### Journal Papers
+
+Zeng, X., Ouyang, W., Yan, J., Li, H., Xiao, T., Wang, K., Liu, Y., Zhou, Y., Yang, B., Wang, Z., et al (2017). Crafting GBD-Net for Object Detection [In Press]. IEEE Transactions on Pattern Analysis and Machine Intelligence. 
+\[[pdf]()\] \[[code&project page]()\]
+
+Ouyang, W., Zeng, X., Wang, X., Qiu, S., Luo, P., Tian, Y., Li, H., Yang, S., Wang, Z., Li, H., et al (2017). DeepID-Net: Object Detection with Deformable Part Based Convolutional Neural Networks. IEEE Transactions on Pattern Analysis and Machine Intelligence, 39(7), 1320-1334. 
+
+Ouyang, W., Zhao, T., Cham, W., Wei, L. (2017). Fast Full-Search Equivalent Pattern Matching Using Asymmetric Haar Wavelet Packets [In Press]. IEEE Transactions on Circuits and Systems for Video Technology. 
+
+Ouyang, W., Zhou, H., Li, H., Li, Q., Yan, J., Wang, X. (2017). Jointly learning deep features, deformable parts, occlusion and classification for pedestrian detection [In Press]. IEEE Transactions on Pattern Analysis and Machine Intelligence. 
+
+Zhao, R., Ouyang, W., Wang, X. (2017). Person Re-Identification by Saliency Learning. IEEE Transactions on Pattern Analysis and Machine Intelligence, 39(2), 356-370. 
+
+Kang, K., Li, H., Yan, J., Zeng, X., Yang, B., Xiao, T., Zhang, C., Wang, Z., Wang, R., Wang, X., et al (2017). T-CNN:Tubelets with Convolutional Neural Networks for Object Detection from Videos [In Press]. IEEE Transactions on Circuits and Systems for Video Technology. 
+
+Ouyang, W., Zeng, X., Wang, X. (2016). Learning Mutual Visibility Relationship for Pedestrian Detection with a Deep Model. International Journal of Computer Vision, 120(1), 14-27. 
+
+Ouyang, W., Zeng, X., Wang, X. (2016). Partial Occlusion Handling in Pedestrian Detection With a Deep Model. IEEE Transactions on Circuits and Systems for Video Technology, 26(11), 2123-2137. 
+
+Ouyang, W., Zeng, X., Wang, X. (2015). Single-pedestrian detection aided by two-pedestrian detection. IEEE Transactions on Pattern Analysis and Machine Intelligence, 37(9), 1875-1889. 
+
+Ouyang, W., Zhang, R., Cham, W. (2013). Segmented gray-code kernels for fast pattern matching. IEEE Transactions on Image Processing, 22(4), 1512-1525. 
+
+Ouyang, W., Tombari, F., Mattoccia, S., Di Stefano, L., Cham, W. (2012). Performance evaluation of full search equivalent Pattern matching algorithms. IEEE Transactions on Pattern Analysis and Machine Intelligence, 34(1), 127-143. 
+
+Tombari, F., Ouyang, W., Di Stefano, L., Cham, W. (2011). Adaptive Low Resolution Pruning for fast Full Search-equivalent pattern matching. Pattern Recognition Letters, 32(15), 2119-2127. 
+
+Zhang, R., Ouyang, W., Cham, W. (2011). Image postprocessing by Non-local Kuan's filter. Journal of Visual Communication and Image Representation, 22(3), 251-262. 
 
