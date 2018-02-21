@@ -20,6 +20,26 @@ permalink: "/publication/"
 
 \[[sort by type](/publication_type/)\]	\[[sort by date](/publication/)\]
 
+### 2018
+
+Xuanyi Dong, Yan Yan, Wanli Ouyang, Yi Yang. "Style Aggregated Network for Facial Landmark Detection", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+
+Yikang Li, Nan Duan, Bolei Zhou, Xiao Chu, Wanli Ouyang, Xiaogang Wang. "Visual Question Generation as Dual Task of Visual Question Answering", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+
+Jing Xu, Rui Zhao, Feng Zhu, Huaming Wang, Wanli Ouyang. "Attention-aware Compositional Network for Person Re-Identication", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+
+YuWu, Yutian Lin, Xuanyi Dong, Yan Yan,Wanli Ouyang, Yi Yang. "Exploit the Unknown Gradually: One-Shot Video-Based Person Re-Identication by Stepwise Learning", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+
+Wei Yang, Wanli Ouyang, Xiaolong Wang, Xiaogang Wang. "3D Human Pose Estimation in the Wild by Adversarial Learning", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+
+Weichen Zhang, Wanli Ouyang, Dong Xu, Wen Li. "Collaborative and Adversarial Network for Unsupervised domain adaptation", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+
+Shuyang Sun, Zhanghui Kuang, Lu Sheng, Wanli Ouyang, Wei Zhang. "Optical Flow Guided Feature: A Motion Representation for Video Action Recognition", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+
+Dan Xu, Wanli Ouyang, Xiaogang Wang, Nicu Sebe. "PAD-Net: Multi-Tasks Guided Prediciton-and-Distillation Network for Simultaneous Depth Estimation and Scene Parsing ", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+
+Chunfeng Song, Yan Huang, Liang Wang, Wanli Ouyang. "Mask-guided Contrastive Attention Model for Person Re-Identication ", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+
 ### 2017
 
 Ouyang, W., Wang, K., Zhu, X., Wang, X. (2017). Chained Cascade Network for Object Detection. International Conference on Computer Vision (ICCV 2017).
