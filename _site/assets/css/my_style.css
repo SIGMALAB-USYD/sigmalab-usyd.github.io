@@ -39,15 +39,26 @@
     margin-top: 10pt !important;
 }
 
+
+
 @media screen and (min-width: 800px) {
     .mobile {
 	display: none;
     }
 
-    .head-title{
+    .head{
+	padding-top: 10%;
+    	padding-bottom: 10%;
+    	min-width: 250px;
+    }
+
+    .head-text{
 	color: #FFFFFF;
-	margin-left: 150px;
-	padding-top: 150px;
+	padding-left: 50px;
+    	background-color: rgba(0,0,0,0.5);
+    	padding-bottom: 50px;
+    	padding-top: 50px;
+	max-width: 800px;
     }
     .head-subtitle{
 	margin-left: 150px;
@@ -55,10 +66,15 @@
     }
 
     .head-image {
-	background-image: url(images/index_title.jpg);
+	background-image: url(images/usyd_bg.jpg);
 	background-repeat-x:  no-repeat;
 	background-attachment: scroll;
-	background-size: 1840px;
+	background-size: cover;
+    }
+
+    #sub-title {
+	margin-top: 30px;
+	color: #FFFFFF;
     }
 
 }
@@ -67,28 +83,44 @@
     .pc {
 	display: none;
     }
-    .head-title{
+    .head-text{
 	color: #FFFFFF;
-	margin-left: 30px;
-	padding-top: 30px;
+	padding-left: 30px;
+    	background-color: rgba(0,0,0,0.5);
+    	padding-bottom: 30px;
+    	padding-top: 30px;
     }
     .head-subtitle{
 	margin-left: 30px;
 	padding-bottom: 30px;
     }
 
+    .head{
+	padding-top: 30px;
+	padding-bottom: 30px;
+    }
+
     .head-image {
-	background-image: url(images/index_title.jpg);
+	background-image: url(images/usyd_bg.jpg);
 	background-repeat-x:  no-repeat;
 	background-attachment: scroll;
-	background-size: 800px;
+	background-size: cover;
+    }
+
+    .row {
+	margin-left: 0 ! important;	
+	margin-right: 0 ! important;
+    }
+
+    #main-title {
+    	font-size: 1.666em ! important;
+    }
+
+    #sub-title {
+    	font-size: 0.888em ! important;
+	margin-top: 15px;
+	color: #FFFFFF;
     }
 }
 
-
-@media screen and (max-width: 800px) {
-	.row{
-		margin-left: 0 ! important;	
-	}
-}
 
