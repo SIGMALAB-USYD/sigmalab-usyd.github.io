@@ -8,10 +8,10 @@
   url: "/publication/"
   side: left
   dropdown:
-	-title: Publication by date
-	 url: "/publication/"
-	-title: Publication by type
-	 url: "/publication_type/"
+	- title: "Publication by date"
+	  url: "/publication/"
+	- title: "Publication by type"
+	  url: "/publication_type/"
   #dropdown:
   #- title: "Grid & Colors"
   #  url: "/design/grid/"
