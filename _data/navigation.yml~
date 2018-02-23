@@ -7,6 +7,11 @@
 - title: "Publication"
   url: "/publication/"
   side: left
+  dropdown:
+	-title: Publication by date
+	 url: "/publication/"
+	-title: Publication by type
+	 url: "/publication_type/"
   #dropdown:
   #- title: "Grid & Colors"
   #  url: "/design/grid/"
@@ -48,14 +53,6 @@
   # - title: "No Header but Image"
   #   url: "/design/no-header-but-image/"
 
-# - title: Research
-#   url: "/research/"
-#   side: left
-  # dropdown:
-  # - title: "Changelog"
-  #   url: "/changelog/"
-  # - title: "Roadmap"
-  #   url: "/roadmap/"
 
 - title: Recruitment
   url: "/recruitment/"
