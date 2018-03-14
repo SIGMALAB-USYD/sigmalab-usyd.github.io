@@ -148,10 +148,11 @@ permalink: "/people/"
 
 		{% include member.html %}
 	</div>
-
+	
+	<hr>
 	<div class="row">
 		<h3 class="medium-12">Past Visiting Student</h3>
-		<br/>
+		<br>
 	</div>
 		{% include collaborator.html url="" name="Yingyue Xu" affil="Ph.D. from Univ. of Oulu" %}
 </div>
