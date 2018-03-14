@@ -56,10 +56,8 @@ permalink: "/people/"
 	<div class="row">
 
 		{% include member.html photo="../images/people/guo_lu.png" name="Guo Lu" title="Ph.D. from SJTU" %}
-
-		{% include member.html photo="../images/people/yingyue_xu.jpeg" name="Yingyue Xu" title="Ph.D. from Univ. of Oulu" %}
-		
-		{% include member.html %}
+			
+		{% include member.html photo="../images/people/lingbo_liu.png" name="Lingbo Liu" title="Ph.D. from SYSU" %}
 
 		{% include member.html %}
 	</div>
@@ -150,5 +148,11 @@ permalink: "/people/"
 
 		{% include member.html %}
 	</div>
+
+	<div class="row">
+		<h3 class="medium-12">Past Visiting Student</h3>
+		<br/>
+	</div>
+		{% include collaborator.html url="" name="Yingyue Xu" affil="Ph.D. from Univ. of Oulu" %}
 </div>
 
