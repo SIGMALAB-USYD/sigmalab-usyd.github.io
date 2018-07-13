@@ -62,7 +62,7 @@ homepage: true
 ---
 
 
-<div class="row main-content" style= " margin-top: 30px">
+<div class="row main-content" style= " margin-top: 30px; max-height:540px">
   <div class="column small-9 pc">
     
     <!-- carrousel -->
@@ -148,9 +148,10 @@ homepage: true
 
 
 
-  <div class="column small-3 pc">
-    <h3>News</h3>
-    <div class="list-group" style="margin-left=0">
+  <div class="column small-3 pc" style="max-height: inherit">
+  	<div><h3>News</h3></div>
+    
+    <div class="list-group" style="margin-left=0; max-height: inherit; overflow-y: auto;">
 
     {% include news_item.html  date="10-July-2018" content="Congratulations to Guo Lu's paper accepted by ECCV 2018" %}
 
