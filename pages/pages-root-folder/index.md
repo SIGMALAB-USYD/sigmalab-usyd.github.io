@@ -151,6 +151,11 @@ homepage: true
   <div class="column small-3 pc">
     <h3>News</h3>
     <div class="list-group" style="margin-left=0">
+
+    {% include news_item.html  date="10-July-2018" content="Congratulations to Guo Lu's paper accepted by ECCV 2018" %}
+
+    {% include news_item.html  date="2-July-2018" content="Congratulations to Lingbo Liu's paper accepted by ACM MM 2018" %}
+
       {% include news_item.html  date="19-Mar-2018" content="Welcome Lingbo Liu to visit our lab!" %}
   		{% include news_item.html 
   			highlight="true" date="14-Dec-2017"
