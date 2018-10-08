@@ -54,7 +54,7 @@ permalink: "/people/"
 		<br/>
 	</div>
 	<div class="row">
-		{% include member.html photo="../images/people/yukai_shi.png" name="Yukai Shi" title="Ph.D. from SYSU" %}
+		{% include member.html photo="../images/people/yukai_shi.jpg" name="Yukai Shi" title="Ph.D. from SYSU" %}
 
 		{% include member.html photo="../images/people/lingbo_liu.png" name="Lingbo Liu" title="Ph.D. from SYSU" %}
 
