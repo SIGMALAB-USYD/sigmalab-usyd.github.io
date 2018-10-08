@@ -54,11 +54,12 @@ permalink: "/people/"
 		<br/>
 	</div>
 	<div class="row">
+		{% include member.html photo="../images/people/yukai_shi.png" name="Yukai Shi" title="Ph.D. from SYSU" %}
 
-		{% include member.html photo="../images/people/guo_lu.png" name="Guo Lu" title="Ph.D. from SJTU" %}
-			
 		{% include member.html photo="../images/people/lingbo_liu.png" name="Lingbo Liu" title="Ph.D. from SYSU" %}
 
+		{% include member.html photo="../images/people/guo_lu.png" name="Guo Lu" title="Ph.D. from SJTU" %}	
+		
 		{% include member.html %}
 	</div>
 </div>
