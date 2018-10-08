@@ -35,11 +35,11 @@ permalink: "/people/"
 	</div>
 	
 	<div class="row">
+		{% include member.html photo="../images/people/yi_zhou.jpg" homepage="#" name="Yi Zhou" title="M.Phil." %}
+
 		{% include member.html photo="../images/people/shuyang_sun.png" homepage="https://kevin-ssy.github.io/" name="Shuyang Sun" title="M.Phil." %}
 
 		{% include member.html photo="../images/people/geng_zhan.jpg" homepage="https://gengz.github.io/" name="Geng Zhan" title="M.Phil.-Ph.D." %}
-		
-		{% include member.html %}
 
 		{% include member.html %}
 

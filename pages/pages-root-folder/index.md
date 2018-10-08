@@ -152,6 +152,9 @@ homepage: true
   	<div><h3>News</h3></div>
     
     <div class="list-group" style="margin-left=0; max-height: inherit; overflow-y: auto;">
+    {% include news_item.html  date="08-Oct-2018" content="Welcome Yi Zhou as a M.Phil. student to join us!" %}
+
+    {% include news_item.html  date="20-Sep-2018" content="Congratulations to Shuyang's paper accepted by NIPS 2018" %}
 
     {% include news_item.html  date="10-July-2018" content="Congratulations to Guo Lu's paper accepted by ECCV 2018" %}
 
