@@ -3,15 +3,15 @@
 		  	<div class="row">
 		  		<img src="{{ include.photo }}" width="150" height="150">
 		  	</div>
-		  	<div style="margin-right: 15px;">
-				  	<div class="row" style="margin-right: inherit;">
+		  	<div style="margin-left: 15px;">
+				  	<div class="row" >
 						{% if include.homepage %}
 				  			<a href="{{ include.homepage }}">{{ include.name }}</a>
 						{% else %}
 							{{ include.name }}
 						{% endif %}
 				  	</div>
-				  	<div class="row" style="margin-right: inherit;">
+				  	<div class="row">
 				  		{{ include.title }}
 				  	</div>
 			</div>
