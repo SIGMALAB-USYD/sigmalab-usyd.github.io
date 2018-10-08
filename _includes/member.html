@@ -3,7 +3,7 @@
 		  	<div class="row">
 		  		<img src="{{ include.photo }}" width="150" height="150">
 		  	</div>
-		  	<div style="{{ include.person_style }}">
+		  	<div  {% if include.homepage %} style="{{ include.person_style }}" {% endif %} >
 				  	<div class="row" >
 						{% if include.homepage %}
 				  			<a href="{{ include.homepage }}">{{ include.name }}</a>
