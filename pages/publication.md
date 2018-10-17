@@ -21,6 +21,29 @@ permalink: "/publication/"
 \[[sort by type](/publication_type/)\]	\[[sort by date](/publication/)\]
 
 ### 2018
+Shuyang Sun, Jiangmiao Pang, Jianping Shi, Shuai Yi, Wanli Ouyang, "FishNet: A Versatile Network Backbone for Image, Region and Pixel Level Prediction", NIPS 2018.
+
+Guo Lu, Wanli Ouyang, Dong Xu, Xiaoyun Zhang, Zhiyong Gao, Ming-Ting Sun, "Deep Kalman Filtering Network for Video Compression Artifact Reduction". ECCV 2018. 
+
+Lingbo Liu, HongjunWang, Guanbin Li, Wanli Ouyang, Liang Lin, "Crowd Counting using Deep Recurrent Spatial-Aware Network", IJCAI, 2018.
+
+Hongyang Li, Yu Liu,Wanli Ouyang, XiaogangWang, "Zoom Out-and-In Network with Map Attention Decision for Region Proposal and Object Detection," International Journal of Computer Vision (IJCV), Accepted Jun., 2018.
+
+Dan Xu, Elisa Ricci, Wanli Ouyang, Xiaogang Wang, Nicu Sebe, "Monocular Depth Estimation using Multi-Scale Continuous CRFs as Sequential Deep Networks," IEEE Trans. Pattern Anal. Mach. Intell. (TPAMI), Accepted Apr., 2018
+
+Hui Zhou, Wanli Ouyang, Jian Cheng, Xiaogang Wang, and Hongsheng Li, "Deep Continuous Conditional Random Fields with Asymmetric Inter-object Constraints for Online Multi-object Tracking," IEEE Trans. Circuits and System for Video Technology (CSVT), Accepted Apr., 2018.
+
+Yanchun Li, Nanfeng Xiao, Wanli Ouyang, "Improved Boundary Equilibrium Generative Adversarial Networks," IEEE Access, Accepted Feb., 2018
+
+Yi Wei, Xinyu Pan, Hongwei Qin, Junjie Yan, Wanli Ouyang, "Quantization Mimic: Towards Very Tiny CNN for Object Detection", ECCV, 2018.
+
+Di Chen, Shanshan Zhang, Wanli Ouyang, Jian Yang, Ying Tai, "Person Search via A Mask-guided Two-stream CNN Model", ECCV, 2018.
+
+Dongang Wang, Wanli Ouyang, Wen Li, Dong Xu, "Dividing and Aggregating Network for Multi-view Action Recognition", ECCV, 2018
+
+Yikang Li, Wanli Ouyang, Bolei Zhou, Yanwen Cui, Jianping Shi, Chao Zhang, Xiaogang Wang, "Factorizable Net: An E_cient Subgraph-based Framework for Scene Graph Generation", ECCV, 2018.
+
+Hongyang Li, Bo Dai, Wanli Ouyang, Xiaoyang Guo, Xiaogang Wang, "Neural Network Encapsulation ", ECCV, 2018.
 
 Xuanyi Dong, Yan Yan, Wanli Ouyang, Yi Yang. "Style Aggregated Network for Facial Landmark Detection", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
 
@@ -202,11 +225,11 @@ Ouyang, W., Wang, X. (2012). A Discriminative Deep Model for Pedestrian Detectio
 Ouyang, W., Tombari, F., Mattoccia, S., Di Stefano, L., Cham, W. (2012). Performance evaluation of full search equivalent Pattern matching algorithms. IEEE Transactions on Pattern Analysis and Machine Intelligence, 34(1), 127-143. 
 \[[pdf]()\] \[[code&project page]()\]
 
-Wanli Ouyang, Renqi Zhang and Wai-Kuen Cham, "Fast pattern matching using orthogonal Haar transform ", In Proc. IEEE CVPR 2010.
+Wanli Ouyang, Renqi Zhang and Wai-Kuen Cham, "Fast pattern matching using orthogonal Haar transform ", In IEEE CVPR 2010.
 
-Renqi Zhang, Wanli Ouyang and Wai-Kuen Cham, "Image Deblocking using Dual Adaptive FIR Wiener Filter in the DCT Transform Domain," In Proc. IEEE Int. Conf. Acoustics, Speech, and Signal Processing, ICASSP 2009, Taiwan, April 19-24, 2009, pp.1181-1184.
+Renqi Zhang, Wanli Ouyang and Wai-Kuen Cham, "Image Deblocking using Dual Adaptive FIR Wiener Filter in the DCT Transform Domain," In IEEE Int. Conf. Acoustics, Speech, and Signal Processing, ICASSP 2009, Taiwan, April 19-24, 2009, pp.1181-1184.
 
-Renqi Zhang, Wanli Ouyang and Wai-Kuen Cham, "Image Multi-scale Edge Detection using 3-D Hidden Markov Model based on the Non-decimated Wavelet," In Proc. 2009 IEEE International Conference on Image Processing (ICIP), Cairo, Egypt, November 7-10, 2009, pp.2173-2176.
+Renqi Zhang, Wanli Ouyang and Wai-Kuen Cham, "Image Multi-scale Edge Detection using 3-D Hidden Markov Model based on the Non-decimated Wavelet," In 2009 IEEE International Conference on Image Processing (ICIP), Cairo, Egypt, November 7-10, 2009, pp.2173-2176.
 
 Wanli Ouyang, D. Song, C. Xiao, and W. Ju. The matrix decomposition representation of DCT algorithms. In IEEE midwest sym. Circuits and Syst. (MWCAS), 2005. 
 

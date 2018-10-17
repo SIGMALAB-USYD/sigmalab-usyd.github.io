@@ -23,23 +23,39 @@ permalink: "/publication_type/"
 
 ### Conference Papers
 
-Xuanyi Dong, Yan Yan, Wanli Ouyang, Yi Yang. "Style Aggregated Network for Facial Landmark Detection", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+Shuyang Sun, Jiangmiao Pang, Jianping Shi, Shuai Yi, Wanli Ouyang, "FishNet: A Versatile Network Backbone for Image, Region and Pixel Level Prediction", NIPS 2018.
 
-Yikang Li, Nan Duan, Bolei Zhou, Xiao Chu, Wanli Ouyang, Xiaogang Wang. "Visual Question Generation as Dual Task of Visual Question Answering", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+Guo Lu, Wanli Ouyang, Dong Xu, Xiaoyun Zhang, Zhiyong Gao, Ming-Ting Sun, "Deep Kalman Filtering Network for Video Compression Artifact Reduction". ECCV 2018. 
 
-Jing Xu, Rui Zhao, Feng Zhu, Huaming Wang, Wanli Ouyang. "Attention-aware Compositional Network for Person Re-Identication", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+Yi Wei, Xinyu Pan, Hongwei Qin, Junjie Yan, Wanli Ouyang, "Quantization Mimic: Towards Very Tiny CNN for Object Detection", ECCV, 2018.
 
-YuWu, Yutian Lin, Xuanyi Dong, Yan Yan,Wanli Ouyang, Yi Yang. "Exploit the Unknown Gradually: One-Shot Video-Based Person Re-Identication by Stepwise Learning", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+Di Chen, Shanshan Zhang, Wanli Ouyang, Jian Yang, Ying Tai, "Person Search via A Mask-guided Two-stream CNN Model", ECCV, 2018.
 
-Wei Yang, Wanli Ouyang, Xiaolong Wang, Xiaogang Wang. "3D Human Pose Estimation in the Wild by Adversarial Learning", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+Dongang Wang, Wanli Ouyang, Wen Li, Dong Xu, "Dividing and Aggregating Network for Multi-view Action Recognition",  ECCV, 2018
 
-Weichen Zhang, Wanli Ouyang, Dong Xu, Wen Li. "Collaborative and Adversarial Network for Unsupervised domain adaptation", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+Yikang Li, Wanli Ouyang, Bolei Zhou, Yanwen Cui, Jianping Shi, Chao Zhang, Xiaogang Wang, "Factorizable Net: An E_cient Subgraph-based Framework for Scene Graph Generation",  ECCV, 2018.
 
-Shuyang Sun, Zhanghui Kuang, Lu Sheng, Wanli Ouyang, Wei Zhang. "Optical Flow Guided Feature: A Motion Representation for Video Action Recognition", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+Hongyang Li, Bo Dai, Wanli Ouyang, Xiaoyang Guo, Xiaogang Wang, "Neural Network Encapsulation ",  ECCV, 2018.
 
-Dan Xu, Wanli Ouyang, Xiaogang Wang, Nicu Sebe. "PAD-Net: Multi-Tasks Guided Prediciton-and-Distillation Network for Simultaneous Depth Estimation and Scene Parsing ", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+Lingbo Liu, HongjunWang, Guanbin Li, Wanli Ouyang, Liang Lin, "Crowd Counting using Deep Recurrent Spatial-Aware Network",  IJCAI, 2018.
 
-Chunfeng Song, Yan Huang, Liang Wang, Wanli Ouyang. "Mask-guided Contrastive Attention Model for Person Re-Identication ", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
+Xuanyi Dong, Yan Yan, Wanli Ouyang, Yi Yang. "Style Aggregated Network for Facial Landmark Detection", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018).
+
+Yikang Li, Nan Duan, Bolei Zhou, Xiao Chu, Wanli Ouyang, Xiaogang Wang. "Visual Question Generation as Dual Task of Visual Question Answering", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018).
+
+Jing Xu, Rui Zhao, Feng Zhu, Huaming Wang, Wanli Ouyang. "Attention-aware Compositional Network for Person Re-Identication", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018).
+
+YuWu, Yutian Lin, Xuanyi Dong, Yan Yan,Wanli Ouyang, Yi Yang. "Exploit the Unknown Gradually: One-Shot Video-Based Person Re-Identication by Stepwise Learning", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018).
+
+Wei Yang, Wanli Ouyang, Xiaolong Wang, Xiaogang Wang. "3D Human Pose Estimation in the Wild by Adversarial Learning", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018).
+
+Weichen Zhang, Wanli Ouyang, Dong Xu, Wen Li. "Collaborative and Adversarial Network for Unsupervised domain adaptation", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018).
+
+Shuyang Sun, Zhanghui Kuang, Lu Sheng, Wanli Ouyang, Wei Zhang. "Optical Flow Guided Feature: A Motion Representation for Video Action Recognition", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018).
+
+Dan Xu, Wanli Ouyang, Xiaogang Wang, Nicu Sebe. "PAD-Net: Multi-Tasks Guided Prediciton-and-Distillation Network for Simultaneous Depth Estimation and Scene Parsing ", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018).
+
+Chunfeng Song, Yan Huang, Liang Wang, Wanli Ouyang. "Mask-guided Contrastive Attention Model for Person Re-Identication ", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018).
 
 Ouyang, W., Wang, K., Zhu, X., Wang, X. (2017). Chained Cascade Network for Object Detection. International Conference on Computer Vision (ICCV 2017).
 
@@ -116,6 +132,13 @@ Zhao, R., Ouyang, W., Wang, X. (2013). Unsupervised Salience Learning for Person
 Ouyang, W., Wang, X. (2012). A Discriminative Deep Model for Pedestrian Detection with Occlusion Handling. 2012 IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2012), Providence: (IEEE) Institute of Electrical and Electronics Engineers. 
 
 ### Journal Papers
+Hongyang Li, Yu Liu,Wanli Ouyang, XiaogangWang, "Zoom Out-and-In Network with Map Attention Decision for Region Proposal and Object Detection," International Journal of Computer Vision (IJCV),  Jun., 2018.
+
+Dan Xu, Elisa Ricci, Wanli Ouyang, Xiaogang Wang, Nicu Sebe, "Monocular Depth Estimation using Multi-Scale Continuous CRFs as Sequential Deep Networks," IEEE Trans. Pattern Anal. Mach. Intell. (TPAMI),  Apr., 2018
+
+Hui Zhou, Wanli Ouyang, Jian Cheng, Xiaogang Wang, and Hongsheng Li, "Deep Continuous Conditional Random Fields with Asymmetric Inter-object Constraints for Online Multi-object Tracking," IEEE Trans. Circuits and System for Video Technology (CSVT),  Apr., 2018.
+
+Yanchun Li, Nanfeng Xiao, Wanli Ouyang, "Improved Boundary Equilibrium Generative Adversarial Networks," IEEE Access,  Feb., 2018
 
 Zeng, X., Ouyang, W., Yan, J., Li, H., Xiao, T., Wang, K., Liu, Y., Zhou, Y., Yang, B., Wang, Z., et al (2017). Crafting GBD-Net for Object Detection [In Press]. IEEE Transactions on Pattern Analysis and Machine Intelligence. 
 \[[pdf]()\] \[[code&project page]()\]
