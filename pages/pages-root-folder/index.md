@@ -156,7 +156,7 @@ homepage: true
         highlight="true" date="Always"
         content="We are hiring! Several Ph.D. positions are now available at USYD in computer vision. Candidates with strong academic background and/or solid programming skill are highly preferred. Before applying, please first look at <a href=\"guidelines/guideline_eng.pdf\"><strong>Application Guideline for SIGMA Lab</strong></a>. For Chinese candidates, please refer to <a href=\"guidelines/guideline_chinese.pdf\"><strong>SIGMA Lab申请须知</strong></a> and <a href=\"guidelines/scholarship_chi.pdf\"><strong>悉尼大学奖学金申请须知</strong></a>." %}
 
-    {% include news_item.html  highlight="true" date="21-Sep-2018" content="Our team MMDet won the <span style="color:red"> 1st place </span> of [the COCO Detection Challenge](http://cocodataset.org/#detection-leaderboard)!!! The AWESOME code has been released in the repo [mmdetection](https://github.com/open-mmlab/mmdetection)" %}
+    {% include news_item.html  highlight="true" date="21-Sep-2018" content="Our team MMDet won the <strong> 1st place </strong> of <a href=\"http://cocodataset.org/#detection-leaderboard\">the COCO Detection Challenge</a>!!! The AWESOME code has been released in the repo <a href=\"https://github.com/open-mmlab/mmdetection\">mmdetection</a>" %}
 
     {% include news_item.html  date="08-Oct-2018" content="Welcome Yi Zhou to join us as a M.Phil. student!" %}
 
@@ -186,6 +186,8 @@ homepage: true
       {% include news_item.html 
         highlight="true" date="Always"
         content="We are hiring! Several Ph.D. positions are now available at USYD in computer vision. Candidates with strong academic background and/or solid programming skill are highly preferred. Before applying, please first look at <a href=\"guidelines/guideline_eng.pdf\"><strong>Application Guideline for SIGMA Lab</strong></a>. For Chinese candidates, please refer to <a href=\"guidelines/guideline_chinese.pdf\"><strong>SIGMA Lab申请须知</strong></a> and <a href=\"guidelines/scholarship_chi.pdf\"><strong>悉尼大学奖学金申请须知</strong></a>." %}
+
+        {% include news_item.html  highlight="true" date="21-Sep-2018" content="Our team MMDet won the <strong> 1st place </strong> of <a href=\"http://cocodataset.org/#detection-leaderboard\">the COCO Detection Challenge</a>!!! The AWESOME code has been released in the repo <a href=\"https://github.com/open-mmlab/mmdetection\">mmdetection</a>" %}
 
     {% include news_item.html  date="08-Oct-2018" content="Welcome Yi Zhou to join us as a M.Phil. student!" %}
 
