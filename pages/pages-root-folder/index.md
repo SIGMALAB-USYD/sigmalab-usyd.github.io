@@ -36,7 +36,7 @@ widget3:
   title: "Pose Tracking"
   url: 'https://youtu.be/CiKJuAH2U8I'
   video: '<iframe src="https://www.youtube.com/embed/AL-8XCzRFo0" width="360" height="240" style="max-width: 100%; max-height: 150pt;"></iframe>'
-  text: 'Our team won the 2nd place in the pose-track challnege.'
+  text: 'Our team won the 2nd place in the pose-track challenge.'
 
 #
 # Use the call for action to show a button on the frontpage
