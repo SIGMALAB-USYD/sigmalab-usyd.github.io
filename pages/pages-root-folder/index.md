@@ -154,7 +154,7 @@ homepage: true
     <div class="list-group" style="margin-left=0; max-height: inherit; overflow-y: auto;">
     {% include news_item.html 
         highlight="true" date="Always"
-        content="We are hiring! Several Ph.D. positions are now available at USYD in computer vision. Candidates with strong academic background and/or solid programming skill are highly preferred. Before applying, please first look at <a href=\"guidelines/guideline_eng.pdf\"><strong>Application Guideline for SIGMA Lab</strong></a>. For Chinese candidates, please refer to <a href=\"guidelines/guideline_chinese.pdf\"><strong>SIGMA Lab申请须知</strong></a> and <a href=\"guidelines/scholarship_chi.pdf\"><strong>悉尼大学奖学金申请须知</strong></a>." %}
+        content="We are hiring! Several Ph.D. positions are now available at USYD in computer vision. Candidates with strong academic background and/or solid programming skill are highly preferred. Before applying, please first look at <a href=\"guidelines/guideline_eng.pdf\"><strong>Application Guideline for SIGMA Lab</strong></a>. For Chinese candidates, please refer to <a href=\"guidelines/ad.pdf\"><strong>SIGMA Lab招生简章</strong></a> and <a href=\"guidelines/guideline_chinese.pdf\"><strong>SIGMA Lab申请须知</strong></a>" %}
 
     {% include news_item.html  highlight="true" date="21-Sep-2018" content="Our team MMDet won the <strong> 1st place </strong> of <a href=\"http://cocodataset.org/#detection-leaderboard\">the COCO Detection Challenge</a>!!! The AWESOME code has been released in the repo <a href=\"https://github.com/open-mmlab/mmdetection\">mmdetection</a>" %}
 
