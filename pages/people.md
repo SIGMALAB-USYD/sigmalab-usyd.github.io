@@ -56,7 +56,7 @@ permalink: "/people/"
 	<div class="row">
 		{% include member.html photo="../images/people/yukai_shi.jpg" name="Yukai Shi" title="Ph.D. from SYSU" %}
 
-		{% include member.html photo="../images/people/lingbo_liu.png" name="Lingbo Liu" title="Ph.D. from SYSU" %}
+		{% include member.html photo="../images/people/lingbo_liu.png" homepage="http://lingboliu.com/" name="Lingbo Liu" title="Ph.D. from SYSU" %}
 
 		{% include member.html photo="../images/people/guo_lu.png" name="Guo Lu" title="Ph.D. from SJTU" %}	
 		
