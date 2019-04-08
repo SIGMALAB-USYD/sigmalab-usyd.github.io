@@ -35,7 +35,6 @@ permalink: "/people/"
 	</div>
 	
 	<div class="row">
-
 		{% include member.html photo="../images/people/xinchi_zhou.jpg" name="Xinchi Zhou" title="M.Phil.-Ph.D." %}
 
 		{% include member.html photo="../images/people/dongzhan_zhou.jpeg" name="Dongzhan Zhou" title="M.Phil.-Ph.D." %}
@@ -75,11 +74,6 @@ permalink: "/people/"
 	<div class="row">
 		{% include collaborator.html url="https://kevin-ssy.github.io/" name="Shuyang Sun" affil="M.Phil. (Graduated in Dec. 2018)" %}
 
-		{% include collaborator.html %}
-
-		{% include collaborator.html %}
-
-		{% include collaborator.html %}
 	</div>
 	
 	<hr>
@@ -92,8 +86,6 @@ permalink: "/people/"
 		{% include collaborator.html url="" name="Guo Lu" affil="Ph.D. from SJTU (2017-2019)" %}
 
 		{% include collaborator.html url="" name="Yingyue Xu" affil="Ph.D. from Univ. of Oulu (2017)" %}
-
-			
 </div>
 
 ---
