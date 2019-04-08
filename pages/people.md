@@ -79,9 +79,9 @@ permalink: "/people/"
 		<h3 class="medium-12">Past Visiting Student</h3>
 		<br>
 	</div>
-		{% include collaborator.html url="" name="Yukai Shi" affil="Ph.D. from SYSU (2017-2018)" %}
-
 		{% include collaborator.html url="" name="Guo Lu" affil="Ph.D. from SJTU (2017-2019)" %}
+		
+		{% include collaborator.html url="" name="Yukai Shi" affil="Ph.D. from SYSU (2017-2018)" %}
 
 		{% include collaborator.html url="" name="Yingyue Xu" affil="Ph.D. from Univ. of Oulu (2017)" %}
 </div>
