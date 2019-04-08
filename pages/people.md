@@ -71,11 +71,9 @@ permalink: "/people/"
 		<h3 class="medium-12">Alumni</h3>
 		<br/>
 	</div>
-	<div class="row">
+
 		{% include collaborator.html url="https://kevin-ssy.github.io/" name="Shuyang Sun" affil="M.Phil. (Graduated in Dec. 2018)" %}
 
-	</div>
-	
 	<hr>
 	<div class="row">
 		<h3 class="medium-12">Past Visiting Student</h3>
