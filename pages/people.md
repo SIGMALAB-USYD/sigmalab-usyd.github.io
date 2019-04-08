@@ -73,13 +73,13 @@ permalink: "/people/"
 		<br/>
 	</div>
 	<div class="row">
-		{% include member.html photo="../images/people/shuyang_sun.png" homepage="https://kevin-ssy.github.io/" name="Shuyang Sun" title="M.Phil. (Graduated in Dec. 2018)" %}
+		{% include collaborator.html url="https://kevin-ssy.github.io/" name="Shuyang Sun" affil="M.Phil. (Graduated in Dec. 2018)" %}
 
-		{% include member.html %}
+		{% include collaborator.html %}
 
-		{% include member.html %}
+		{% include collaborator.html %}
 
-		{% include member.html %}
+		{% include collaborator.html %}
 	</div>
 	
 	<hr>
@@ -87,9 +87,9 @@ permalink: "/people/"
 		<h3 class="medium-12">Past Visiting Student</h3>
 		<br>
 	</div>
-		{% include collaborator.html url="" name="Yukai Shi" title="Ph.D. from SYSU (2017-2018)" %}
+		{% include collaborator.html url="" name="Yukai Shi" affil="Ph.D. from SYSU (2017-2018)" %}
 
-		{% include collaborator.html url="" name="Guo Lu" title="Ph.D. from SJTU (2017-2019)" %}
+		{% include collaborator.html url="" name="Guo Lu" affil="Ph.D. from SJTU (2017-2019)" %}
 
 		{% include collaborator.html url="" name="Yingyue Xu" affil="Ph.D. from Univ. of Oulu (2017)" %}
 
