@@ -55,9 +55,9 @@ permalink: "/people/"
 		<br/>
 	</div>
 	<div class="row">
-		{% include collaborator.html photo="../images/people/lingbo_liu.png" homepage="http://lingboliu.com/" name="Lingbo Liu" title="Ph.D. from SYSU" %}
+		{% include member.html photo="../images/people/lingbo_liu.png" homepage="http://lingboliu.com/" name="Lingbo Liu" title="Ph.D. from SYSU" %}
 
-		{% include collaborator.html photo="../images/people/hongwen_zhang.png" name="Hongwen Zhang" title="Ph.D. from CASIA" %}
+		{% include member.html photo="../images/people/hongwen_zhang.png" name="Hongwen Zhang" title="Ph.D. from CASIA" %}
 		
 		{% include member.html %}
 		
