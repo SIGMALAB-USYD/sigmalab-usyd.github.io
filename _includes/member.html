@@ -1,0 +1,19 @@
+<div class="small-3 columns member">
+{% if include.name %}
+		  	<div class="row">
+		  		<img src="{{ include.photo }}" width="150" height="150">
+		  	</div>
+		  	<div  {% if include.person_style %} style="{{ include.person_style }}" {% endif %} >
+				  	<div class="row" >
+						{% if include.homepage %}
+				  			<a href="{{ include.homepage }}">{{ include.name }}</a>
+						{% else %}
+							{{ include.name }}
+						{% endif %}
+				  	</div>
+				  	<div class="row">
+				  		{{ include.title }}
+				  	</div>
+			</div>
+{% endif %}
+</div>
