@@ -72,7 +72,7 @@ permalink: "/people/"
 		<br/>
 	</div>
 
-		{% include collaborator.html url="https://kevin-ssy.github.io/" name="Shuyang Sun" affil="M.Phil. (Graduated in Dec. 2018)" %}
+                {% include member.html photo="../images/people/shuyang_sun.png" homepage="https://kevin-ssy.github.io/" name="Shuyang Sun" title="M.Phil. (Graduated in Dec. 2018)" %}
 
 	<hr>
 	<div class="row">
