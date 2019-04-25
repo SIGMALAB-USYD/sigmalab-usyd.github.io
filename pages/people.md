@@ -53,6 +53,7 @@ permalink: "/people/"
 		<h3 class="medium-12">Visiting Students</h3>
 		<br/>
 	</div>
+
 	<div class="row">
 		{% include member.html photo="../images/people/lingbo_liu.png" homepage="http://lingboliu.com/" name="Lingbo Liu" title="Ph.D. from SYSU" %}
 
@@ -72,19 +73,23 @@ permalink: "/people/"
 		<br/>
 	</div>
 
-                {% include member.html photo="../images/people/shuyang_sun.png" homepage="https://kevin-ssy.github.io/" name="Shuyang Sun" title="M.Phil. (Graduated in Dec. 2018)" %}
-
-	<hr>
 	<div class="row">
-		<h3 class="medium-12">Past Visiting Student</h3>
-		<br>
-	</div>
-		{% include collaborator.html url="" name="Guo Lu" affil="Ph.D. from SJTU (2017-2019)" %}
-		
-		{% include collaborator.html url="" name="Yukai Shi" affil="Ph.D. from SYSU (2017-2018)" %}
-
-		{% include collaborator.html url="" name="Yingyue Xu" affil="Ph.D. from Univ. of Oulu (2017)" %}
+	{% include member.html photo="../images/people/shuyang_sun.png" homepage="https://kevin-ssy.github.io/" name="Shuyang Sun" title="M.Phil. (Graduated in Dec. 2018)" %}
+    </div>	
 </div>
+
+---
+
+<div class="row">
+		<h3 class="medium-12">Past Visiting Student</h3>
+		<br/>
+</div>
+
+{% include collaborator.html url="" name="Guo Lu" affil="Ph.D. from SJTU (2017-2019)" %}
+		
+{% include collaborator.html url="" name="Yukai Shi" affil="Ph.D. from SYSU (2017-2018)" %}
+
+{% include collaborator.html url="" name="Yingyue Xu" affil="Ph.D. from Univ. of Oulu (2017)" %}
 
 ---
 
