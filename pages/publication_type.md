@@ -23,6 +23,10 @@ permalink: "/publication_type/"
 
 ### Conference Papers
 
+Guo Lu, Wanli Ouyang, Dong Xu, Xiaoyun Zhang, Chunlei Cai, Zhiyong Gao, "DVC: An End-to-end Deep Video Compression Framework," In Proc. CVPR 2019. (**Oral**) [[source code](https://github.com/GuoLusjtu/DVC)]
+
+Shuyang Sun, Jiangmiao Pang, Jianping Shi, Shuai Yi, Wanli Ouyang, "FishNet: A Versatile Network Backbone for Image, Region and Pixel Level Prediction", NIPS 2018. [[source code](https://github.com/kevin-ssy/FishNet)]
+
 Shuyang Sun, Jiangmiao Pang, Jianping Shi, Shuai Yi, Wanli Ouyang, "FishNet: A Versatile Network Backbone for Image, Region and Pixel Level Prediction", NIPS 2018.
 
 Guo Lu, Wanli Ouyang, Dong Xu, Xiaoyun Zhang, Zhiyong Gao, Ming-Ting Sun, "Deep Kalman Filtering Network for Video Compression Artifact Reduction". ECCV 2018. 
