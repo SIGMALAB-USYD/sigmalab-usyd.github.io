@@ -161,7 +161,7 @@ permalink: "/people/"
 
 	{% include collaborator.html url="http://kangk.ai/" name="Kai Kang" affil="CV/ML Engineer at Apple" %}
 
-	{% include collaborator.html url="http://www.wyang.me/" name="Wei Yang" affil="CV/ML Engineer at Apple" %}
+	{% include collaborator.html url="http://www.wyang.me/" name="Wei Yang" affil="Researcher at NVIDIA AI Robotics Research Lab" %}
 </div>
 
 
