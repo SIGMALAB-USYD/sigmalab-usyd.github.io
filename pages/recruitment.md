@@ -13,4 +13,4 @@ Our lab are always recruiting **M.Phil. or Ph.D.** students with strong academic
 
 Note that your email title should be formatted as "YOUR_UNIV+YOUR_NAME+YOUR_PROGRAM". For example, if your name is Kevin and you are a student from the University of Sydney applying for a Ph.D program, then your email title should be "USYD_Kevin_Ph.D.".
 
-Currently, we have no position for postdoc researchers and research assistants for our lab.
+Currently, **we have no position for <span style="color:red"> postdoc researchers </span> and <span style="color:red"> research assistants </span> for our lab**.
