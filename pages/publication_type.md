@@ -193,9 +193,6 @@ Hui Zhou, Wanli Ouyang, Jian Cheng, Xiaogang Wang, and Hongsheng Li, "Deep Conti
 
 Yanchun Li, Nanfeng Xiao, Wanli Ouyang, "Improved Boundary Equilibrium Generative Adversarial Networks," IEEE Access,  Feb., 2018
 
-Zeng, X., Ouyang, W., Yan, J., Li, H., Xiao, T., Wang, K., Liu, Y., Zhou, Y., Yang, B., Wang, Z., et al (2017). Crafting GBD-Net for Object Detection [In Press]. IEEE Transactions on Pattern Analysis and Machine Intelligence. 
-\[[pdf]()\] \[[code&project page]()\]
-
 Ouyang, W., Zeng, X., Wang, X., Qiu, S., Luo, P., Tian, Y., Li, H., Yang, S., Wang, Z., Li, H., et al (2017). DeepID-Net: Object Detection with Deformable Part Based Convolutional Neural Networks. IEEE Transactions on Pattern Analysis and Machine Intelligence, 39(7), 1320-1334. 
 
 Ouyang, W., Zhao, T., Cham, W., Wei, L. (2017). Fast Full-Search Equivalent Pattern Matching Using Asymmetric Haar Wavelet Packets [In Press]. IEEE Transactions on Circuits and Systems for Video Technology. 
