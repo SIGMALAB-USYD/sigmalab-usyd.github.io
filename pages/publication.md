@@ -23,7 +23,53 @@ permalink: "/publication/"
 ### 2019
 Guo Lu, Wanli Ouyang, Dong Xu, Xiaoyun Zhang, Chunlei Cai, Zhiyong Gao, "DVC: An End-to-end Deep Video Compression Framework," In Proc. CVPR 2019. (**Oral**) [[source code](https://github.com/GuoLusjtu/DVC)]
 
+*Peixia Li, Boyu Chen, W. Ouyang, Dong Wang, Xiaoyun Yang, Huchuan Lu. ”GradNet: Gradient-Guided Network for Visual Object Tracking”, Proc. ICCV, 2019. (**Oral**)
+
+Haodong Duan, Kwan-Yee Lin, Sheng Jin, Wentao Liu, Chen Qian, W. Ouyang. ”TRB: A Novel Triplet Representation for Understanding 2D Human Body”, Proc. ICCV, 2019. (**Oral**)
+
+*Li, Hongyang, *Bo Dai, *Shaoshuai Shi, Wanli Ouyang, and Xiaogang Wang. ”Feature Intertwiner for Object Detection.” ICLR, 2019.
+
+Lingbo Liu, Zhilin Qiu , Guanbin Li, Shufan Liu, W. Ouyang, Liang Lin. ”Crowd Counting with Deep Structured Scale Integration Network”, Proc. ICCV, 2019.
+
+Lu Sheng, Dan Xu, W. Ouyang, Xiaogang Wang. ”Unsupervised Collaborative Learning of Keyframe Detection and Visual Odometry towards Monocular Deep SLAM”, Proc. ICCV, 2019.
+
+Chen Lin, Minghao Guo, Chuming Li, Xin Yuan, Wei Wu, Junjie Yan, Dahua Lin, W. Ouyang. ”Online Hyper-parameter Learning for Auto-Augmentation Strategy”, Proc. ICCV, 2019.
+
+Xinzhu Ma, Zhihui Wang, Haojie Li, Pengbo Zhang, W. Ouyang, Xin Fan. ”Accurate Monocular Object Detection via Color-Embedded 3D Reconstruction for Autonomous Driving”, Proc. ICCV, 2019.
+
+Yunan Li, Qiguang Miao, W. Ouyang, Zhenxin Ma, Huijuan Fang, Chao Dong, Yining Quan. ”LAP-Net: Level-Aware Progressive Network for Image Dehazing”, Proc. ICCV, 2019.
+
+Chuming Li, Xin Yuan, Chen Lin, Minghao Guo, Wei Wu, Junjie Yan, W. Ouyang. ”AM-LFS: AutoML for Loss Function Search”, Proc. ICCV, 2019.
+
+Yingyue Xu, Dan Xu, Xiaopeng Hong, W. Ouyang, Rongrong Ji, Min Xu, Guoying Zhao. ”Structured Modeling of Joint Deep Feature and Prediction Refinement for Salient Object Detection”, Proc. ICCV, 2019.
+
+*B. Li, W. Ouyang, Lu Sheng, et. al. ”GS3D: An Efficient 3D Object Detection Framework for Autonomous Driving”, Proc. CVPR, 2019.
+
+*J. Pang, *K. Chen, J. Shi, W. Ouyang, et. al. ”Libra R-CNN: Balanced Learning for Object Detection”, Proc. CVPR, 2019.
+
+K. Chen, J. Pang, J. Wang, Y. Xiong, X. Li, S. Sun, W. Feng, Z. Liu, J. Shi, W. Ouyang,C. Loy, D. Lin. ”Hybrid Task Cascade for Instance Segmentation”, Proc. CVPR, 2019.
+
+*C. Song, Y. Huang, W. Ouyang, L. Wang. ”Box-driven Class-wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation”, Proc. CVPR, 2019.
+
+*S. Jin, W. Liu, W. Ouyang, C. Qian. ”Multi-person Articulated Tracking with Spatial and Temporal Embeddings”, Proc. CVPR, 2019.
+
+*R. Su, W. Ouyang,Luping Zhou, Dong Xu. ”Improving Action Localization by Progressive Cross-stream Cooperation”, Proc. CVPR, 2019.
+
+*P. Zhang, W. Ouyang, Pengfei Zhang, Jianru Xue, Nanning Zheng. ”SRLSTM: State Refinement for LSTM towards Pedestrian Trajectory Prediction”, Proc. CVPR, 2019.
+
+Lingbo Liu, Zhilin Qiu, Guanbin Li, Qing Wang, Wanli Ouyang, Liang Lin, “Contextualized Spatial-Temporal Network for Taxi Origin-Destination Demand Prediction”, IEEE Transactions on Intelligent Transportation Systems (TITS), accepted Apr., 2019.
+
+*H. Zhang, Jie Cao, Guo Lu, W. Ouyang, Zhenan Sun. ”DaNet: Decomposeand-aggregate Network for 3D Human Shape and Pose Estimation ”, Proc. ACM Multimedia, 2019.
+
+*Z. Yao, B. Zhang, Z. Wang W. Ouyang, D. Xu, D. Feng. ”IntersectGAN: Learning Domain Intersection for Generating Images with Multiple Attributes”, Proc. ACM Multimedia, 2019.
+
+L. Huang, Y. Huang, Wanli Ouyang, L. Wang, ”Part-Aligned Pose-Guided Recurrent Network for Action Recognition,” Pattern Recognition (PR), accepted Mar. 2019.
+
+Yukai Shi, Jinghui Qin, Pengxu Wei, Wanli Ouyang, Liang Lin, “Perceptual Image Enhancement by Relativistic Discriminant Learning With Cross-Scale Aggregated Representation”, IEEE Access, accepted Mar., 2019.
+
 ### 2018
+*X. Zeng (equal contribution), W. Ouyang (equal contribution), et. al, ”Crafting GBD-Net for Object Detection,” IEEE Trans. Pattern Anal. Mach. Intell. (PAMI), 40(9): 2109-2123, Sep. 2018.
+
 Shuyang Sun, Jiangmiao Pang, Jianping Shi, Shuai Yi, Wanli Ouyang, "FishNet: A Versatile Network Backbone for Image, Region and Pixel Level Prediction", NIPS 2018. [[source code](https://github.com/kevin-ssy/FishNet)]
 
 Guo Lu, Wanli Ouyang, Dong Xu, Xiaoyun Zhang, Zhiyong Gao, Ming-Ting Sun, "Deep Kalman Filtering Network for Video Compression Artifact Reduction". ECCV 2018. 
@@ -66,12 +112,11 @@ Dan Xu, Wanli Ouyang, Xiaogang Wang, Nicu Sebe. "PAD-Net: Multi-Tasks Guided Pre
 
 Chunfeng Song, Yan Huang, Liang Wang, Wanli Ouyang. "Mask-guided Contrastive Attention Model for Person Re-Identication ", IEEE International Conference on Computer Vision and Pattern Recognition (CVPR 2018), accepted.
 
+Y. Li, N. Xiao, W. Ouyang, ”Improved Generative Adversarial Networks with Reconstruction Loss,” Neurocomputing, Accepted, Oct., 2018.
+
 ### 2017
 
 Ouyang, W., Wang, K., Zhu, X., Wang, X. (2017). Chained Cascade Network for Object Detection. International Conference on Computer Vision (ICCV 2017).
-\[[pdf]()\] \[[code&project page]()\]
-
-Zeng, X., Ouyang, W., Yan, J., Li, H., Xiao, T., Wang, K., Liu, Y., Zhou, Y., Yang, B., Wang, Z., et al (2017). Crafting GBD-Net for Object Detection. IEEE Transactions on Pattern Analysis and Machine Intelligence. 
 \[[pdf]()\] \[[code&project page]()\]
 
 Ouyang, W., Zeng, X., Wang, X., Qiu, S., Luo, P., Tian, Y., Li, H., Yang, S., Wang, Z., Li, H., et al (2017). DeepID-Net: Object Detection with Deformable Part Based Convolutional Neural Networks. IEEE Transactions on Pattern Analysis and Machine Intelligence, 39(7), 1320-1334. 
@@ -229,6 +274,8 @@ Ouyang, W., Tombari, F., Mattoccia, S., Di Stefano, L., Cham, W. (2012). Perform
 \[[pdf]()\] \[[code&project page]()\]
 
 Wanli Ouyang, Renqi Zhang and Wai-Kuen Cham, "Fast pattern matching using orthogonal Haar transform ", In IEEE CVPR 2010.
+
+W. Ouyang and W.-K. Cham, “Fast algorithm for Walsh Hadamard transform on sliding windows”, IEEE Trans. Pattern Anal. Mach. Intell.(PAMI), 32(1):165-171, Jan. 2010.
 
 Renqi Zhang, Wanli Ouyang and Wai-Kuen Cham, "Image Deblocking using Dual Adaptive FIR Wiener Filter in the DCT Transform Domain," In IEEE Int. Conf. Acoustics, Speech, and Signal Processing, ICASSP 2009, Taiwan, April 19-24, 2009, pp.1181-1184.
 
