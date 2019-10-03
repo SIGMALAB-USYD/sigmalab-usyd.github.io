@@ -37,6 +37,11 @@ widget3:
   url: 'https://youtu.be/CiKJuAH2U8I'
   video: '<iframe src="https://www.youtube.com/embed/AL-8XCzRFo0" width="360" height="240" style="max-width: 100%; max-height: 150pt;"></iframe>'
   text: 'Our team won the 2nd place in the pose-track challenge.'
+widget4:
+  titile: "MDNet, KCF and SiamFC"
+  url: 'https://youtu.be/M1LqUV4jLbM'
+  video: '<iframe src="https://www.youtube.com/embed/M1LqUV4jLbM" width="560" height="315" style="max-width: 100%; max-height: 150pt;"></iframe>'
+  text: 'Implementation of MDNet, KCF and SiamFC'
 
 #
 # Use the call for action to show a button on the frontpage
