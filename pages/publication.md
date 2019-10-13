@@ -21,7 +21,8 @@ permalink: "/publication/"
 [[sort by type][1]]	[[sort by date][2]]
 
 ### 2019
-![image1][3] GGuo Lu, Wanli Ouyang, Dong Xu, Xiaoyun Zhang, Chunlei Cai, Zhiyong Gao, "DVC: An End-to-end Deep Video Compression Framework," In Proc. CVPR 2019. (**Oral**) [[source code][4]]
+\<img src=“../image/usyd_bg.jpg” width=“200”/\>
+Guo Lu, Wanli Ouyang, Dong Xu, Xiaoyun Zhang, Chunlei Cai, Zhiyong Gao, "DVC: An End-to-end Deep Video Compression Framework," In Proc. CVPR 2019. (**Oral**) [[source code][3]]
 
 \*Peixia Li, Boyu Chen, W. Ouyang, Dong Wang, Xiaoyun Yang, Huchuan Lu. ”GradNet: Gradient-Guided Network for Visual Object Tracking”, Proc. ICCV, 2019. (**Oral**)
 
@@ -70,7 +71,7 @@ Yukai Shi, Jinghui Qin, Pengxu Wei, Wanli Ouyang, Liang Lin, “Perceptual Image
 ### 2018
 \*X. Zeng (equal contribution), W. Ouyang (equal contribution), et. al, ”Crafting GBD-Net for Object Detection,” IEEE Trans. Pattern Anal. Mach. Intell. (PAMI), 40(9): 2109-2123, Sep. 2018.
 
-Shuyang Sun, Jiangmiao Pang, Jianping Shi, Shuai Yi, Wanli Ouyang, "FishNet: A Versatile Network Backbone for Image, Region and Pixel Level Prediction", NIPS 2018. [[source code][5]]
+Shuyang Sun, Jiangmiao Pang, Jianping Shi, Shuai Yi, Wanli Ouyang, "FishNet: A Versatile Network Backbone for Image, Region and Pixel Level Prediction", NIPS 2018. [[source code][4]]
 
 Guo Lu, Wanli Ouyang, Dong Xu, Xiaoyun Zhang, Zhiyong Gao, Ming-Ting Sun, "Deep Kalman Filtering Network for Video Compression Artifact Reduction". ECCV 2018. 
 
@@ -292,6 +293,5 @@ Wanli Ouyang, C. Xiao, W. Ju, and D. Song. Practical fast asymmetric DCT algorit
 
 [1]:	/publication_type/
 [2]:	/publication/
-[3]:	../images/usyd_bg.jpg "image"
-[4]:	https://github.com/GuoLusjtu/DVC
-[5]:	https://github.com/kevin-ssy/FishNet
+[3]:	https://github.com/GuoLusjtu/DVC
+[4]:	https://github.com/kevin-ssy/FishNet
