@@ -230,6 +230,17 @@ H. Li, B. Dai, **W. Ouyang**, X. Guo, X. Wang, ”Neural Network Encapsulation �
 
 <hr/>
 
+<div class="row">
+  <div class="column">
+    <img src="../images/images_for_pub/DraggedImage.5b8045b2419941d19acf270991ecb9cb.png" width="700">
+  </div>
+  <div class="column">
+    <img src="../images/images_for_pub/DraggedImage.5e9dedd6b2f0468082a3ee3bad8f0bcb.png" width="300">
+    <img src="../images/images_for_pub/DraggedImage.50b9db65864c40b08368335d952db381.png" width="200">
+    <img src="../images/images_for_pub/DraggedImage.dfe4f35aff5a46ad97c06def1c28a82f.png" width="200">
+  </div>
+</div>
+
 
 X. Dong, Y. Yan, **W. Ouyang**, Yi Yang. ”Style Aggregated Network for Facial Landmark Detection”, Proc. CVPR, 2018.
 
