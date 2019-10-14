@@ -183,22 +183,47 @@ R. Su, **W. Ouyang**,Luping Zhou, Dong Xu. ”Improving Action Localization by P
 
 P. Zhang, **W. Ouyang**, Pengfei Zhang, Jianru Xue, Nanning Zheng. ”SRLSTM: State Reﬁnement for LSTM towards Pedestrian Trajectory Prediction”, Proc. CVPR, 2019.
 
+
+
+
 <hr/>
 
-
+<div class="row">
+  <img src="../images/images_for_pub/DraggedImage.b58bd40d196c48fbbe8f49629794544d.png", width="700">
+</div>
 Li, Hongyang, Bo Dai, Shaoshuai Shi, **Wanli Ouyang**, and Xiaogang Wang. ”Feature Intertwiner for Object Detection.” ICLR, 2019.
 
 <hr/>
+
+<div class="row">
+  <img src="../images/images_for_pub/DraggedImage.7be53f52b4d144359c2737a084d62b3f.png", width="700">
+</div>
 
 S. Sun, Jiangmiao Pang, Jianping Shi, Shuai Yi, **W. Ouyang**, ”FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction”, Proc. NIPS, 2018.
 
 <hr/>
 
+<div class="row">
+  <div class="column">
+    <img src="../images/images_for_pub/DraggedImage.f9f95bd38f204d84b0ff45496d26d0b6.png" width="700">
+  </div>
+  <div class="column">
+    <img src="../images/images_for_pub/DraggedImage.82cff212cb5644879fc34f9fdf4b85bf.png" width="250">
+    <img src="../images/images_for_pub/DraggedImage.70cb4c7287f641bc97d6175ad9c4bc96.png" width="450">
+  </div>
+</div>
+
+
 Y. Wei, X. Pan, H. Qin, J. Yan, **W. Ouyang**, ”Quantization Mimic: Towards Very Tiny CNN for Object Detection”, Proc. ECCV, 2018.
+
 G. Lu, **W. Ouyang**, D. Xu, X. Zhang, Z. Gao, M.-T. Sun, ”Deep Kalman Filtering Network for Video Compression Artifact Reduction”, Proc. ECCV, 2018.
+
 D. Chen, S. Zhang, **W. Ouyang**, J. Yang, Y. Tai, ”Person Search via A Maskguided Two-stream CNN Model”, Proc. ECCV, 2018.
+
 D. Wang, **W. Ouyang**, W. Li, D. Xu, ”Dividing and Aggregating Network for Multi-view Action Recognition”, Proc. ECCV, 2018.
+
 Y. Li, **W. Ouyang**, B. Zhou, Y. Cui, J. Shi, C. Zhang, X. Wang, ”Factorizable Net: An Eﬃcient Subgraph-based Framework for Scene Graph Generation”, Proc. ECCV, 2018.
+
 H. Li, B. Dai, **W. Ouyang**, X. Guo, X. Wang, ”Neural Network Encapsulation ”, Proc. ECCV, 2018.
 
 
@@ -206,13 +231,20 @@ H. Li, B. Dai, **W. Ouyang**, X. Guo, X. Wang, ”Neural Network Encapsulation �
 
 
 X. Dong, Y. Yan, **W. Ouyang**, Yi Yang. ”Style Aggregated Network for Facial Landmark Detection”, Proc. CVPR, 2018.
+
 Y. Li, N. Duan, B. Zhou, X. Chu, **W. Ouyang**, X. Wang. ”Visual Question Generation as Dual Task of Visual Question Answering”, Proc. CVPR, 2018.
+
 J. Xu, R. Zhao, F. Zhu, H. Wang, **W. Ouyang**. ”Attention-aware Compositional Network for Person Re-Identiﬁcation”, Proc. CVPR, 2018.
+
 Y. Wu, Y. Lin, X. Dong, Y. Yan, **W. Ouyang**, Yi Yang. ”Exploit the Unknown Gradually: One-Shot Video-Based Person Re-Identiﬁcation by Stepwise Learning”, Proc. CVPR, 2018.
 W. Yang, **W. Ouyang**, X. Wang, X. Wang. ”3D Human Pose Estimation in the Wild by Adversarial Learning”, Proc. CVPR, 2018.
+
 W. Zhang, **W. Ouyang**, D. Xu, W. Li. ”Collaborative and Adversarial Network for Unsupervised domain adaptation”, Proc. CVPR, 2018.
+
 S. Sun, Z. Kuang, L. Sheng, **W. Ouyang**, W. Zhang. ”Optical Flow Guided Feature: A Motion Representation for Video Action Recognition”, Proc. CVPR, 2018.
+
 D. Xu, **W. Ouyang**, X. Wang, N. Sebe. ”PAD-Net: Multi-Tasks Guided Prediciton-and-Distillation Network for Simultaneous Depth Estimation and Scene Parsing ”, Proc. CVPR, 2018.
+
 C. Song, Y. Huang, **W. Ouyang**, L. Wang. ”Mask-guided Contrastive Attention Model for Person Re-Identiﬁcation ”, Proc. CVPR, 2018.
 
 <hr/>
@@ -224,8 +256,11 @@ L. Liu, H. Wang, G. Li, **W. Ouyang**, L. Lin, ”Crowd Counting using Deep Recu
 <hr/>
 
 **W. Ouyang**, Kun Wang, Xin Zhu, Xiaogang Wang. ”Chained Cascade Network for Object Detection”, Proc. ICCV, 2017.
+
 Wei Yang, Shuang Li, **W. Ouyang**, Hongsheng Li, Xiaogang Wang. ”Learning Feature Pyramids for Human Pose Estimation”, Proc. ICCV, 2017.
+
 Yikang Li, **W. Ouyang**, Bolei Zhou, Kun Wang, Xiaogang Wang. ”Scene Graph Generation from Objects, Phrases and Region Captions”, Proc. ICCV, 2017.
+
 Qi Chu, **W. Ouyang**, Hongsheng Li, Xiaogang Wang, Bin Liu, Nenghai Yu. ”Online Multi-Object Tracking Using CNN-based Single Object Tracker with SpatialTemporal Attention Mechanism”, Proc. ICCV, 2017.
 
 <hr/>
@@ -235,11 +270,17 @@ Dan Xu, **W. Ouyang**, Xavier Alameda-Pineda, Elisa Ricci, Xiaogang Wang, Nicu S
 <hr/>
 
 Kai Kang, Hongsheng Li, **W. Ouyang** , Junjie Yan, Xihui Liu, Tong Xiao, Xiaogang Wang. ”Object Detection in Vidoes with Tubelet Proposal Networks”, Proc. CVPR , 2017.
+
 Feng Zhu, Hongsheng Li, **W. Ouyang** , Nenghai Yu, Xiaogang Wang. ”Learning Spatial Regularization with Image-level Supervisions for Multi-label Image Classiﬁcation”, Proc. CVPR, 2017.
+
 Yu Liu, Junjie Yan, **W. Ouyang**. ”Quality Aware Network for Set to Set Recognition”, Proc. CVPR , 2017.
+
 Yikang Li , **W. Ouyang** , Xiaogang Wang. ”ViP-CNN: A Visual Phrase Reasoning Convolutional Neural Network for Visual Relationship Detection”, Proc. CVPR, 2017.
+
 Xiao Chu, Wei Yang, **W. Ouyang** , Xiaogang Wang, Alan Yuille. ”MultiContext Attention for Human Pose Estimation”, Proc. CVPR , 2017.
+
 Dan Xu, Elisa Ricci, **W. Ouyang**, Xiaogang Wang, Nicu Sebe. Multi-Scale Continuous CRFs as Sequential Deep Networks for Monocular Depth Estimation”, Proc. CVPR , 2017.
+
 Dan Xu, **W. Ouyang** , Elisa Ricci, Xiaogang Wang, Nicu Sebe. Learning CrossModal Deep Representations for Robust Pedestrian Detection”, Proc. CVPR , 2017.
 
 <hr/>
@@ -250,6 +291,7 @@ X. Chu, **W. Ouyang**, H. Li, X. Wang. ”CRF-CNN: Modeling Structured Informati
 
 
 Z. Wang, H. Li, **W. Ouyang**, X. Wang. ”Learnable Histogram: Statistical Context Features for Deep Neural Networks”, in Proc. ECCV, 2016.
+
 Xingyu Zeng, **W. Ouyang**, Bin Yang, Junjie Yan, Xiaogang. ”Gated Bidirectional CNN for Object Detection”, in Proc. ECCV, 2016.
 
 <hr/>
@@ -259,23 +301,31 @@ Hongyang Li, **W. Ouyang**, Xiaogang Wang ”Multiple Bias on Non-linearity Acti
 <hr/>
 
 **W. Ouyang**, X. Wang, C. Zhang, and X. Yang. ”Factors in ﬁnetuning deep model for object detection with long-tail distribution”. In Proc. CVPR, 2016.
+
 T. Xiao, H. Li, **W. Ouyang**, and X. Wang. ”Learning Deep Feature Representations with Domain Guided Dropout”. In Proc. CVPR, 2016.
+
 K. Kang, **W. Ouyang**, H. Li, X. Wang. ”Object Detection from Video Tubelets with Convolutional Neural Networks ”. In Proc. CVPR, 2016.
+
 W. Yang, **W. Ouyang**, H. Li, X. Wang. ”End-to-End Learning of Deformable Mixture of Parts and Deep Convolutional Neural Networks for Human Pose Estimation”. In Proc. CVPR, 2016 (Oral).
+
 X. Chu, **W. Ouyang**, H. Li, and X. Wang. ”Structured feature learning for pose estimation”. In Proc. CVPR, 2016.
+
 L. Wang, **W. Ouyang**, X. Wang, and H. Lu. ”STCT: Sequentially training convolutional networks for visual tracking”. In Proc. CVPR, 2016.
 
 
 <hr/>
 
 **W. Ouyang**, Hongyang Li, Xingyu Zeng, Xiaogang Wang, ”Learning Deep Representation with Large-scale Attributes”, In Proc. ICCV, 2015.
+
 Xiao Chu, Wei Yang, **W. Ouyang**, Xiao gang Wang, ”Multi-task Recurrent Neural Network for Immediacy Prediction”, In ICCV, 2015 (Oral).
+
 Lijun Wang, **W. Ouyang**, Xiaogang Wang, Huchuan Lu, ”Visual Tracking with Fully Convolutional Networks”, In Proc. ICCV, 2015.
 
 
 <hr/>
 
 **W. Ouyang**, Xiaogang Wang, Xingyu Zeng, Shi Qiu, Ping Luo, Yonglong Tian, Hongsheng Li, Shuo Yang, Zhe Wang, Chen-Change Loy and Xiaoou Tang, ”DeepIDNet: Deformable Deep Convolutional Neural Networks for Object Detection”, In Proc. CVPR, 2015.
+
 Rui Zhao, **W. Ouyang**, Hongsheng Li, and Xiaogang Wang, ”Saliency Detection by Multi-context Deep Learning”, In Proc. CVPR, 2015.
 
 <hr/>
@@ -285,18 +335,24 @@ Xingyu Zeng, **W. Ouyang**, and X. Wang, ”Deep Learning of Scene-speﬃc Class
 <hr/>
 
 Zhao, Rui, **W. Ouyang**, and Xiaogang Wang. ”Learning mid-level ﬁlters for person re-identiﬁcation.” In Proc. CVPR, Columbus, USA, Jun. 2014.
+
 **W. Ouyang**, X. Chu, and X. Wang, ”Multi-source Deep Learning for Human Pose Estimation,” In Proc. CVPR, Columbus, USA, Jun. 2014.
 
 <hr/>
 **W. Ouyang**, and X. Wang, ”Joint Deep Learning for Pedestrian Detection,” In Proc. ICCV, Sydney, Australia, Dec. 2013.
+
 X. Zeng, **W. Ouyang**, and X. Wang, ”Multi-Stage Contextual Deep Learning for Pedestrian Detection,” In Proc. ICCV, Sydney, Australia, Dec. 2013.
+
 Rui Zhao, **W. Ouyang**, and X. Wang, ”Person Re-identiﬁcation by Salience Matching,” In Proc. ICCV, Sydney, Australia, Dec. 2013.
 
 <hr/>
 
 **W. Ouyang**, X. Zeng, and X. Wang, ”Modeling Mutual Visibility Relationship in Pedestrian Detection,” In Proc. CVPR, Portland, USA, Jun. 2013.
+
 **W. Ouyang**, and X. Wang, ”Single-Pedestrian Detection aided by Multipedestrian Detection,” In Proc. CVPR, Portland, USA, Jun. 2013.
+
 Rui Zhao, **W. Ouyang**, and X. Wang, ”Unsupervised Salience Learning for Person Re-identiﬁcation,” In Proc. CVPR, Portland, USA, Jun. 2013.
+
 **W. Ouyang**, and X. Wang, ”A Discriminative Deep Model for Pedestrian Detection with Occlusion Handling,” In Proc. CVPR, Rhode Island, USA, Jun. 2012.
 
 <hr/>
