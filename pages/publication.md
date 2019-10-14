@@ -191,6 +191,7 @@ P. Zhang, **W. Ouyang**, Pengfei Zhang, Jianru Xue, Nanning Zheng. ”SRLSTM: St
 <div class="row">
   <img src="../images/images_for_pub/DraggedImage.b58bd40d196c48fbbe8f49629794544d.png", width="700">
 </div>
+
 Li, Hongyang, Bo Dai, Shaoshuai Shi, **Wanli Ouyang**, and Xiaogang Wang. ”Feature Intertwiner for Object Detection.” ICLR, 2019.
 
 <hr/>
