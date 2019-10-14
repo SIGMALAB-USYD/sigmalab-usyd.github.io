@@ -145,8 +145,7 @@ Chuming Li, Xin Yuan, Chen Lin, Minghao Guo, Wei Wu, Junjie Yan, **W. Ouyang**. 
 
 Yingyue Xu, Dan Xu, Xiaopeng Hong, **W. Ouyang**, Rongrong Ji, Min Xu, Guoying Zhao. ”Structured Modeling of Joint Deep Feature and Prediction Reﬁnement for Salient Object Detection”, Proc. ICCV, 2019.
 
-
-
+<hr/>
 
 <div class="row">
   <img src="../images/images_for_pub/DraggedImage.28bacd0b605943b78dd318d97179c4df.png" width="350">
