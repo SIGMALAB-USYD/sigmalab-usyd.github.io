@@ -140,7 +140,10 @@ Yingyue Xu, Dan Xu, Xiaopeng Hong, **W. Ouyang**, Rongrong Ji, Min Xu, Guoying Z
 
 
 
-
+<div class="row">
+  <img src="../images/images_for_pub/DraggedImage.28bacd0b605943b78dd318d97179c4df.png" width="350">
+  <img src="../images/images_for_pub/DraggedImage.2c2195aebbd14cc99f255bba663688a7.png" width="350">
+</div>
 H. Zhang, Jie Cao, Guo Lu, **W. Ouyang**, Zhenan Sun. ”DaNet: Decomposeand-aggregate Network for 3D Human Shape and Pose Estimation ”, Proc. ACM Multimedia, 2019.
 Z. Yao, B. Zhang, Z. Wang **W. Ouyang**, D. Xu, D. Feng. ”IntersectGAN: Learning Domain Intersection for Generating Images with Multiple Attributes”, Proc. ACM Multimedia, 2019.
 
