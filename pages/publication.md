@@ -20,6 +20,80 @@ permalink: "/publication/"
 
 [[sort by type][1]]	[[sort by date][2]]
 
+<img src="../images/images_for_pub/DraggedImage.5f16e2bf29154b17a98feb87b45c648c.png" width="350">
+Liu, Li, Wanli Ouyang, Xiaogang Wang, Paul Fieguth, Jie Chen, Xinwang Liu, and Matti Pietikinen, ”Deep learning for generic object detection: A survey,” International Journal of Computer Vision (IJCV), accepted, Sept. 2019.
+
+<img src="../images/images_for_pub/DraggedImage.e2e5334e2a054dd4a84a6284e6bccb4b.png" width="350">
+Guo Lu, Xiaoyun Zhang, Wanli Ouyang, Dong Xu, Li Chen, and Zhiyong Gao, “Deep Non-local Kalman Network for Video Compression Artifact Reduction”, Trans. Image Process. (TIP), accepted Sept., 2019.
+
+<img src="../images/images_for_pub/DraggedImage.dab6cfff637e420997663eed691ad6d2.png" width="350">
+Lingbo Liu, Zhilin Qiu, Guanbin Li, Qing Wang, Wanli Ouyang, Liang Lin, “Contextualized Spatial-Temporal Network for Taxi Origin-Destination Demand Prediction”, IEEE Transactions on Intelligent Transportation Systems (TITS), accepted Apr., 2019.
+
+<img src="../images/images_for_pub/DraggedImage.63e068fbf7ce479d91982160d54abbe6.png" width="700">
+H. Li, Y. Liu, W. Ouyang, X. Wang, ”Zoom Out-and-In Network with Map Attention Decision for Region Proposal and Object Detection,” International Journal of Computer Vision (IJCV), Accepted Jun., 2018.
+
+<img src="../images/images_for_pub/DraggedImage.25e423fea9374349906e4ace16c19b2c.png" width="700">
+D. Xu, E. Ricci, W. Ouyang, X. Wang, N. Sebe, ”Monocular Depth Estimation using Multi-Scale Continuous CRFs as Sequential Deep Networks,” IEEE Trans. Pattern Anal. Mach. Intell. (PAMI), Accepted Apr., 2018.
+
+<img src="../images/images_for_pub/DraggedImage.659a499a4b4e4ce2a5eedceb744a33ef.png" width="700">
+Hui Zhou, W. Ouyang, J. Cheng, X. Wang, H. Li, ”Deep Continuous Conditional Random Fields with Asymmetric Inter-object Constraints for Online Multi-object Tracking,” IEEE Trans. Circuits Syst. Video Technol. (CSVT), Accepted Apr., 2018.
+
+<img src="../images/images_for_pub/DraggedImage.56338e891c1e4f6d80d9069f13cdf78d.png" width="700">
+Wanli Ouyang, H. Zhou, H. Li, et. al, ”Jointly learning deep features, deformable parts, occlusion and classiﬁcation for pedestrian detection,” IEEE Trans. Pattern Anal. Mach. Intell. (PAMI), 40(8):1874-1887, Aug. 2018.
+
+<img src="../images/images_for_pub/DraggedImage.5268524d5d5d4cc4bd10f69e32c87c4c.png" width="350">
+X. Zeng (equal contribution), W. Ouyang (equal contribution), et. al, ”Crafting GBD-Net for Object Detection,” IEEE Trans. Pattern Anal. Mach. Intell. (PAMI), 40(9): 2109-2123, Sep. 2018.
+
+<img src="../images/images_for_pub/DraggedImage.c80fa0efe75140f782bda81484efbb28.png" width="700">
+K. Kang, H. Li, J. Yan, X. Zeng, B. Yang, T. Xiao, C. Zhang, Z. Wang, R. Wang, X. Wang, W. Ouyang, T-CNN: Tubelets with Convolutional Neural Networks for Object Detection from Videos, IEEE Transactions on Circuits and Systems for Video Technology (CSVT), accepted, 2017.
+
+<img src="../images/images_for_pub/DraggedImage.0af2b9e08ae34021887e1d90636a2a45.png" width="700">
+W. Ouyang, T. Zhao, W. Cham, et. al. “Fast Full-Search Equivalent Pattern Matching Using Asymmetric Haar Wavelet Packets. , IEEE Trans. Circuits Syst. Video Technol. (CSVT), accepted, 2016.
+
+<img src="../images/images_for_pub/DraggedImage.3561883fb9364232ba39e38470eab09d.png" width="350">
+W. Ouyang, X. Wang, et. al. “DeepID-Net: Object Detection with Deformable Part Based Convolutional Neural Networks”, IEEE Trans. Pattern Anal. Mach. Intell. (PAMI), 39(7):1320-1334, Jul. 2017.
+
+<img src="../images/images_for_pub/DraggedImage.788f56043ab546e5b56cc65be96f1f01.png" width="700">
+R. Zhao, W. Ouyang (Correspondence author), X. Wang, “Person Reidentiﬁcation by Saliency Learning”, IEEE Trans. Pattern Anal. Mach. Intell. (PAMI), 39(2):356-70, Feb. 2017.
+
+<img src="../images/images_for_pub/DraggedImage.6c5212daaca04c308d706bfa466ead34.png" width="350">
+W. Ouyang, X. Zeng, X. Wang, “Learning Mutual Visibility Relationship for Pedestrian Detection with a Deep Model”, International Journal of Computer Vision (IJCV), 120(1):14-27, Oct. 2016.
+
+<img src="../images/images_for_pub/DraggedImage.eeadac330e5f48f88791dc2e9c67dac9.png" width="350">
+W. Ouyang, X. Zeng, X. Wang, “Partial Occlusion Handling in Pedestrian Detection with a Deep Model”, IEEE Trans. Circuits Syst. Video Technol. (CSVT), 26(11):2123-37, Nov. 2016.
+
+<img src="../images/images_for_pub/DraggedImage.10edae5361b7408a82c228ab3b9c716c.png" width="350">
+W. Ouyang, X. Zeng and X. Wang, “Single-Pedestrian Detection Aided by TwoPedestrian Detection”, IEEE Trans. Pattern Anal. Mach. Intell. (PAMI), 37(9):1875 - 1889, Sept. 2015.
+
+<img src="../images/images_for_pub/DraggedImage.0c26b4e3491740ee91e83b3c797cc905.png" width="350">
+W. Ouyang, R. Zhang and W.-K. Cham, “Segmented Gray-Code Kernels for Fast Pattern Matching”, IEEE Trans. Image Process. (TIP) , 22(4):1512-1525, Apr. 2013.
+
+<img src="../images/images_for_pub/DraggedImage.fcd69b4f555a4cd0b7292bbfa299b2b5.png" width="350">
+W. Ouyang, F. Tombari, S. Mattoccia, L. D. Stefano, and W.-K. Cham, “Performance Evaluation of Full Search Equivalent Pattern Matching Algorithms,” IEEE Trans. Pattern Anal. Mach. Intell. (PAMI), 34(1):127-143, Jan. 2012.
+
+<img src="../images/images_for_pub/DraggedImage.0c1214f46eef4f4a80dd855af3ce1ce6.png" width="700">
+W. Ouyang and W.-K. Cham, “Fast algorithm for Walsh Hadamard transform on sliding windows”, IEEE Trans. Pattern Anal. Mach. Intell.(PAMI), 32(1):165-171, Jan. 2010.
+
+<img src="../images/images_for_pub/DraggedImage.754195b5a3174c77b926d1f1fa07114d.png" width="700">
+Y. Li, N. Xiao, W. Ouyang, ”Improved Boundary Equilibrium Generative Adversarial Networks,” IEEE Access”, Accepted, Jan., 2018.
+
+<img src="../images/images_for_pub/DraggedImage.fa23ea2a2d304a6b80c1eae997dc18ee.png" width="350">
+Y. Li, N. Xiao, W. Ouyang, ”Improved Generative Adversarial Networks with Reconstruction Loss,” Neurocomputing, Accepted, Oct., 2018.
+
+<img src="../images/images_for_pub/DraggedImage.fb9eeb65bc7a41849c042414960002eb.png" width="350">
+L. Huang, Y. Huang, Wanli Ouyang, L. Wang, ”Part-Aligned Pose-Guided Recurrent Network for Action Recognition,” Pattern Recognition (PR), accepted Mar., 2019.
+
+<img src="../images/images_for_pub/DraggedImage.f0ad14479ed0419d900e915d8c2891f2.png" width="700">
+Yukai Shi, Jinghui Qin, Pengxu Wei, Wanli Ouyang, Liang Lin, “Perceptual Image Enhancement by Relativistic Discriminant Learning With Cross-Scale Aggregated Representation”, IEEE Access, accepted Mar., 2019.
+
+<img src="../images/images_for_pub/DraggedImage.c4b59ddef4044c708c847c14c8ec2461.png" width="700">
+Zhiwang Zhang, Dong Xu, Wanli Ouyang, Chuanqi Tan, “Show, Tell and Summarize: Dense Video Captioning Using Visual Cue Aided Sentence Summarization”, IEEE Trans. Circuits Syst. Video Technol. (CSVT), accepted Aug., 2019.
+
+
+
+
+
+
 ### 2019
 
 <div class="row">
@@ -301,7 +375,7 @@ Wanli Ouyang, C. Xiao, W. Ju, and D. Song. Practical fast asymmetric DCT algorit
 
 
 
-[1]:	/publication_type/
+[1]:	/publication/
 [2]:	/publication/
 [3]:	https://github.com/GuoLusjtu/DVC
 [4]:	https://github.com/kevin-ssy/FishNet
