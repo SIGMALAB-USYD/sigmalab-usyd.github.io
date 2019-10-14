@@ -21,15 +21,14 @@ permalink: "/publication/"
 [[sort by type][1]]	[[sort by date][2]]
 
 ### 2019
-<img src="../images/usyd_bg.jpg" alt="drawing" width="200">
 
 <div class="row">
   <div class="column">
-    <img src="../images/usyd_bg.jpg" alt="drawing" width="500">
+    <img src="../images/usyd_bg.jpg" alt="drawing" width="800">
   </div>
   <div class="column">
-    <img src="../images/usyd_bg.jpg" alt="drawing" width="250">
-    <img src="../images/usyd_bg.jpg" alt="drawing" width="250">
+    <img src="../images/usyd_bg.jpg" alt="drawing" width="400">
+    <img src="../images/usyd_bg.jpg" alt="drawing" width="400">
   </div>
 </div>
 
