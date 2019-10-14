@@ -66,7 +66,7 @@ K. Kang, H. Li, J. Yan, X. Zeng, B. Yang, T. Xiao, C. Zhang, Z. Wang, R. Wang, X
 
 **W. Ouyang**, X. Wang, et. al. “DeepID-Net: Object Detection with Deformable Part Based Convolutional Neural Networks”, IEEE Trans. Pattern Anal. Mach. Intell. (PAMI), 39(7):1320-1334, Jul. 2017.
 
-<img src="../images/images_for_pub/DraggedImage.788f56043ab546e5b56cc65be96f1f01.png" width="700">
+<!--<img src="../images/images_for_pub/DraggedImage.788f56043ab546e5b56cc65be96f1f01.png" width="700">-->
 
 R. Zhao, **W. Ouyang** (Correspondence author), X. Wang, “Person Reidentiﬁcation by Saliency Learning”, IEEE Trans. Pattern Anal. Mach. Intell. (PAMI), 39(2):356-70, Feb. 2017.
 
@@ -74,11 +74,11 @@ R. Zhao, **W. Ouyang** (Correspondence author), X. Wang, “Person Reidentiﬁca
 
 **W. Ouyang**, X. Zeng, X. Wang, “Learning Mutual Visibility Relationship for Pedestrian Detection with a Deep Model”, International Journal of Computer Vision (IJCV), 120(1):14-27, Oct. 2016.
 
-<img src="../images/images_for_pub/DraggedImage.eeadac330e5f48f88791dc2e9c67dac9.png" width="350">
+<!--<img src="../images/images_for_pub/DraggedImage.eeadac330e5f48f88791dc2e9c67dac9.png" width="350">-->
 
 **W. Ouyang**, X. Zeng, X. Wang, “Partial Occlusion Handling in Pedestrian Detection with a Deep Model”, IEEE Trans. Circuits Syst. Video Technol. (CSVT), 26(11):2123-37, Nov. 2016.
 
-<img src="../images/images_for_pub/DraggedImage.10edae5361b7408a82c228ab3b9c716c.png" width="350">
+<!--<img src="../images/images_for_pub/DraggedImage.10edae5361b7408a82c228ab3b9c716c.png" width="350">-->
 
 **W. Ouyang**, X. Zeng and X. Wang, “Single-Pedestrian Detection Aided by TwoPedestrian Detection”, IEEE Trans. Pattern Anal. Mach. Intell. (PAMI), 37(9):1875 - 1889, Sept. 2015.
 
@@ -94,7 +94,7 @@ R. Zhao, **W. Ouyang** (Correspondence author), X. Wang, “Person Reidentiﬁca
 
 **W. Ouyang** and W.-K. Cham, “Fast algorithm for Walsh Hadamard transform on sliding windows”, IEEE Trans. Pattern Anal. Mach. Intell.(PAMI), 32(1):165-171, Jan. 2010.
 
-<img src="../images/images_for_pub/DraggedImage.754195b5a3174c77b926d1f1fa07114d.png" width="700">
+<!--<img src="../images/images_for_pub/DraggedImage.754195b5a3174c77b926d1f1fa07114d.png" width="700">-->
 
 Y. Li, N. Xiao, **W. Ouyang**, ”Improved Boundary Equilibrium Generative Adversarial Networks,” IEEE Access”, Accepted, Jan., 2018.
 
@@ -235,9 +235,9 @@ H. Li, B. Dai, **W. Ouyang**, X. Guo, X. Wang, ”Neural Network Encapsulation �
     <img src="../images/images_for_pub/DraggedImage.5b8045b2419941d19acf270991ecb9cb.png" width="700">
   </div>
   <div class="column">
-    <img src="../images/images_for_pub/DraggedImage.5e9dedd6b2f0468082a3ee3bad8f0bcb.png" width="300">
-    <img src="../images/images_for_pub/DraggedImage.50b9db65864c40b08368335d952db381.png" width="200">
-    <img src="../images/images_for_pub/DraggedImage.dfe4f35aff5a46ad97c06def1c28a82f.png" width="200">
+    <!--<img src="../images/images_for_pub/DraggedImage.5e9dedd6b2f0468082a3ee3bad8f0bcb.png" width="300">-->
+    <img src="../images/images_for_pub/DraggedImage.50b9db65864c40b08368335d952db381.png" width="350">
+    <!--<img src="../images/images_for_pub/DraggedImage.dfe4f35aff5a46ad97c06def1c28a82f.png" width="200">-->
   </div>
 </div>
 
@@ -261,9 +261,9 @@ C. Song, Y. Huang, **W. Ouyang**, L. Wang. ”Mask-guided Contrastive Attention 
 
 <hr/>
 
-<div class="row">
+<!--<div class="row">
   <img src="../images/images_for_pub/DraggedImage.b89549539749413c8e18a3e0ab6a54bc.png" width="700">
-</div>
+</div>-->
 
 L. Liu, H. Wang, G. Li, **W. Ouyang**, L. Lin, ”Crowd Counting using Deep Recurrent Spatial-Aware Network”, Proc. IJCAI, 2018.
 
@@ -275,8 +275,8 @@ L. Liu, H. Wang, G. Li, **W. Ouyang**, L. Lin, ”Crowd Counting using Deep Recu
     <img src="../images/images_for_pub/DraggedImage.026cc232aca14edaa37b32c537a37d95.png" width="700">
   </div>
   <div class="column">
-    <img src="../images/images_for_pub/DraggedImage.2070344c4b80422eb197e8cca6bc20d4.png" width="350">
-    <img src="../images/images_for_pub/DraggedImage.b36795dfff8d4e7c89093d05bf22d7d7.png" width="350">
+    <img src="../images/images_for_pub/DraggedImage.2070344c4b80422eb197e8cca6bc20d4.png" width="700">
+    <!--<img src="../images/images_for_pub/DraggedImage.b36795dfff8d4e7c89093d05bf22d7d7.png" width="350">-->
   </div>
 </div>
 
@@ -412,8 +412,8 @@ Rui Zhao, **W. Ouyang**, Hongsheng Li, and Xiaogang Wang, ”Saliency Detection 
 <hr/>
 
 <div class="row">
-  <img src="../images/images_for_pub/DraggedImage.d736476b81934575b5862b9789c738e2.png" width="350">
-  <img src="../images/images_for_pub/DraggedImage.45d3845baeb34c429f6247e0c8e8e1bc.png" width="350">
+  <!--<img src="../images/images_for_pub/DraggedImage.d736476b81934575b5862b9789c738e2.png" width="350">-->
+  <img src="../images/images_for_pub/DraggedImage.45d3845baeb34c429f6247e0c8e8e1bc.png" width="700">
 </div>
 
 
@@ -434,9 +434,9 @@ Zhao, Rui, **W. Ouyang**, and Xiaogang Wang. ”Learning mid-level ﬁlters for 
 <hr/>
 
 <div class="row">
-  <img src="../images/images_for_pub/DraggedImage.7e44741ba88f4460a9b0ba74592a129a.png" width="300">
-  <img src="../images/images_for_pub/DraggedImage.5617a71b0c9741e58917c6831ee71738.png" width="200">
-  <img src="../images/images_for_pub/DraggedImage.d30f7ec251194a3b903563c9092e0308.png" width="200">
+  <img src="../images/images_for_pub/DraggedImage.7e44741ba88f4460a9b0ba74592a129a.png" width="700">
+  <!--<img src="../images/images_for_pub/DraggedImage.5617a71b0c9741e58917c6831ee71738.png" width="200">
+  <img src="../images/images_for_pub/DraggedImage.d30f7ec251194a3b903563c9092e0308.png" width="200">-->
 </div>
 
 
@@ -448,11 +448,11 @@ Rui Zhao, **W. Ouyang**, and X. Wang, ”Person Re-identiﬁcation by Salience M
 
 <hr/>
 
-<div class="row">
+<!--<div class="row">
   <img src="../images/images_for_pub/DraggedImage.d718c13700af489b88bbeae0d5d704eb.png" width="240">
   <img src="../images/images_for_pub/DraggedImage.b85d603e9cee4761ba95e9e1fc941c32.png" width="230">
   <img src="../images/images_for_pub/DraggedImage.7bb6f91586a643419e300b696974852f.png" width="230">
-</div>
+</div>-->
 
 
 **W. Ouyang**, X. Zeng, and X. Wang, ”Modeling Mutual Visibility Relationship in Pedestrian Detection,” In Proc. CVPR, Portland, USA, Jun. 2013.
