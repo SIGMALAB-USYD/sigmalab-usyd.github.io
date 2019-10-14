@@ -20,6 +20,8 @@ permalink: "/publication/"
 
 [[sort by type][1]]	[[sort by date][2]]
 
+# Journal Publication
+
 <img src="../images/images_for_pub/DraggedImage.5f16e2bf29154b17a98feb87b45c648c.png" width="350">
 
 Liu, Li, Wanli Ouyang, Xiaogang Wang, Paul Fieguth, Jie Chen, Xinwang Liu, and Matti Pietikinen, ”Deep learning for generic object detection: A survey,” International Journal of Computer Vision (IJCV), accepted, Sept. 2019.
