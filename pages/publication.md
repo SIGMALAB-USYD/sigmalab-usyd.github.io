@@ -168,12 +168,19 @@ Z. Yao, B. Zhang, Z. Wang **W. Ouyang**, D. Xu, D. Feng. ”IntersectGAN: Learni
 </div>
 
 B. Li, **W. Ouyang**, Lu Sheng, et. al. ”GS3D: An Eﬃcient 3D Object Detection Framework for Autonomous Driving”, Proc. CVPR, 2019.
+
 J. Pang, K. Chen, J. Shi, **W. Ouyang**, et. al. ”Libra R-CNN: Balanced Learning for Object Detection”, Proc. CVPR, 2019.
+
 K. Chen, J. Pang, J. Wang, Y. Xiong, X. Li, S. Sun, W. Feng, Z. Liu, J. Shi, **W. Ouyang**,C. Loy, D. Lin. ”Hybrid Task Cascade for Instance Segmentation”, Proc. CVPR, 2019.
+
 C. Song, Y. Huang, **W. Ouyang**, L. Wang. ”Box-driven Class-wise Region Masking and Filling Rate Guided Loss for Weakly Supervised Semantic Segmentation”, Proc. CVPR, 2019.
+
 S. Jin, W. Liu, **W. Ouyang**, C. Qian. ”Multi-person Articulated Tracking with Spatial and Temporal Embeddings”, Proc. CVPR, 2019.
+
 G. Lu, **W. Ouyang**, D. Xu, C. Cai, X. Zhang, Z. Gao. ”DVC: An End-to-end Deep Video Compression Framework”, Proc. CVPR, 2019. (Oral)
+
 R. Su, **W. Ouyang**,Luping Zhou, Dong Xu. ”Improving Action Localization by Progressive Cross-stream Cooperation”, Proc. CVPR, 2019.
+
 P. Zhang, **W. Ouyang**, Pengfei Zhang, Jianru Xue, Nanning Zheng. ”SRLSTM: State Reﬁnement for LSTM towards Pedestrian Trajectory Prediction”, Proc. CVPR, 2019.
 
 <hr/>
