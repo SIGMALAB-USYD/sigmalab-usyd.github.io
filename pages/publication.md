@@ -188,16 +188,16 @@ P. Zhang, **W. Ouyang**, Pengfei Zhang, Jianru Xue, Nanning Zheng. ”SRLSTM: St
 
 <hr/>
 
-<div class="row">
-  <img src="../images/images_for_pub/DraggedImage.b58bd40d196c48fbbe8f49629794544d.png", width="700">
+<div class="column">
+  <img src="../images/images_for_pub/DraggedImage.b58bd40d196c48fbbe8f49629794544d.png" width="700">
 </div>
 
 Li, Hongyang, Bo Dai, Shaoshuai Shi, **Wanli Ouyang**, and Xiaogang Wang. ”Feature Intertwiner for Object Detection.” ICLR, 2019.
 
 <hr/>
 
-<div class="row">
-  <img src="../images/images_for_pub/DraggedImage.7be53f52b4d144359c2737a084d62b3f.png", width="700">
+<div class="column">
+  <img src="../images/images_for_pub/DraggedImage.7be53f52b4d144359c2737a084d62b3f.png" width="700">
 </div>
 
 S. Sun, Jiangmiao Pang, Jianping Shi, Shuai Yi, **W. Ouyang**, ”FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction”, Proc. NIPS, 2018.
