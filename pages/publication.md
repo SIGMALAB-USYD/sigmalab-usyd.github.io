@@ -128,13 +128,21 @@ Zhiwang Zhang, Dong Xu, **Wanli Ouyang**, Chuanqi Tan, “Show, Tell and Summari
 </div>
 
 Peixia Li, Boyu Chen, **W. Ouyang**, Dong Wang, Xiaoyun Yang, Huchuan Lu. ”GradNet: Gradient-Guided Network for Visual Object Tracking”, Proc. ICCV, 2019. (Oral)
+
 Haodong Duan, Kwan-Yee Lin, Sheng Jin, Wentao Liu, Chen Qian, **W. Ouyang**. ”TRB: A Novel Triplet Representation for Understanding 2D Human Body”, Proc. ICCV, 2019. (Oral)
+
 Lingbo Liu, Zhilin Qiu , Guanbin Li, Shufan Liu, **W. Ouyang**, Liang Lin. ”Crowd Counting with Deep Structured Scale Integration Network”, Proc. ICCV, 2019.
+
 Lu Sheng, Dan Xu, **W. Ouyang**, Xiaogang Wang. ”Unsupervised Collaborative Learning of Keyframe Detection and Visual Odometry towards Monocular Deep SLAM”, Proc. ICCV, 2019.
+
 Chen Lin, Minghao Guo, Chuming Li, Xin Yuan, Wei Wu, Junjie Yan, Dahua Lin, **W. Ouyang**. ”Online Hyper-parameter Learning for Auto-Augmentation Strategy”, Proc. ICCV, 2019.
+
 Xinzhu Ma, Zhihui Wang, Haojie Li, Pengbo Zhang, **W. Ouyang**, Xin Fan. ”Accurate Monocular Object Detection via Color-Embedded 3D Reconstruction for Autonomous Driving”, Proc. ICCV, 2019.
+
 Yunan Li, Qiguang Miao, **W. Ouyang**, Zhenxin Ma, Huijuan Fang, Chao Dong, Yining Quan. ”LAP-Net: Level-Aware Progressive Network for Image Dehazing”, Proc. ICCV, 2019.
+
 Chuming Li, Xin Yuan, Chen Lin, Minghao Guo, Wei Wu, Junjie Yan, **W. Ouyang**. ”AM-LFS: AutoML for Loss Function Search”, Proc. ICCV, 2019.
+
 Yingyue Xu, Dan Xu, Xiaopeng Hong, **W. Ouyang**, Rongrong Ji, Min Xu, Guoying Zhao. ”Structured Modeling of Joint Deep Feature and Prediction Reﬁnement for Salient Object Detection”, Proc. ICCV, 2019.
 
 
@@ -145,6 +153,7 @@ Yingyue Xu, Dan Xu, Xiaopeng Hong, **W. Ouyang**, Rongrong Ji, Min Xu, Guoying Z
   <img src="../images/images_for_pub/DraggedImage.2c2195aebbd14cc99f255bba663688a7.png" width="350">
 </div>
 H. Zhang, Jie Cao, Guo Lu, **W. Ouyang**, Zhenan Sun. ”DaNet: Decomposeand-aggregate Network for 3D Human Shape and Pose Estimation ”, Proc. ACM Multimedia, 2019.
+
 Z. Yao, B. Zhang, Z. Wang **W. Ouyang**, D. Xu, D. Feng. ”IntersectGAN: Learning Domain Intersection for Generating Images with Multiple Attributes”, Proc. ACM Multimedia, 2019.
 
 
