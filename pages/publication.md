@@ -25,13 +25,13 @@ permalink: "/publication/"
 
 <div class="row">
 	<div class="column">
-		<img src="../images/usyd_bg.jpg" alt="drawing" style="width:300">
+		<img src="../images/usyd_bg.jpg" alt="drawing" width="300">
 	</div>
 	<div class="column">
-		<img src="../images/usyd_bg.jpg" alt="drawing" style="width:300">
+		<img src="../images/usyd_bg.jpg" alt="drawing" width="300">
 	</div>
 	<div class="column">
-		<img src="../images/usyd_bg.jpg" alt="drawing" style="width:300">
+		<img src="../images/usyd_bg.jpg" alt="drawing" width="300">
 	</div>
 </div>
 
