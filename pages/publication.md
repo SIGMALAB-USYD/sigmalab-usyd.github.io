@@ -188,7 +188,7 @@ P. Zhang, **W. Ouyang**, Pengfei Zhang, Jianru Xue, Nanning Zheng. ”SRLSTM: St
 
 <hr/>
 
-<div class="column">
+<div class="row">
   <img src="../images/images_for_pub/DraggedImage.b58bd40d196c48fbbe8f49629794544d.png" width="700">
 </div>
 
@@ -196,7 +196,7 @@ Li, Hongyang, Bo Dai, Shaoshuai Shi, **Wanli Ouyang**, and Xiaogang Wang. ”Fea
 
 <hr/>
 
-<div class="column">
+<div class="row">
   <img src="../images/images_for_pub/DraggedImage.7be53f52b4d144359c2737a084d62b3f.png" width="700">
 </div>
 
@@ -261,11 +261,25 @@ C. Song, Y. Huang, **W. Ouyang**, L. Wang. ”Mask-guided Contrastive Attention 
 
 <hr/>
 
+<div class="row">
+  <img src="../images/images_for_pub/DraggedImage.b89549539749413c8e18a3e0ab6a54bc.png" width="700">
+</div>
 
 L. Liu, H. Wang, G. Li, **W. Ouyang**, L. Lin, ”Crowd Counting using Deep Recurrent Spatial-Aware Network”, Proc. IJCAI, 2018.
 
 
 <hr/>
+
+<div class="row">
+  <div class="column">
+    <img src="../images/images_for_pub/DraggedImage.026cc232aca14edaa37b32c537a37d95.png" width="700">
+  </div>
+  <div class="column">
+    <img src="../images/images_for_pub/DraggedImage.2070344c4b80422eb197e8cca6bc20d4.png" width="350">
+    <img src="../images/images_for_pub/DraggedImage.b36795dfff8d4e7c89093d05bf22d7d7.png" width="350">
+  </div>
+</div>
+
 
 **W. Ouyang**, Kun Wang, Xin Zhu, Xiaogang Wang. ”Chained Cascade Network for Object Detection”, Proc. ICCV, 2017.
 
@@ -277,9 +291,25 @@ Qi Chu, **W. Ouyang**, Hongsheng Li, Xiaogang Wang, Bin Liu, Nenghai Yu. ”Onli
 
 <hr/>
 
+<div class="row">
+  <img src="../images/images_for_pub/DraggedImage.fe9974f11ec04de9a8f84fd48054c355.png" width="350">
+</div>
+
+
 Dan Xu, **W. Ouyang**, Xavier Alameda-Pineda, Elisa Ricci, Xiaogang Wang, Nicu Sebe. ”Learning Deep Structured Multi-Scale Features using Attention-Gated CRFs for Contour Prediction”, Proc. NIPS, 2017.
 
 <hr/>
+
+<div class="row">
+  <div class="column">
+    <img src="../images/images_for_pub/DraggedImage.43368a4697f54777ba56a54e99996c07.png" width="700">
+  </div>
+  <div class="column">
+    <img src="../images/images_for_pub/DraggedImage.7bdc9ae08a5b48e4bb8234d9656bc1ae.png" width="350">
+    <img src="../images/images_for_pub/DraggedImage.e426c952274240ee828ec0cf8dfb8888.png" width="350">
+  </div>
+</div>
+
 
 Kai Kang, Hongsheng Li, **W. Ouyang** , Junjie Yan, Xihui Liu, Tong Xiao, Xiaogang Wang. ”Object Detection in Vidoes with Tubelet Proposal Networks”, Proc. CVPR , 2017.
 
@@ -293,13 +323,23 @@ Xiao Chu, Wei Yang, **W. Ouyang** , Xiaogang Wang, Alan Yuille. ”MultiContext 
 
 Dan Xu, Elisa Ricci, **W. Ouyang**, Xiaogang Wang, Nicu Sebe. Multi-Scale Continuous CRFs as Sequential Deep Networks for Monocular Depth Estimation”, Proc. CVPR , 2017.
 
-Dan Xu, **W. Ouyang** , Elisa Ricci, Xiaogang Wang, Nicu Sebe. Learning CrossModal Deep Representations for Robust Pedestrian Detection”, Proc. CVPR , 2017.
+Dan Xu, **W. Ouyang** , Elisa Ricci, Xiaogang Wang, Nicu Sebe. “Learning CrossModal Deep Representations for Robust Pedestrian Detection”, Proc. CVPR , 2017.
 
 <hr/>
+
+<div class="row">
+  <img src="../images/images_for_pub/DraggedImage.34754d1fa9164067b8a8ea1f36246f55.png" width="700">
+</div>
+
 
 X. Chu, **W. Ouyang**, H. Li, X. Wang. ”CRF-CNN: Modeling Structured Information in Human Pose Estimation”, Advances In Neural Information Processing Systems (NIPS), 2016.
 
 <hr/>
+
+<div class="row">
+  <img src="../images/images_for_pub/DraggedImage.72ade8bd720f44bdb9a4267fd1253f2c.png" width="350">
+  <img src="../images/images_for_pub/DraggedImage.d65f5e77335648699a59dc8aa0a01ac5.png" width="350">
+</div>
 
 
 Z. Wang, H. Li, **W. Ouyang**, X. Wang. ”Learnable Histogram: Statistical Context Features for Deep Neural Networks”, in Proc. ECCV, 2016.
@@ -308,9 +348,25 @@ Xingyu Zeng, **W. Ouyang**, Bin Yang, Junjie Yan, Xiaogang. ”Gated Bidirection
 
 <hr/>
 
+<div class="row">
+  <img src="../images/images_for_pub/DraggedImage.c1f81eb60cfa4986ae38f402ab984d95.png" width="700">
+</div>
+
+
 Hongyang Li, **W. Ouyang**, Xiaogang Wang ”Multiple Bias on Non-linearity Activation in Deep Neural Networks”, In Proc. ICML 2016.
 
 <hr/>
+
+<div class="row">
+  <div class="column">
+    <img src="../images/images_for_pub/DraggedImage.10b13d0e6ceb40df9c350b5773a0073c.png" width="700">
+  </div>
+  <div class="column">
+    <img src="../images/images_for_pub/DraggedImage.f54a5580403b43bba2606b568835066d.png" width="450">
+    <img src="../images/images_for_pub/DraggedImage.47265b0bacdc41378325b4f1ee2abb85.png" width="250">
+  </div>
+</div>
+
 
 **W. Ouyang**, X. Wang, C. Zhang, and X. Yang. ”Factors in ﬁnetuning deep model for object detection with long-tail distribution”. In Proc. CVPR, 2016.
 
@@ -327,6 +383,13 @@ L. Wang, **W. Ouyang**, X. Wang, and H. Lu. ”STCT: Sequentially training convo
 
 <hr/>
 
+<div class="row">
+  <img src="../images/images_for_pub/DraggedImage.cac1e44be799420ab2f750ff2c4d86f0.png" width="300">
+  <img src="../images/images_for_pub/DraggedImage.66a04b5a83be4cd5bcc0614aac51fed6.png" width="200">
+  <img src="../images/images_for_pub/DraggedImage.cbe1fc797a5d4308a0a2c7d4983574b7.png" width="200">
+</div>
+
+
 **W. Ouyang**, Hongyang Li, Xingyu Zeng, Xiaogang Wang, ”Learning Deep Representation with Large-scale Attributes”, In Proc. ICCV, 2015.
 
 Xiao Chu, Wei Yang, **W. Ouyang**, Xiao gang Wang, ”Multi-task Recurrent Neural Network for Immediacy Prediction”, In ICCV, 2015 (Oral).
@@ -336,21 +399,47 @@ Lijun Wang, **W. Ouyang**, Xiaogang Wang, Huchuan Lu, ”Visual Tracking with Fu
 
 <hr/>
 
+<div class="row">
+  <img src="../images/images_for_pub/DraggedImage.d32448d06bf74a0f96e6806eba8da9cf.png" width="400">
+  <img src="../images/images_for_pub/DraggedImage.32905f3f10ca4698b79c01a423d5f198.png" width="300">
+</div>
+
+
 **W. Ouyang**, Xiaogang Wang, Xingyu Zeng, Shi Qiu, Ping Luo, Yonglong Tian, Hongsheng Li, Shuo Yang, Zhe Wang, Chen-Change Loy and Xiaoou Tang, ”DeepIDNet: Deformable Deep Convolutional Neural Networks for Object Detection”, In Proc. CVPR, 2015.
 
 Rui Zhao, **W. Ouyang**, Hongsheng Li, and Xiaogang Wang, ”Saliency Detection by Multi-context Deep Learning”, In Proc. CVPR, 2015.
 
 <hr/>
 
+<div class="row">
+  <img src="../images/images_for_pub/DraggedImage.d736476b81934575b5862b9789c738e2.png" width="350">
+  <img src="../images/images_for_pub/DraggedImage.45d3845baeb34c429f6247e0c8e8e1bc.png" width="350">
+</div>
+
+
 Xingyu Zeng, **W. Ouyang**, and X. Wang, ”Deep Learning of Scene-speﬃc Classiﬃer for Pedestrian Detection,” In Proc. ECCV, Sept. 2014.
 
 <hr/>
+
+<div class="row">
+  <img src="../images/images_for_pub/DraggedImage.45798f2316c74c36833e9087935b69de.png" width="350">
+  <img src="../images/images_for_pub/DraggedImage.2cd315de950a4a75b28d87fbd85f422e.png" width="350">
+</div>
+
 
 Zhao, Rui, **W. Ouyang**, and Xiaogang Wang. ”Learning mid-level ﬁlters for person re-identiﬁcation.” In Proc. CVPR, Columbus, USA, Jun. 2014.
 
 **W. Ouyang**, X. Chu, and X. Wang, ”Multi-source Deep Learning for Human Pose Estimation,” In Proc. CVPR, Columbus, USA, Jun. 2014.
 
 <hr/>
+
+<div class="row">
+  <img src="../images/images_for_pub/DraggedImage.7e44741ba88f4460a9b0ba74592a129a.png" width="300">
+  <img src="../images/images_for_pub/DraggedImage.5617a71b0c9741e58917c6831ee71738.png" width="200">
+  <img src="../images/images_for_pub/DraggedImage.d30f7ec251194a3b903563c9092e0308.png" width="200">
+</div>
+
+
 **W. Ouyang**, and X. Wang, ”Joint Deep Learning for Pedestrian Detection,” In Proc. ICCV, Sydney, Australia, Dec. 2013.
 
 X. Zeng, **W. Ouyang**, and X. Wang, ”Multi-Stage Contextual Deep Learning for Pedestrian Detection,” In Proc. ICCV, Sydney, Australia, Dec. 2013.
@@ -358,6 +447,13 @@ X. Zeng, **W. Ouyang**, and X. Wang, ”Multi-Stage Contextual Deep Learning for
 Rui Zhao, **W. Ouyang**, and X. Wang, ”Person Re-identiﬁcation by Salience Matching,” In Proc. ICCV, Sydney, Australia, Dec. 2013.
 
 <hr/>
+
+<div class="row">
+  <img src="../images/images_for_pub/DraggedImage.d718c13700af489b88bbeae0d5d704eb.png" width="240">
+  <img src="../images/images_for_pub/DraggedImage.b85d603e9cee4761ba95e9e1fc941c32.png" width="230">
+  <img src="../images/images_for_pub/DraggedImage.7bb6f91586a643419e300b696974852f.png" width="230">
+</div>
+
 
 **W. Ouyang**, X. Zeng, and X. Wang, ”Modeling Mutual Visibility Relationship in Pedestrian Detection,” In Proc. CVPR, Portland, USA, Jun. 2013.
 
@@ -368,6 +464,11 @@ Rui Zhao, **W. Ouyang**, and X. Wang, ”Unsupervised Salience Learning for Pers
 **W. Ouyang**, and X. Wang, ”A Discriminative Deep Model for Pedestrian Detection with Occlusion Handling,” In Proc. CVPR, Rhode Island, USA, Jun. 2012.
 
 <hr/>
+
+<div class="row">
+  <img src="../images/images_for_pub/DraggedImage.3cb73f21839042d991745dd8964c2266.png" width="400">
+</div>
+
 
 **W. Ouyang**, R. Zhang and W.-K. Cham, “Fast pattern matching using orthogonal Haar transform ”. In Proc. CVPR, San Francisco, USA, Jun. 2010.
 
