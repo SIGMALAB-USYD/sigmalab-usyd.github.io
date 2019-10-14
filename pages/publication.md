@@ -23,6 +23,18 @@ permalink: "/publication/"
 ### 2019
 <img src="../images/usyd_bg.jpg" alt="drawing" width="200">
 
+<div class="row">
+	<div class="column">
+		<img src="../images/usyd_bg.jpg" alt="drawing" style="width:300">
+	</div>
+	<div class="column">
+		<img src="../images/usyd_bg.jpg" alt="drawing" style="width:300">
+	</div>
+	<div class="column">
+		<img src="../images/usyd_bg.jpg" alt="drawing" style="width:300">
+	</div>
+</div>
+
 Guo Lu, Wanli Ouyang, Dong Xu, Xiaoyun Zhang, Chunlei Cai, Zhiyong Gao, "DVC: An End-to-end Deep Video Compression Framework," In Proc. CVPR 2019. (**Oral**) [[source code][3]]
 
 \*Peixia Li, Boyu Chen, W. Ouyang, Dong Wang, Xiaoyun Yang, Huchuan Lu. ”GradNet: Gradient-Guided Network for Visual Object Tracking”, Proc. ICCV, 2019. (**Oral**)
