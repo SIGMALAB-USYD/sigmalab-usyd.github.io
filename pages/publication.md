@@ -24,11 +24,13 @@ permalink: "/publication/"
 <img src="../images/usyd_bg.jpg" alt="drawing" width="200">
 
 <div class="row">
+  <div class="column">
     <img src="../images/usyd_bg.jpg" alt="drawing" width="500">
-    <div class="column">
-      <img src="../images/usyd_bg.jpg" alt="drawing" width="250">
-      <img src="../images/usyd_bg.jpg" alt="drawing" width="250">
-    </div>
+  </div>
+  <div class="column">
+    <img src="../images/usyd_bg.jpg" alt="drawing" width="250">
+    <img src="../images/usyd_bg.jpg" alt="drawing" width="250">
+  </div>
 </div>
 
 Guo Lu, Wanli Ouyang, Dong Xu, Xiaoyun Zhang, Chunlei Cai, Zhiyong Gao, "DVC: An End-to-end Deep Video Compression Framework," In Proc. CVPR 2019. (**Oral**) [[source code][3]]
