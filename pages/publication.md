@@ -132,6 +132,8 @@ Zhiwang Zhang, Dong Xu, **Wanli Ouyang**, Chuanqi Tan, “Show, Tell and Summari
     title="FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction" 
     author_list="Shuyang Sun, Jiangmiao Pang, Jianping Shi, Shuai Yi, Wanli Ouyang"
     published_in="NeurIPS 2018"
+    code_url="https://github.com/kevin-ssy/FishNet"
+    blog_post="#"
 %}  
 
 <div class="row">
