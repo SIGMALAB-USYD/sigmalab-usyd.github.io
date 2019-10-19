@@ -22,13 +22,22 @@ permalink: "/publication/"
 
 # Journal Publications
 
-<img src="../images/images_for_pub/DraggedImage.5f16e2bf29154b17a98feb87b45c648c.png" width="350">
+{%  include publication.html 
+    url="#"
+    img_path="object_det_survey.png"
+    title="Deep learning for generic object detection: A survey" 
+    author_list="Liu, Li, Wanli Ouyang, Xiaogang Wang, Paul Fieguth, Jie Chen, Xinwang Liu, and Matti Pietikinen"
+    published_in="International Journal of Computer Vision (IJCV), accepted, Sept. 2019"
+%}  
 
-Liu, Li, **Wanli Ouyang**, Xiaogang Wang, Paul Fieguth, Jie Chen, Xinwang Liu, and Matti Pietikinen, ”Deep learning for generic object detection: A survey,” International Journal of Computer Vision (IJCV), accepted, Sept. 2019.
+{%  include publication.html 
+    url="#"
+    img_path="guo_lu_kalman.png"
+    title="Deep Non-local Kalman Network for Video Compression Artifact Reduction" 
+    author_list="Guo Lu, Xiaoyun Zhang, Wanli Ouyang, Dong Xu, Li Chen, and Zhiyong Gao"
+    published_in="Trans. Image Process. (TIP), accepted Sept., 2019."
+%}  
 
-<img src="../images/images_for_pub/DraggedImage.e2e5334e2a054dd4a84a6284e6bccb4b.png" width="350">
-
-Guo Lu, Xiaoyun Zhang, **Wanli Ouyang**, Dong Xu, Li Chen, and Zhiyong Gao, “Deep Non-local Kalman Network for Video Compression Artifact Reduction”, Trans. Image Process. (TIP), accepted Sept., 2019.
 
 <img src="../images/images_for_pub/DraggedImage.dab6cfff637e420997663eed691ad6d2.png" width="350">
 

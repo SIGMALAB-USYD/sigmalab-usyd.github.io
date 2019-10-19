@@ -1,0 +1,23 @@
+<tr>
+		<td width="38%">
+			<a href="{{ include.url }}">
+				<img src="images/images_for_pub/{{ include.img_path }}" style="width: 100%">
+			</a>
+		</td>
+		<td width="2%"></td>
+		<td width="60%">
+		<p>
+			<b>{{ include.title }}</b>
+			<br>
+			{{ include.author_list }}, {{ include.published_in }}
+			<br> 
+			<a href="{{ include.url }}"> [PDF]</a>
+			{% if include.code_url %}
+			<a href="{{ include.code_url }}"> [Code]</a>
+			{% endif %}
+			{% if include.blog_post %}
+			<a href="{{ include.blog_post }}"> [Blog Post]</a>
+			{% endif %}
+		</p>
+		</td>
+</tr>
