@@ -1,6 +1,6 @@
 ---
 
-layout: page
+layout: page-fullwidth
 
 show\_meta: false
 
