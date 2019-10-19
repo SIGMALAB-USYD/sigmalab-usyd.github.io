@@ -125,6 +125,15 @@ Zhiwang Zhang, Dong Xu, **Wanli Ouyang**, Chuanqi Tan, “Show, Tell and Summari
 
 # Top-Tier Conference Publications
 
+
+{%  include pub_item.html 
+    url="#"
+    img_path="shuyang_sun_fishnet.png"
+    title="FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction" 
+    author_list="Shuyang Sun, Jiangmiao Pang, Jianping Shi, Shuai Yi, Wanli Ouyang"
+    published_in="NeurIPS 2018"
+%}  
+
 <div class="row">
   <div class="column">
     <img src="../images/images_for_pub/DraggedImage.234523ae7bc74018a3ad0c3e44b11502.png" width="700">
@@ -208,8 +217,7 @@ Li, Hongyang, Bo Dai, Shaoshuai Shi, **Wanli Ouyang**, and Xiaogang Wang. ”Fea
 <div class="row">
   <img src="../images/images_for_pub/DraggedImage.7be53f52b4d144359c2737a084d62b3f.png" width="700">
 </div>
-
-S. Sun, Jiangmiao Pang, Jianping Shi, Shuai Yi, **W. Ouyang**, ”FishNet: A Versatile Backbone for Image, Region, and Pixel Level Prediction”, Proc. NIPS, 2018.
+, ””, Proc. NIPS, 2018.
 
 <hr/>
 
