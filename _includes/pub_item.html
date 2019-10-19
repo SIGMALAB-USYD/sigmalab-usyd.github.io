@@ -1,17 +1,17 @@
 <div class="row">
-	<tr>
-		<td width="38%">
+	<div class="small-4 column">
 			<a href="{{ include.url }}">
 				<img src="../images/images_for_pub/{{ include.img_path }}" style="width: 100%">
 			</a>
-		</td>
-		<td width="2%"></td>
-		<td width="60%">
+	</div>
+	<div class="small-8 column">
 		<p>
 			<b>{{ include.title }}</b>
 			<br>
-			{{ include.author_list }}, {{ include.published_in }}
+			{{ include.author_list }}
 			<br> 
+			{{ include.published_in }}
+			<br>
 			<a href="{{ include.url }}"> [PDF]</a>
 			{% if include.code_url %}
 			<a href="{{ include.code_url }}"> [Code]</a>
@@ -20,7 +20,8 @@
 			<a href="{{ include.blog_post }}"> [Blog Post]</a>
 			{% endif %}
 		</p>
-		</td>
-	</tr>
+	</div>
+		
 </div>
 
+---
