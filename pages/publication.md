@@ -22,7 +22,7 @@ permalink: "/publication/"
 
 # Journal Publications
 
-{%  include publication.html 
+{%  include pub_item.html 
     url="#"
     img_path="object_det_survey.png"
     title="Deep learning for generic object detection: A survey" 
@@ -30,7 +30,7 @@ permalink: "/publication/"
     published_in="International Journal of Computer Vision (IJCV), accepted, Sept. 2019"
 %}  
 
-{%  include publication.html 
+{%  include pub_item.html 
     url="#"
     img_path="guo_lu_kalman.png"
     title="Deep Non-local Kalman Network for Video Compression Artifact Reduction" 
