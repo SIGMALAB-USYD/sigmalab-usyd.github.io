@@ -92,12 +92,6 @@ permalink: "/people/"
 
 {% include collaborator.html url="" name="Yingyue Xu" affil="Ph.D. from Univ. of Oulu (2017)" %}
 
-{% include collaborator.html url="Jiansheng Chen" name="" affil="from Tsinghua University" %}
-
-{% include collaborator.html url="Zhiyong Wang" name="" affil="from the University of Sydney" %}
-
-{% include collaborator.html url="Ming-Ting Sun" name="" affil="from Washington University" %}
-
 </div>
 
 ---
@@ -112,6 +106,12 @@ permalink: "/people/"
 		<h5 class="medium-12">Professors & Researchers</h5>
 		<br>
 	</div>
+
+	{% include collaborator.html url="https://jschenthu.weebly.com" name="Jiansheng Chen" affil="Associate Professor from Tsinghua University" %}
+
+	{% include collaborator.html url="https://sydney.edu.au/engineering/about/our-people/academic-staff/zhiyong-wang.html" name="Zhiyong Wang" affil="Associate Professor from the University of Sydney" %}
+
+	{% include collaborator.html url="https://people.ece.uw.edu/sun/" name="Ming-Ting Sun" affil="Professor from Washington University" %}
 
 	{% include collaborator.html url="http://www.ee.cuhk.edu.hk/~xgwang/" name="Xiaogang Wang" affil="Chinese Univ. of Hong Kong" %}
 
