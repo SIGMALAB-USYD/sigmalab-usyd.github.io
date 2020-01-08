@@ -107,11 +107,11 @@ permalink: "/people/"
 		<br>
 	</div>
 
-	{% include collaborator.html url="https://jschenthu.weebly.com" name="Jiansheng Chen" affil="Associate Professor from Tsinghua University" %}
+	{% include collaborator.html url="https://jschenthu.weebly.com" name="Jiansheng Chen" affil="Tsinghua University" %}
 
-	{% include collaborator.html url="https://sydney.edu.au/engineering/about/our-people/academic-staff/zhiyong-wang.html" name="Zhiyong Wang" affil="Associate Professor from the University of Sydney" %}
+	{% include collaborator.html url="https://sydney.edu.au/engineering/about/our-people/academic-staff/zhiyong-wang.html" name="Zhiyong Wang" affil="the University of Sydney" %}
 
-	{% include collaborator.html url="https://people.ece.uw.edu/sun/" name="Ming-Ting Sun" affil="Professor from Washington University" %}
+	{% include collaborator.html url="https://people.ece.uw.edu/sun/" name="Ming-Ting Sun" affil="Washington University" %}
 
 	{% include collaborator.html url="http://www.ee.cuhk.edu.hk/~xgwang/" name="Xiaogang Wang" affil="Chinese Univ. of Hong Kong" %}
 
