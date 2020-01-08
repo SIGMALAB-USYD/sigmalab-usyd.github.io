@@ -92,6 +92,12 @@ permalink: "/people/"
 
 {% include collaborator.html url="" name="Yingyue Xu" affil="Ph.D. from Univ. of Oulu (2017)" %}
 
+{% include collaborator.html url="Jiansheng Chen" name="" affil="from Tsinghua University" %}
+
+{% include collaborator.html url="Zhiyong Wang" name="" affil="from the University of Sydney" %}
+
+{% include collaborator.html url="Ming-Ting Sun" name="" affil="from Washington University" %}
+
 </div>
 
 ---
