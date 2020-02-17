@@ -35,6 +35,7 @@ permalink: "/people/"
 	</div>
 	
 	<div class="row">
+		<!-- each row can only have 4 people at most-->
 		{% include member.html photo="../images/people/peixia_li.jpg" name="Peixia Li" title="Ph.D. Student" %}
 
 		{% include member.html photo="../images/people/boyu_chen.jpg" name="Boyu Chen" title="Ph.D. Student" %}
@@ -43,11 +44,14 @@ permalink: "/people/"
 
 		{% include member.html photo="../images/people/xinchi_zhou.jpg" name="Xinchi Zhou" title="Ph.D. Student" %}
 
+	</div>
+
+	<div class="row">
 		{% include member.html photo="../images/people/dongzhan_zhou.jpeg" name="Dongzhan Zhou" title="Ph.D. Student" %}
 
 		{% include member.html photo="../images/people/geng_zhan.jpg" homepage="https://gengz.github.io/" name="Geng Zhan" title="Ph.D. Student" %}
-
 	</div>
+	
 </div>
 
 ---
@@ -59,7 +63,6 @@ permalink: "/people/"
 	</div>
 
 	<div class="row">
-
 		{% include member.html photo="../images/people/hongwen_zhang.png" homepage="https://hongwenzhang.github.io" name="Hongwen Zhang" title="Ph.D. from CASIA" %}
 	</div>
 </div>
@@ -78,6 +81,8 @@ permalink: "/people/"
 	{% include member.html photo="../images/people/geng_zhan.jpg" name="Geng Zhan" title="M.Phil. (Graduated in Dec. 2019)" %}
 
 	{% include member.html photo="../images/people/yi_zhou.jpg" name="Yi Zhou" title="M.Phil. (Graduated in Dec. 2019)" %}
+
+	{% include member.html photo="" name="" title="" %}
     </div>	
 </div>
 
