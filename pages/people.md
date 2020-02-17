@@ -74,7 +74,9 @@ permalink: "/people/"
 
 	<div class="row">
 	{% include member.html photo="../images/people/shuyang_sun.png" homepage="https://kevin-ssy.github.io/" name="Shuyang Sun" title="M.Phil. (Graduated in Dec. 2018)" %}
+
 	{% include member.html photo="../images/people/geng_zhan.jpg" name="Geng Zhan" title="M.Phil. (Graduated in Dec. 2019)" %}
+
 	{% include member.html photo="../images/people/yi_zhou.jpg" name="Yi Zhou" title="M.Phil. (Graduated in Dec. 2019)" %} <!-- person_style="margin-left: 15px;" -->
     </div>	
 </div>
@@ -87,11 +89,11 @@ permalink: "/people/"
 		<br/>
 	</div>
 
-{% include collaborator.html url="" name="Guo Lu" affil="Ph.D. from SJTU (2017-2019)" %}
+	{% include collaborator.html url="" name="Guo Lu" affil="Ph.D. from SJTU (2017-2019)" %}
 		
-{% include collaborator.html url="" name="Yukai Shi" affil="Ph.D. from SYSU (2017-2018)" %}
+	{% include collaborator.html url="" name="Yukai Shi" affil="Ph.D. from SYSU (2017-2018)" %}
 
-{% include collaborator.html url="" name="Yingyue Xu" affil="Ph.D. from Univ. of Oulu (2017)" %}
+	{% include collaborator.html url="" name="Yingyue Xu" affil="Ph.D. from Univ. of Oulu (2017)" %}
 
 </div>
 
