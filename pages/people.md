@@ -74,8 +74,8 @@ permalink: "/people/"
 
 	<div class="row">
 	{% include member.html photo="../images/people/shuyang_sun.png" homepage="https://kevin-ssy.github.io/" name="Shuyang Sun" title="M.Phil. (Graduated in Dec. 2018)" %}
-	{% include member.html photo="../images/people/geng_zhan.png" name="Geng Zhan" title="M.Phil. (Graduated in Dec. 2019)" %}
-	{% include member.html photo="../images/people/yi_zhou.png" name="Yi Zhou" title="M.Phil. (Graduated in Dec. 2019)" %} <!-- person_style="margin-left: 15px;" -->
+	{% include member.html photo="../images/people/geng_zhan.jpg" name="Geng Zhan" title="M.Phil. (Graduated in Dec. 2019)" %}
+	{% include member.html photo="../images/people/yi_zhou.jpg" name="Yi Zhou" title="M.Phil. (Graduated in Dec. 2019)" %} <!-- person_style="margin-left: 15px;" -->
     </div>	
 </div>
 
