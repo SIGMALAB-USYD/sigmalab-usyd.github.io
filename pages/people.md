@@ -50,6 +50,10 @@ permalink: "/people/"
 		{% include member.html photo="../images/people/dongzhan_zhou.jpeg" name="Dongzhan Zhou" title="Ph.D. Student" %}
 
 		{% include member.html photo="../images/people/geng_zhan.jpg" homepage="https://gengz.github.io/" name="Geng Zhan" title="Ph.D. Student" %}
+
+		{% include member.html photo="" name="" title="" %}
+		
+		{% include member.html photo="" name="" title="" %}
 	</div>
 	
 </div>
