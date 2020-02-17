@@ -35,7 +35,7 @@ permalink: "/people/"
 	</div>
 	
 	<div class="row">
-		<!-- each row can only have 4 people at most-->
+
 		{% include member.html photo="../images/people/peixia_li.jpg" name="Peixia Li" title="Ph.D. Student" %}
 
 		{% include member.html photo="../images/people/boyu_chen.jpg" name="Boyu Chen" title="Ph.D. Student" %}
@@ -47,6 +47,7 @@ permalink: "/people/"
 	</div>
 
 	<div class="row">
+	
 		{% include member.html photo="../images/people/dongzhan_zhou.jpeg" name="Dongzhan Zhou" title="Ph.D. Student" %}
 
 		{% include member.html photo="" name="" title="" %}
