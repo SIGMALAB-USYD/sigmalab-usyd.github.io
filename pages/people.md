@@ -77,7 +77,7 @@ permalink: "/people/"
 
 	{% include member.html photo="../images/people/geng_zhan.jpg" name="Geng Zhan" title="M.Phil. (Graduated in Dec. 2019)" %}
 
-	{% include member.html photo="../images/people/yi_zhou.jpg" name="Yi Zhou" title="M.Phil. (Graduated in Dec. 2019)" %} <!-- person_style="margin-left: 15px;" -->
+	{% include member.html photo="../images/people/yi_zhou.jpg" name="Yi Zhou" title="M.Phil. (Graduated in Dec. 2019)" %}
     </div>	
 </div>
 
