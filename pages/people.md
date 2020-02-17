@@ -35,13 +35,17 @@ permalink: "/people/"
 	</div>
 	
 	<div class="row">
-		{% include member.html photo="../images/people/xinchi_zhou.jpg" name="Xinchi Zhou" title="Ph.D." %}
+		{% include member.html photo="../images/people/peixia_li.jpg" name="Peixia Li" title="Ph.D. Student" %}
 
-		{% include member.html photo="../images/people/dongzhan_zhou.jpeg" name="Dongzhan Zhou" title="Ph.D." %}
+		{% include member.html photo="../images/people/boyu_chen.jpg" name="Boyu Chen" title="Ph.D. Student" %}
 
-		{% include member.html photo="../images/people/yi_zhou.jpg" name="Yi Zhou" title="M.Phil." %}  <!-- person_style="margin-left: 15px;" -->
+		{% include member.html photo="../images/people/senhui_guo.jpg" name="Senhui Guo" title="Ph.D. Student" %}
 
-		{% include member.html photo="../images/people/geng_zhan.jpg" homepage="https://gengz.github.io/" name="Geng Zhan" title="M.Phil." %}
+		{% include member.html photo="../images/people/xinchi_zhou.jpg" name="Xinchi Zhou" title="Ph.D. Student" %}
+
+		{% include member.html photo="../images/people/dongzhan_zhou.jpeg" name="Dongzhan Zhou" title="Ph.D. Student" %}
+
+		{% include member.html photo="../images/people/geng_zhan.jpg" homepage="https://gengz.github.io/" name="Geng Zhan" title="Ph.D. Student" %}
 
 	</div>
 </div>
@@ -55,13 +59,8 @@ permalink: "/people/"
 	</div>
 
 	<div class="row">
-		{% include member.html photo="../images/people/lingbo_liu.png" homepage="http://lingboliu.com/" name="Lingbo Liu" title="Ph.D. from SYSU" %}
 
-		{% include member.html photo="../images/people/hongwen_zhang.png" name="Hongwen Zhang" title="Ph.D. from CASIA" %}
-		
-		{% include member.html %}
-		
-		{% include member.html %}
+		{% include member.html photo="../images/people/hongwen_zhang.png" homepage="https://hongwenzhang.github.io" name="Hongwen Zhang" title="Ph.D. from CASIA" %}
 	</div>
 </div>
 
@@ -75,6 +74,8 @@ permalink: "/people/"
 
 	<div class="row">
 	{% include member.html photo="../images/people/shuyang_sun.png" homepage="https://kevin-ssy.github.io/" name="Shuyang Sun" title="M.Phil. (Graduated in Dec. 2018)" %}
+	{% include member.html photo="../images/people/geng_zhan.png" name="Geng Zhan" title="M.Phil. (Graduated in Dec. 2019)" %}
+	{% include member.html photo="../images/people/yi_zhou.png" name="Yi Zhou" title="M.Phil. (Graduated in Dec. 2019)" %} <!-- person_style="margin-left: 15px;" -->
     </div>	
 </div>
 
