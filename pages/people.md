@@ -70,6 +70,8 @@ permalink: "/people/"
 	<div class="row">
 		{% include member.html photo="../images/people/hongwen_zhang.png" homepage="https://hongwenzhang.github.io" name="Hongwen Zhang" title="Ph.D. from CASIA" %}
 		{% include member.html photo="../images/people/yan_lu.jpg" name="Yan Lu" title="Master from USTC" %}
+		{% include member.html photo="" name="" title="" %}
+		{% include member.html photo="" name="" title="" %}
 	</div>
 </div>
 
