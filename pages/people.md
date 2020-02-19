@@ -50,7 +50,7 @@ permalink: "/people/"
 	
 		{% include member.html photo="../images/people/dongzhan_zhou.jpeg" name="Dongzhan Zhou" title="Ph.D. Student" %}
 
-		{% include member.html photo="" name="" title="" %}
+		{% include member.html photo="../images/people/weitao_feng.jpg" name="Weitao Feng" title="Ph.D. Student" %}
 
 		{% include member.html photo="" name="" title="" %}
 
@@ -69,6 +69,7 @@ permalink: "/people/"
 
 	<div class="row">
 		{% include member.html photo="../images/people/hongwen_zhang.png" homepage="https://hongwenzhang.github.io" name="Hongwen Zhang" title="Ph.D. from CASIA" %}
+		{% include member.html photo="../images/people/yan_lu.jpg" name="Yan Lu" title="Master from USTC" %}
 	</div>
 </div>
 
