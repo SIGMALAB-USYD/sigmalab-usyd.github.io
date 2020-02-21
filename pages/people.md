@@ -52,7 +52,7 @@ permalink: "/people/"
 
 		{% include member.html photo="../images/people/weitao_feng.jpg" name="Weitao Feng" title="Ph.D. Student" %}
 
-		{% include member.html photo="" name="" title="" %}
+		{% include member.html photo="../images/people/yuanzheng_ci.jpg" name="Yuanzheng Ci" title="Ph.D. Student" homepage="https://yuanzheng.ci"%}
 
 		{% include member.html photo="" name="" title="" %}
 	</div>
