@@ -77,7 +77,7 @@ homepage: true
 
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
-      		{% include carousel_item.html  active="true" url="https://wlouyang.github.io/projects/GBD/index.html" image="images/gbd-net.jpg" alt="GBD-Net for object detection" title="Object Detection" caption="We are conducting inspiring researches in general object detection. Our team won the 1st place of ILSVRC 2016. We are also working on the related topics including video detection and object tracking." %}
+      		{% include carousel_item.html  active="true" url="https://wlouyang.github.io/projects/GBD/index.html" image="images/ecoNAS.jpg" alt="Traditional neural architecture search will consume plenty of resources to evaluate candidate networks. Based on our exploration of efficient and reliable proxy tasks, we achieve an impressive 400x time reduction for evolutionary algorithm yet get better results." %}
 
       		{% include carousel_item.html  url="http://cvboy.com/publication/cvpr2017_vip_cnn/" image="images/relation.jpg" alt="Visual Relationship Detection" title="Visual Relationship Detection" caption="Visual relationship detection involves detecting and localizing pairs of interacting objects in an image and also classifying the predicate or interaction between them. We are now working on this challenging problem. Click to see the detail!" %}
 
