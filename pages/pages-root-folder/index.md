@@ -23,25 +23,20 @@ title: "SIGMA Lab @ USYD"
 sidebar: right
 
 widget1:
-  title: "Pose Estimation"
-  url: 'https://youtu.be/fSLmi166Mdk'
-  video: '<iframe src="https://www.youtube.com/embed/fSLmi166Mdk" width="360" height="240" style="max-width: 100%; max-height: 150pt;"></iframe>'
-  text: 'Check out our demo for multi-person <br/> pose estimation!'
+  title: "GradNet ICCV2019 Demo"
+  url: 'https://youtu.be/tWDbs3VrnbU'
+  video: '<iframe width="360" height="240" src="https://www.youtube.com/embed/tWDbs3VrnbU" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 100%; max-height: 150pt;"></iframe>'
+  text: 'Check out our demo for Visual Object Tracking'
 widget2:
   title: "Video Detection"
   url: 'https://youtu.be/ZtbUcv_OIZg'
   text: 'We are also conducting reseaches about detecting objects in videos, check out our demo!'
-  video: '<iframe src="https://www.youtube.com/embed/ZtbUcv_OIZg" width="360" height="240" style="max-width: 100%; max-height: 150pt;"></iframe>'
+  video: '<iframe src="https://www.youtube.com/embed/ZtbUcv_OIZg" width="360" height="240" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 100%; max-height: 150pt;"></iframe>'
 widget3:
   title: "Pose Tracking"
   url: 'https://youtu.be/CiKJuAH2U8I'
-  video: '<iframe src="https://www.youtube.com/embed/AL-8XCzRFo0" width="360" height="240" style="max-width: 100%; max-height: 150pt;"></iframe>'
+  video: '<iframe src="https://www.youtube.com/embed/AL-8XCzRFo0" width="360" height="240" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 100%; max-height: 150pt;"></iframe>'
   text: 'Our team won the 2nd place in the pose-track challenge.'
-widget4:
-  titile: "MDNet, KCF and SiamFC"
-  url: 'https://youtu.be/M1LqUV4jLbM'
-  video: '<iframe src="https://www.youtube.com/embed/M1LqUV4jLbM" width="560" height="315" style="max-width: 100%; max-height: 150pt;"></iframe>'
-  text: 'Implementation of MDNet, KCF and SiamFC'
 
 #
 # Use the call for action to show a button on the frontpage
