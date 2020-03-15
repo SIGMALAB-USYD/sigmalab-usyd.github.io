@@ -77,11 +77,11 @@ homepage: true
 
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
-      		{% include carousel_item.html  active="true" url="https://wlouyang.github.io/projects/GBD/index.html" image="images/ecoNAS.jpg" alt="ecoNAS" title="ecoNAS" caption="Traditional neural architecture search will consume plenty of resources to evaluate candidate networks. Based on our exploration of efficient and reliable proxy tasks, we achieve an impressive 400x time reduction for evolutionary algorithm yet get better results." %}
+      		{% include carousel_item.html  active="true"  image="images/ecoNAS.jpg" alt="ecoNAS" title="ecoNAS" caption="Traditional neural architecture search will consume plenty of resources to evaluate candidate networks. Based on our exploration of efficient and reliable proxy tasks, we achieve an impressive 400x time reduction for evolutionary algorithm yet get better results." %}
 
-      		{% include carousel_item.html  url="http://cvboy.com/publication/cvpr2017_vip_cnn/" image="images/relation.jpg" alt="Visual Relationship Detection" title="Visual Relationship Detection" caption="Visual relationship detection involves detecting and localizing pairs of interacting objects in an image and also classifying the predicate or interaction between them. We are now working on this challenging problem. Click to see the detail!" %}
+      		{% include carousel_item.html   image="images/GradNet.jpg" alt="Visual Object Tracking(VOT)" title="Visual Object Tracking(VOT)" caption="Visual object tracking aims to successively track the object in a video with target object being identified in the initial frame. We are now working on this problem and the related topic multiple object tracking (MOT)." %}
 
-      		{% include carousel_item.html  url="http://mmlab.ie.cuhk.edu.hk/projects/project_salience_reid/index.html" image="images/re-id.png" alt="Re-Identification" title="Person Re-Identification (ReID)" caption="Given one query image of one specific person, a person ReID system is expected to provide all the images of the same person from a large gallery database. We have been focusing on person re-id problem over years." %}
+      		{% include carousel_item.html  image="images/DVC.jpg" alt="DVC: An End-to-end Deep Video Compression Framework" title="DVC: An End-to-end Deep Video Compression Framework" caption="We proposed the first end-to-end video compression deep model that jointly optimizes all the components for video compression. Experimental results show that the proposed approach can outperform the widely used video coding standard H.264 in terms of PSNR and be even on par with the latest standard H.265 in terms of MS-SSIM" %}
         </div>
 
         <!-- Left and right controls -->

@@ -136,6 +136,10 @@ Zhiwang Zhang, Dong Xu, **Wanli Ouyang**, Chuanqi Tan, “Show, Tell and Summari
     blog_post="#"
 %}  
 
+<img src="../images/ecoNAS.jpg" width="700">
+
+Dongzhan Zhou, Xinchi Zhou, Wenwei Zhang, Chen Change Loy, Shuai Yi, Xuesen Zhang, **Wanli Ouyang**, “EcoNAS: Finding Proxies for Economical Neural Architecture Search”, Proc. CVPR, 2020.
+
 <div class="row">
   <div class="column">
     <img src="../images/images_for_pub/DraggedImage.234523ae7bc74018a3ad0c3e44b11502.png" width="700">
