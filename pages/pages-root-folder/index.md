@@ -28,10 +28,10 @@ widget1:
   video: '<iframe width="360" height="240" src="https://www.youtube.com/embed/tWDbs3VrnbU" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 100%; max-height: 150pt;"></iframe>'
   text: 'Check out our demo for Visual Object Tracking'
 widget2:
-  title: "Video Detection"
-  url: 'https://youtu.be/ZtbUcv_OIZg'
-  text: 'We are also conducting reseaches about detecting objects in videos, check out our demo!'
-  video: '<iframe src="https://www.youtube.com/embed/ZtbUcv_OIZg" width="360" height="240" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 100%; max-height: 150pt;"></iframe>'
+  title: "Video Tracking"
+  url: 'https://www.youtube.com/watch?v=M1LqUV4jLbM'
+  text: 'Implementation of MDNet, KCF and SiamFC.'
+  video: '<iframe src="https://www.youtube.com/embed/M1LqUV4jLbM" width="360" height="240" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 100%; max-height: 150pt;"></iframe>'
 widget3:
   title: "Pose Tracking"
   url: 'https://youtu.be/CiKJuAH2U8I'
