@@ -54,7 +54,7 @@ permalink: "/people/"
 
 		{% include member.html photo="../images/people/yuanzheng_ci.jpg" name="Yuanzheng Ci" title="Ph.D. Student" homepage="https://yuanzheng.ci"%}
 
-		{% include member.html photo="" name="" title="" %}
+		{% include member.html photo="../images/people/geng_zhan.jpg" name="Geng Zhan" title="Ph.D. Student" %}
 	</div>
 	
 </div>
