@@ -65,8 +65,8 @@
   # - title: "Blog Archive"
   #   url: "/blog/archive/"
 
-- title: FYP Demo
-  url: "/resources/"
+- title: FYP Student Demo
+  url: "/FYP_student_demo/"
   side: left
 
 # - title: "Search"
