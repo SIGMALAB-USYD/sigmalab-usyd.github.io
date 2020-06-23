@@ -1,1 +1,4 @@
 .DS_Store
+._config.yml.swp
+.jekyll-cache/
+_site/
