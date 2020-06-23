@@ -14,7 +14,7 @@ header:
 
    image\_fullwidth: 
 
-permalink: "/publication/"
+permalink: "/FYP_student_demo/"
 
 ---
 
