@@ -22,6 +22,48 @@ permalink: "/publication/"
 
 # Journal Publications
 
+{% include pub_item.html
+   url="#"
+   img_path="progressive_cross-stream_cooperation_in_spatial_and_temporal_domain_for_action_localization.png"
+   title="Progressive Cross-stream Cooperation in Spatial and Temporal Domain for Action Localization"
+   author_list="Rui Su, Dong Xu, Luping Zhou, and Ouyang Wanli"
+   published_in="IEEE Trans. Pattern Anal. Mach. Intell. (PAMI), accepted, May, 2020"
+%}
+
+{% include pub_item.html
+   url="#"
+   img_path="An_End-to-End Learning_Framework_for_Video_Compression.png"
+   title="An End-to-End Learning Framework for Video Compression"
+   author_list="Guo Lu, Xiaoyun Zhang, W. Ouyang, Li Chen, Zhiyong Gao, Dong Xu"
+   published_in="IEEE Trans. Pattern Anal. Mach. Intell. (PAMI), accepted, Apr, 2020"
+%}
+
+{% include pub_item.html
+   url="#"
+   img_path="Image_Captioning_with_End-to-end_Attribute_Detection_and_Subsequent_Attributes_Prediction.png"
+   title="Image Captioning with End-to-end Attribute Detection and Subsequent Attributes Prediction"
+   author_list="Yiqing Huang, Jiansheng Chen, W. Ouyang, Weitao Wan, Youze Xue"
+   published_in="IEEE Trans. Image Process. (TIP) , accepted, Jan, 2020"
+%}
+
+{% include pub_item.html
+   url="#"
+   img_path="Person_Search_by_Separated_Modeling_and_A_Mask-Guided_Two-Stream_CNN_Model.png"
+   title="Person Search by Separated Modeling and A Mask-Guided Two-Stream CNN Model"
+   author_list="D. Chen, S. Zhang, W. Ouyang, J. Yang, Y. Tai"
+   published_in="IEEE Trans. Image Process. (TIP) , 29: 4669-4682, 2020"
+%}
+
+
+{% include pub_item.html
+   url="#"
+   img_path="Self-Paced_Collaborative_and_Adversarial_Network_for_Unsupervised_Domain_Adaptation.png"
+   title="Self-Paced Collaborative and Adversarial Network for Unsupervised Domain Adaptation"
+   author_list="Weichen Zhang, Dong Xu, Wanli Ouyang, W. Li"
+   published_in="IEEE Trans. Pattern Anal. Mach. Intell. (PAMI), accepted, Sept. 2019"
+%}
+
+
 {%  include pub_item.html 
     url="#"
     img_path="object_det_survey.png"
@@ -37,6 +79,11 @@ permalink: "/publication/"
     author_list="Guo Lu, Xiaoyun Zhang, Wanli Ouyang, Dong Xu, Li Chen, and Zhiyong Gao"
     published_in="Trans. Image Process. (TIP), accepted Sept., 2019."
 %}  
+
+
+
+
+
 
 
 <img src="../images/images_for_pub/DraggedImage.dab6cfff637e420997663eed691ad6d2.png" width="350">
