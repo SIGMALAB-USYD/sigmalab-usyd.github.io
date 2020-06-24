@@ -16,18 +16,25 @@ widget1:
   text: 'Check out our demo for Visual Object Tracking'
 ---
 <div>
+<b>Road Damage Detection</b>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NPP9O_4U3SI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Road Damage Detection
+
 </div>
 
+<hr>
+
 <div>
+<b>Automatic Slimming</b>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e8RNy5BZllY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Automatic Slimming
+
 </div>
 
+<hr>
+
 <div>
+<b>Video Tracking</b>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M1LqUV4jLbM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-Video Tracking
+
 </div>
 
 
