@@ -15,17 +15,20 @@ widget1:
   video: '<iframe width="360" height="240" src="https://www.youtube.com/embed/tWDbs3VrnbU" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 100%; max-height: 150pt;"></iframe>'
   text: 'Check out our demo for Visual Object Tracking'
 ---
-
+<div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NPP9O_4U3SI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Road Damage Detection
+</div>
 
-
+<div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/e8RNy5BZllY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Automatic Slimming
+</div>
 
-
+<div>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/M1LqUV4jLbM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 Video Tracking
+</div>
 
 
 
