@@ -31,7 +31,7 @@ widget2:
   title: "Depth-based Segmentation"
   url: 'https://www.youtube.com/embed/fUJ7ZkgXyZg'
   text: 'Image segmentation based on depth estimation'
-  video: '<iframe width="360" height="240" src="https://www.youtube.com/embed/fUJ7ZkgXyZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>'
+  video: '<iframe width="360" height="240" src="https://www.youtube.com/embed/fUJ7ZkgXyZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 100%; max-height: 150pt;"></iframe>'
 widget3:
   title: "Pose Tracking"
   url: 'https://youtu.be/CiKJuAH2U8I'
