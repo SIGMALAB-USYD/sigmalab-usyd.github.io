@@ -187,6 +187,16 @@ Zhiwang Zhang, Dong Xu, **Wanli Ouyang**, Chuanqi Tan, “Show, Tell and Summari
 
 Dongzhan Zhou, Xinchi Zhou, Wenwei Zhang, Chen Change Loy, Shuai Yi, Xuesen Zhang, **Wanli Ouyang**, “EcoNAS: Finding Proxies for Economical Neural Architecture Search”, Proc. CVPR, 2020.
 
+Ziyu Liu, Hongwen Zhang, Zhenghao Chen, Zhiyong Wang, W. Ouyang, “Unifying Spatial-Temporal Graph Convolutions with Disentangled Multi-Scale Aggregators for Skeleton-Based Action Recognition”, CVPR, 2020, accepted (Oral).
+
+Jinyang Guo, W. Ouyang, Dong Xu, “Multi-Dimensional Pruning: A Uniﬁed Framework for Model Compression”, CVPR, 2020, accepted (Oral).
+
+Xiang Li, Chen Lin, Chuming Li, Ming SUn, Wei Wu, Junjie Yan, W. Ouyang, “Improving One-shot NAS by Suppressing the Posterior Fading”, CVPR, 2020, accepted.
+
+Jingru Tan, Changbao Wang, Buyu Li, Quanquan Li, W. Ouyang, Changqing Yin, Junjie Yan, “Equalization Loss for Long-Tailed Object Recognition, CVPR, 2020, accepted.
+
+Wang Zeng, Wei Yang, W. Ouyang, Ping Luo, Wentao Liu, Xiaogang Wang, “3D Human Mesh Regression with Dense Correspondence”, CVPR, 2020, accepted.
+
 <div class="row">
   <div class="column">
     <img src="../images/images_for_pub/DraggedImage.234523ae7bc74018a3ad0c3e44b11502.png" width="700">
