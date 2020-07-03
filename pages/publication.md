@@ -20,7 +20,10 @@ permalink: "/publication/"
 
 [[sort by type][1]]	[[sort by date][2]]
 
+# Journal Publications
 <div id="journal_list"></div>
+
+# Top-Tier Conference Publications
 <div id="conference_list"></div>
 
 
@@ -591,14 +594,22 @@ Rui Zhao, **W. Ouyang**, and X. Wang, ”Unsupervised Salience Learning for Pers
       let obj;
       obj = document.createElement('template');
       let html_template = `
-        <tr class="pub_tr_2">
-        <td width="20px" class="pub_td_number">  </td>
-        <td width="304px" style="text-align: center"> <img style="width: 336Px;" alt="Wanli" src="IMAGE" width="336px" height="200px"> </td>
-        <td width="500px" style="vertical-align: middle" class="pub_td_text"> 
-        AUTHORS, "TITLE"  JOURNAL
-          [<a class="aLink" href="#" target="_blank">Full Text</a>]
-          <br>
-        </td></tr>
+        <div class="row">
+          <div class="small-4 column">
+              <img src="IMAGE" style="width: 100%">
+          </div>
+          <div class="small-8 column">
+            <p>
+              <b>TITLE</b>
+              <br>
+              AUTHORS
+              <br> 
+              JOURNAL
+              <br>
+            </p>
+          </div>
+            
+        </div>
       `;
       obj.innerHTML = html_template
       .replace("AUTHORS", pubitem.authors)
@@ -613,15 +624,16 @@ Rui Zhao, **W. Ouyang**, and X. Wang, ”Unsupervised Salience Learning for Pers
     function conferencePubItemConstructor(pubitem) {
       let obj = document.createElement('template');
       let html_template = `
-      <tr class="pub_tr_2">
-      <td width="20px" class="pub_td_number"> </td>
-      <td width="304px" style="vertical-align: middle"> MAIN_IMAGES
-      </td>
-
-      <td class="pub_td_text" width="500px" style="vertical-align: middle"> 
-        PAPER_LIST                        
-      </td>
-      </tr>
+      <div class="row">
+        <div class="small-4 column">
+          MAIN_IMAGES
+        </div>
+        <div class="small-8 column">
+          <p>
+            PAPER_LIST
+          </p>
+        </div>
+      </div>
       `
 
       let image_list = "";
