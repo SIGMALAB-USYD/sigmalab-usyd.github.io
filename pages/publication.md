@@ -610,6 +610,7 @@ Rui Zhao, **W. Ouyang**, and X. Wang, ”Unsupervised Salience Learning for Pers
           </div>
             
         </div>
+        <hr>
       `;
       obj.innerHTML = html_template
       .replace("AUTHORS", pubitem.authors)
@@ -634,6 +635,7 @@ Rui Zhao, **W. Ouyang**, and X. Wang, ”Unsupervised Salience Learning for Pers
           </p>
         </div>
       </div>
+      <hr>
       `
 
       let image_list = "";
