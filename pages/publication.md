@@ -26,6 +26,17 @@ permalink: "/publication/"
 # Top-Tier Conference Publications
 <div id="conference_list"></div>
 
+<style>
+hr {
+  border: 0;
+  clear:both;
+  display:block;
+  width: 96%;               
+  background-color:#FFFF00;
+  height: 1px;
+}
+
+</style>
 
 
 # Journal Publications
