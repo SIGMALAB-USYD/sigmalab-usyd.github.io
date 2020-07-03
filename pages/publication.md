@@ -18,8 +18,6 @@ permalink: "/publication/"
 
 ---
 
-[[sort by type][1]]	[[sort by date][2]]
-
 # Journal Publications
 <div id="journal_list"></div>
 
@@ -32,8 +30,4 @@ permalink: "/publication/"
 
 
 <script src="../assets/js/pub_gen.js">
-
-
-[1]:	/publication/
-[2]:	/publication/
 
