@@ -26,17 +26,6 @@ permalink: "/publication/"
 # Top-Tier Conference Publications
 <div id="conference_list"></div>
 
-<style>
-hr {
-  border: 0;
-  clear:both;
-  display:block;
-  width: 96%;               
-  background-color:#FFFF00;
-  height: 1px;
-}
-
-</style>
 
 
 # Journal Publications
@@ -605,23 +594,25 @@ Rui Zhao, **W. Ouyang**, and X. Wang, ”Unsupervised Salience Learning for Pers
       let obj;
       obj = document.createElement('template');
       let html_template = `
-        <div class="row">
-          <div class="small-4 column">
-              <img src="IMAGE" style="width: 100%">
+        <div>
+          <div class="row">
+            <div class="small-4 column">
+                <img src="IMAGE" style="width: 100%">
+            </div>
+            <div class="small-8 column">
+              <p>
+                <b>TITLE</b>
+                <br>
+                AUTHORS
+                <br> 
+                JOURNAL
+                <br>
+              </p>
+            </div>
+              
           </div>
-          <div class="small-8 column">
-            <p>
-              <b>TITLE</b>
-              <br>
-              AUTHORS
-              <br> 
-              JOURNAL
-              <br>
-            </p>
-          </div>
-            
+          <hr>
         </div>
-        <hr>
       `;
       obj.innerHTML = html_template
       .replace("AUTHORS", pubitem.authors)
@@ -636,17 +627,19 @@ Rui Zhao, **W. Ouyang**, and X. Wang, ”Unsupervised Salience Learning for Pers
     function conferencePubItemConstructor(pubitem) {
       let obj = document.createElement('template');
       let html_template = `
-      <div class="row">
-        <div class="small-4 column">
-          MAIN_IMAGES
+      <div>
+        <div class="row">
+          <div class="small-4 column">
+            MAIN_IMAGES
+          </div>
+          <div class="small-8 column">
+            <p>
+              PAPER_LIST
+            </p>
+          </div>
         </div>
-        <div class="small-8 column">
-          <p>
-            PAPER_LIST
-          </p>
-        </div>
+        <hr>
       </div>
-      <hr>
       `
 
       let image_list = "";
