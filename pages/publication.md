@@ -20,6 +20,11 @@ permalink: "/publication/"
 
 [[sort by type][1]]	[[sort by date][2]]
 
+<div id="journal_list"></div>
+<div id="conference_list"></div>
+
+
+
 # Journal Publications
 
 {% include pub_item.html
@@ -556,3 +561,108 @@ Rui Zhao, **W. Ouyang**, and X. Wang, ”Unsupervised Salience Learning for Pers
 
 [1]:	/publication/
 [2]:	/publication/
+
+<script>
+  // generate publication list from data.json
+    "use strict"
+
+
+    function readTextFile(file, callback) {
+      var rawFile = new XMLHttpRequest();
+      rawFile.overrideMimeType("application/json");
+      rawFile.open("GET", file, false); //fase for synchronous requests
+      rawFile.onreadystatechange = function() {
+          if (rawFile.readyState === 4 && rawFile.status == "200") {
+            callback(rawFile.responseText);
+          }
+      }
+      rawFile.send(null);
+    }
+    let journal_data;
+    let conference_data;
+    readTextFile('https://raw.githubusercontent.com/wlouyang/wlouyang.github.io/master/data.json', function(text){
+      let data = JSON.parse(text);
+      journal_data = data.journals;
+      conference_data = data.conferences;
+    });
+
+
+    function journalPubItemConstructor(pubitem) {
+      let obj;
+      obj = document.createElement('template');
+      let html_template = `
+        <tr class="pub_tr_2">
+        <td width="20px" class="pub_td_number">  </td>
+        <td width="304px" style="text-align: center"> <img style="width: 336Px;" alt="Wanli" src="IMAGE" width="336px" height="200px"> </td>
+        <td width="500px" style="vertical-align: middle" class="pub_td_text"> 
+        AUTHORS, "TITLE"  JOURNAL
+          [<a class="aLink" href="#" target="_blank">Full Text</a>]
+          <br>
+        </td></tr>
+      `;
+      obj.innerHTML = html_template
+      .replace("AUTHORS", pubitem.authors)
+      .replace("TITLE", pubitem.title)
+      .replace("JOURNAL", pubitem.journal)
+      .replace("IMAGE", pubitem.image)
+      .replace(`<img style="width: 336Px;" alt="Wanli" src="" width="336px" height="200px">`, "");
+
+      return obj.content.firstElementChild;
+    }
+
+    function conferencePubItemConstructor(pubitem) {
+      let obj = document.createElement('template');
+      let html_template = `
+      <tr class="pub_tr_2">
+      <td width="20px" class="pub_td_number"> </td>
+      <td width="304px" style="vertical-align: middle"> MAIN_IMAGES
+      </td>
+
+      <td class="pub_td_text" width="500px" style="vertical-align: middle"> 
+        PAPER_LIST                        
+      </td>
+      </tr>
+      `
+
+      let image_list = "";
+      let main_image;
+      for (main_image of pubitem.main_images) {
+        image_list += `<img alt="" border="0" src="${main_image}" width="304px" height="200" >`
+      }
+
+
+      let paper_list = "";
+      let paper;
+      for (paper of pubitem.papers) {
+        paper_list += `
+          <br>
+          ${paper.authors}, "${paper.title}", ${paper.conference}
+          <br>
+        `
+      }
+
+      obj.innerHTML = html_template
+      .replace("MAIN_IMAGES", image_list)
+      .replace("PAPER_LIST", paper_list);
+
+      return obj.content.firstElementChild;
+    }
+
+    //Journal list generation
+    let journal_list = document.getElementById("journal_list");
+    let pubitem;
+    for (pubitem of journal_data.reverse()) {
+      journal_list.prepend(journalPubItemConstructor(pubitem))
+    }
+
+    let conference_list = document.getElementById("conference_list");
+    for (pubitem of conference_data.reverse()) {
+      conference_list.prepend(conferencePubItemConstructor(pubitem))
+    }
+
+    //Conference list generation
+
+
+
+
+  </script>
