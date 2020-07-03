@@ -38,6 +38,7 @@ permalink: "/publication/"
 [2]:	/publication/
 
 <script>
+  
   // generate publication list from data.json
     "use strict"
 
