@@ -49,7 +49,7 @@ function journalPubItemConstructor(pubitem) {
   obj.innerHTML = html_template
   .replace("AUTHORS", pubitem.authors)
   .replace("TITLE", pubitem.title)
-  .replace("JOURNAL", pubitem.journal)
+  .replace("JOURNAL", pubitem.publisher)
   .replace("IMAGE", pubitem.image)
   .replace(`<img style="width: 336Px;" alt="Wanli" src="" width="336px" height="200px">`, "");
 
@@ -86,7 +86,7 @@ function conferencePubItemConstructor(pubitem) {
   for (paper of pubitem.papers) {
     paper_list += `
       <br>
-      ${paper.authors}, "${paper.title}", ${paper.conference}
+      ${paper.authors}, "${paper.title}", ${paper.publisher}
       <br>
     `
   }
