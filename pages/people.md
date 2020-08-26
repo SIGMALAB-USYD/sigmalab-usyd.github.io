@@ -33,30 +33,25 @@ permalink: "/people/"
 		<h3 class="medium-12">Postgraduate Students</h3>
 		<br/>
 	</div>
-	
-	<div class="row">
-
-		{% include member.html photo="../images/people/peixia_li.jpg" name="Peixia Li" title="Ph.D. Student" %}
-
-		{% include member.html photo="../images/people/boyu_chen.jpg" name="Boyu Chen" title="Ph.D. Student" %}
-
-		{% include member.html photo="../images/people/senhui_guo.jpg" name="Senhui Guo" title="Ph.D. Student" %}
-
-		{% include member.html photo="../images/people/xinchi_zhou.jpg" name="Xinchi Zhou" title="Ph.D. Student" %}
-
-	</div>
-
-	<div class="row">
-	
-		{% include member.html photo="../images/people/dongzhan_zhou.jpeg" name="Dongzhan Zhou" title="Ph.D. Student" %}
-
-		{% include member.html photo="../images/people/weitao_feng.jpg" name="Weitao Feng" title="Ph.D. Student" %}
-
+    
+    <div class="row">
+        {% include member.html photo="../images/people/boyu_chen.jpg" name="Boyu Chen" title="Ph.D. Student" %}
 		{% include member.html photo="../images/people/yuanzheng_ci.jpg" name="Yuanzheng Ci" title="Ph.D. Student" homepage="https://yuanzheng.ci"%}
-
+		{% include member.html photo="../images/people/weitao_feng.jpg" name="Weitao Feng" title="Ph.D. Student" %}
+		{% include member.html photo="../images/people/senhui_guo.jpg" name="Senhui Guo" title="Ph.D. Student" homepage="https://sguo.org"%}
+    </div>
+    <div class="row">
+		{% include member.html photo="../images/people/peixia_li.jpg" name="Peixia Li" title="Ph.D. Student" %}
+		{% include member.html photo="../images/people/xinzhu_ma.jpg" name="Xinzhu Ma" title="Ph.D. Student" %}
+		{% include member.html photo="../images/people/shixiang_tang.jpg" name="Shixiang Tang" title="Ph.D. Student" %}
+		{% include member.html photo="../images/people/zhenxun_yuan.jpg" name="Zhenxun Yuan" title="M.Phil. Student" %}
+    </div>
+    <div class="row">
 		{% include member.html photo="../images/people/geng_zhan.jpg" name="Geng Zhan" title="Ph.D. Student" %}
-	</div>
-	
+		{% include member.html photo="../images/people/dongzhan_zhou.jpg" name="Dongzhan Zhou" title="Ph.D. Student" %}
+		{% include member.html photo="../images/people/xinchi_zhou.jpg" name="Xinchi Zhou" title="Ph.D. Student" %}
+		{% include member.html photo="../images/people/peiqin_zhuang.jpg" name="Peiqin Zhuang" title="Ph.D. Student" %}
+    </div>
 </div>
 
 ---
