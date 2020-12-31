@@ -115,6 +115,8 @@ permalink: "/people/"
     	<br>
     </div>
 
+     {% include collaborator.html url="https://ice.dlut.edu.cn/lu" name="Huchuan Lu" affil="Dalian University of Technology" %}
+
     {% include collaborator.html url="https://jschenthu.weebly.com" name="Jiansheng Chen" affil="Tsinghua University" %}
 
     {% include collaborator.html url="https://sydney.edu.au/engineering/about/our-people/academic-staff/zhiyong-wang.html" name="Zhiyong Wang" affil="the University of Sydney" %}
