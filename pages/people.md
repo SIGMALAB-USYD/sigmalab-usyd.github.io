@@ -47,6 +47,11 @@ permalink: "/people/"
 		{% include member.html photo="../images/people/xinchi_zhou.jpg" name="Xinchi Zhou" title="Ph.D. Student" %}
 		{% include member.html photo="../images/people/peiqin_zhuang.jpg" name="Peiqin Zhuang" title="Ph.D. Student" %}
     </div>
+    <div class="row">
+    {% include member.html photo="../images/people/jinjin_gu.jpg" name="Jinjin Gu" title="Ph.D. Student" %}
+    {% include member.html photo="../images/people/lei_bai.jpg" name="Lei Bai" title="Ph.D. Student" %}
+    {% include member.html photo="../images/people/yinmin_zhang.jpg" name="Yinmin Zhang" title="Ph.D. Student" %}
+    </div>
 </div>
 
 ---
