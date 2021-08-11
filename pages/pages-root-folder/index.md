@@ -12,7 +12,7 @@ title: "SIGMA Lab @ USYD"
 #slider:
 #text_color: white
 #shadow_color: black
-#slides: 
+#slides:
 #  - image: gallery-example-1.jpg
 #    slide_html:
 #  - image: gallery-example-2.jpg
@@ -24,19 +24,19 @@ sidebar: right
 
 widget1:
   title: "GradNet ICCV2019 Demo"
-  url: 'https://youtu.be/tWDbs3VrnbU'
+  url: "https://youtu.be/tWDbs3VrnbU"
   video: '<iframe width="360" height="240" src="https://www.youtube.com/embed/tWDbs3VrnbU" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 100%; max-height: 150pt;"></iframe>'
-  text: 'Check out our demo for Visual Object Tracking'
+  text: "Check out our demo for Visual Object Tracking"
 widget2:
   title: "Depth-based Segmentation"
-  url: 'https://www.youtube.com/embed/fUJ7ZkgXyZg'
-  text: 'Image segmentation based on depth estimation'
+  url: "https://www.youtube.com/embed/fUJ7ZkgXyZg"
+  text: "Image segmentation based on depth estimation"
   video: '<iframe width="360" height="240" src="https://www.youtube.com/embed/fUJ7ZkgXyZg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 100%; max-height: 150pt;"></iframe>'
 widget3:
   title: "Pose Tracking"
-  url: 'https://youtu.be/CiKJuAH2U8I'
+  url: "https://youtu.be/CiKJuAH2U8I"
   video: '<iframe src="https://www.youtube.com/embed/AL-8XCzRFo0" width="360" height="240" allow="accelerometer; encrypted-media; gyroscope; picture-in-picture" allowfullscreen style="max-width: 100%; max-height: 150pt;"></iframe>'
-  text: 'Our team won the 2nd place in the pose-track challenge.'
+  text: "Our team won the 2nd place in the pose-track challenge."
 
 #
 # Use the call for action to show a button on the frontpage
@@ -58,9 +58,7 @@ permalink: /index.html
 # this page as active in the topbar navigation
 #
 homepage: true
-
 ---
-
 
 <div class="row main-content" style= " margin-top: 30px; max-height:540px">
   <div class="column small-9 pc">
@@ -73,6 +71,7 @@ homepage: true
           <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
           <li data-target="#myCarousel" data-slide-to="1"></li>
           <li data-target="#myCarousel" data-slide-to="2"></li>
+          <li data-target="#myCarousel" data-slide-to="3"></li>
         </ol>
 
         <!-- Wrapper for slides -->
@@ -81,7 +80,9 @@ homepage: true
 
       		{% include carousel_item.html   image="images/GradNet.jpg" alt="Visual Object Tracking(VOT)" title="Visual Object Tracking(VOT)" caption="Visual object tracking aims to successively track the object in a video with target object being identified in the initial frame. We are now working on this problem and the related topic multiple object tracking (MOT)." %}
 
-      		{% include carousel_item.html  image="images/DVC.jpg" alt="DVC: An End-to-end Deep Video Compression Framework" title="DVC: An End-to-end Deep Video Compression Framework" caption="We proposed the first end-to-end video compression deep model that jointly optimizes all the components for video compression. Experimental results show that the proposed approach can outperform the widely used video coding standard H.264 in terms of PSNR and be even on par with the latest standard H.265 in terms of MS-SSIM" %}
+      		{% include carousel_item.html  image="images/3D_Det.png" alt="DVC: An End-to-end Deep Video Compression Framework" title="Accurate Monocular 3D Object Detection" caption="we propose a monocular 3D object de- tection framework in the domain of autonomous driving. Unlike previous image-based methods which focus on RGB feature extracted from 2D images" %}
+
+          {% include carousel_item.html  image="images/Cheaper_Lunch.png" alt="Cheaper Pre-training Lunch" title="Cheaper Pre-training Lunch: An Efficient Paradigm for Object Detection" caption="we propose a general and efficient pre-training paradigm, Montage pre-training, for object detection. Montage pre-training needs only the target detection dataset while taking only 1/4 computa- tional resources compared to the widely adopted ImageNet pre-training" %}
         </div>
 
         <!-- Left and right controls -->
@@ -94,9 +95,8 @@ homepage: true
           <span class="sr-only">Next</span>
         </a>
     </div>
+
   </div>
-
-
 
   <!-- carrousel on mobile devices -->
   <div class="column small-12 mobile">
@@ -112,24 +112,24 @@ homepage: true
 
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
-          {% include carousel_item.html  active="true" 
-             url="https://wlouyang.github.io/projects/GBD/index.html" 
-             image="images/gbd-net.jpg" 
-             alt="GBD-Net for object detection" 
-             title="Object Detection" 
+          {% include carousel_item.html  active="true"
+             url="https://wlouyang.github.io/projects/GBD/index.html"
+             image="images/gbd-net.jpg"
+             alt="GBD-Net for object detection"
+             title="Object Detection"
              caption="We are conducting inspiring researches in general object detection. Our team won the 1st place of ILSVRC 2016. We are also working on the related topics including video detection and object tracking." %}
 
-          {% include carousel_item.html  
-             url="http://cvboy.com/publication/cvpr2017_vip_cnn/" 
-             image="images/relation.jpg" 
-             alt="Visual Relationship Detection" 
-             title="Visual Relationship Detection" 
+          {% include carousel_item.html
+             url="http://cvboy.com/publication/cvpr2017_vip_cnn/"
+             image="images/relation.jpg"
+             alt="Visual Relationship Detection"
+             title="Visual Relationship Detection"
              caption="Visual relationship detection involves detecting and localizing pairs of interacting objects in an image and also classifying the predicate or interaction between them. We are now working on this challenging problem. Click to see the detail!" %}
 
-          {% include carousel_item.html  
-             url="http://cvboy.com/publication/cvpr2017_vip_cnn/" 
-             image="images/re-id.png" alt="Re-Identification" 
-             title="Person Re-Identification (ReID)" 
+          {% include carousel_item.html
+             url="http://cvboy.com/publication/cvpr2017_vip_cnn/"
+             image="images/re-id.png" alt="Re-Identification"
+             title="Person Re-Identification (ReID)"
              caption="Given one query image of one specific person, a person ReID system is expected to provide all the images of the same person from a large gallery database. We have been focusing on person re-id problem over years." %}
         </div>
 
@@ -143,10 +143,8 @@ homepage: true
           <span class="sr-only">Next</span>
         </a>
     </div>
+
   </div>
-
-
-
 
   <div class="column small-3 pc" style="max-height: inherit">
   	<div><h3>News</h3></div>
@@ -164,7 +162,7 @@ homepage: true
 
     {% include news_item.html  date="08-Oct-2018" content="Welcome Yi Zhou to join us as a M.Phil. student!" %}
 
-    {% include news_item.html  date="21-Sep-2018" content="Welcome Yukai Shi to visit our lab!" %}     
+    {% include news_item.html  date="21-Sep-2018" content="Welcome Yukai Shi to visit our lab!" %}
 
     {% include news_item.html  date="20-Sep-2018" content="Congratulations to Shuyang's paper accepted by NIPS 2018" %}
 
@@ -172,14 +170,13 @@ homepage: true
 
     {% include news_item.html  date="2-July-2018" content="Congratulations to Lingbo Liu's paper accepted by IJCAI 2018" %}
 
-      {% include news_item.html  date="19-Mar-2018" content="Welcome Lingbo Liu to visit our lab!" %} 		
+      {% include news_item.html  date="19-Mar-2018" content="Welcome Lingbo Liu to visit our lab!" %}
 
-  		{% include news_item.html  date="14-Dec-2017" content="Our lab homepage is now onine!" %}
-  		
-  		{% include news_item.html  date="15-Sep-2017" content="Our lab established!" %}
-
+{% include news_item.html  date="14-Dec-2017" content="Our lab homepage is now onine!" %}
+{% include news_item.html  date="15-Sep-2017" content="Our lab established!" %}
 
     </div>
+
   </div>
 </div>
 
@@ -197,7 +194,7 @@ homepage: true
 
     {% include news_item.html  date="08-Oct-2018" content="Welcome Yi Zhou to join us as a M.Phil. student!" %}
 
-    {% include news_item.html  date="21-Sep-2018" content="Welcome Yukai Shi to visit our lab!" %}     
+    {% include news_item.html  date="21-Sep-2018" content="Welcome Yukai Shi to visit our lab!" %}
 
     {% include news_item.html  date="20-Sep-2018" content="Congratulations to Shuyang's paper accepted by NIPS 2018" %}
 
@@ -205,16 +202,16 @@ homepage: true
 
     {% include news_item.html  date="2-July-2018" content="Congratulations to Lingbo Liu's paper accepted by IJCAI 2018" %}
 
-      {% include news_item.html  date="19-Mar-2018" content="Welcome Lingbo Liu to visit our lab!" %}     
+      {% include news_item.html  date="19-Mar-2018" content="Welcome Lingbo Liu to visit our lab!" %}
 
       {% include news_item.html  date="14-Dec-2017" content="Our lab homepage is now onine!" %}
-      
+
       {% include news_item.html  date="15-Sep-2017" content="Our lab established!" %}
 
     </div>
     <h3 class="mobile"> Our Research </h3>
-</div>
 
+</div>
 
 <div class="pc">
 <br>
