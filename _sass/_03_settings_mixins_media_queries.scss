@@ -382,7 +382,7 @@ $cursor-text-value: text !default;
   a:hover { cursor: $cursor-pointer-value; }
 
     // Grid Defaults to get images and embeds to work properly
-    img { max-width: 100%; height: auto; }
+    // img { max-width: 100%; height: auto; }
 
     img { -ms-interpolation-mode: bicubic; }
 
