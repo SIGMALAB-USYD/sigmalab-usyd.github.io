@@ -51,7 +51,7 @@ permalink: "/people/"
     {% include member.html photo="../images/people/jinjin_gu.jpg" name="Jinjin Gu" title="Ph.D. Student" %}
     {% include member.html photo="../images/people/lei_bai.jpg" name="Lei Bai" title="Post Doc" %}
     {% include member.html photo="../images/people/yinmin_zhang.jpg" name="Yinmin Zhang" title="Ph.D. Student" %}
-    {% include member.html photo="" name="" title="" %}
+    {% include member.html name="" title="" %}
     </div>
 </div>
 
@@ -66,8 +66,8 @@ permalink: "/people/"
     <div class="row">
     	{% include member.html photo="../images/people/hongwen_zhang.png" homepage="https://hongwenzhang.github.io" name="Hongwen Zhang" title="Ph.D. from CASIA" %}
     	{% include member.html photo="../images/people/yan_lu.jpg" name="Yan Lu" title="Master from USTC" %}
-    	{% include member.html photo="" name="" title="" %}
-    	{% include member.html photo="" name="" title="" %}
+    	{% include member.html name="" title="" %}
+    	{% include member.html name="" title="" %}
     </div>
 
 </div>
@@ -87,7 +87,7 @@ permalink: "/people/"
 
     {% include member.html photo="../images/people/yi_zhou.jpg" name="Yi Zhou" title="M.Phil. (Graduated in Dec. 2019)" %}
 
-    {% include member.html photo="" name="" title="" %}
+    {% include member.html name="" title="" %}
     </div>
 
 </div>
