@@ -30,7 +30,7 @@ permalink: "/people/"
 	</div>
     
     <div class="row">
-        {% include member.html photo="../images/people/boyu_chen.jpg" name="Boyu Chen" title="Ph.D. Student" %}
+    {% include member.html photo="../images/people/boyu_chen.jpg" name="Boyu Chen" title="Ph.D. Student" %}
 		{% include member.html photo="../images/people/yuanzheng_ci.jpg" name="Yuanzheng Ci" title="Ph.D. Student" homepage="https://yuanzheng.ci"%}
 		{% include member.html photo="../images/people/weitao_feng.jpg" name="Weitao Feng" title="Ph.D. Student" %}
 		{% include member.html photo="../images/people/senhui_guo.jpg" name="Senhui Guo" title="Ph.D. Student" homepage="https://sguo.org"%}
@@ -49,30 +49,36 @@ permalink: "/people/"
     </div>
     <div class="row">
     {% include member.html photo="../images/people/jinjin_gu.jpg" name="Jinjin Gu" title="Ph.D. Student" %}
-    {% include member.html photo="../images/people/lei_bai.jpg" name="Lei Bai" title="Post Doc" %}
+    {% include member.html photo="../images/people/lei_bai.jpg" name="Lei Bai" title="Post Doc" homepage="http://leibai.site"%}
+    {% include member.html photo="../images/people/yan_lu.png" name="Yan Lu" title="Ph.D. Student" %}
     {% include member.html photo="../images/people/yinmin_zhang.jpg" name="Yinmin Zhang" title="Ph.D. Student" %}
+  
+    </div>
+    <div class="row">
+    {% include member.html photo="../images/people/chuming_li.png" name="Chuming Li" title="Ph.D. Student" %}
+    {% include member.html name="" title="" %}
+    {% include member.html name="" title="" %}
     {% include member.html name="" title="" %}
     </div>
 </div>
 
 ---
 
-<div class="row">
+<!-- <div class="row">
 	<div class="row">
 		<h3 class="medium-12">Visiting Students</h3>
 		<br/>
 	</div>
 
     <div class="row">
-    	{% include member.html photo="../images/people/hongwen_zhang.png" homepage="https://hongwenzhang.github.io" name="Hongwen Zhang" title="Ph.D. from CASIA" %}
-    	{% include member.html photo="../images/people/yan_lu.jpg" name="Yan Lu" title="Master from USTC" %}
+      {% include member.html name="" title="" %}
     	{% include member.html name="" title="" %}
     	{% include member.html name="" title="" %}
     </div>
 
-</div>
+</div> -->
 
----
+<!-- --- -->
 
 <div class="row">
 	<div class="row">
@@ -99,6 +105,7 @@ permalink: "/people/"
 		<h3 class="medium-12">Past Visiting Student</h3>
 		<br/>
 	</div>
+    {% include collaborator.html url="https://hongwenzhang.github.io" name="Hongwen Zhang" affil="Ph.D. from CASIA (2017-2020)" %}
 
     {% include collaborator.html url="" name="Guo Lu" affil="Ph.D. from SJTU (2017-2019)" %}
 
