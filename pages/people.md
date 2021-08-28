@@ -51,7 +51,7 @@ permalink: "/people/"
     {% include member.html photo="../images/people/jinjin_gu.jpg" name="Jinjin Gu" title="Ph.D. Student" %}
     {% include member.html photo="../images/people/lei_bai.jpg" name="Lei Bai" title="Post Doc" homepage="http://leibai.site"%}
     {% include member.html photo="../images/people/yan_lu.png" name="Yan Lu" title="Ph.D. Student" %}
-    {% include member.html photo="../images/people/yinmin_zhang.jpg" name="Yinmin Zhang" title="Ph.D. Student" %}
+    {% include member.html photo="../images/people/yinmin_zhang.png" name="Yinmin Zhang" title="Ph.D. Student" %}
   
     </div>
     <div class="row">
