@@ -36,7 +36,8 @@ permalink: "/people/"
 		{% include member.html photo="../images/people/senhui_guo.jpg" name="Senhui Guo" title="Ph.D. Student" homepage="https://sguo.org"%}
     </div>
     <div class="row">
-		{% include member.html photo="../images/people/peixia_li.jpg" name="Peixia Li" title="Ph.D. Student" %}
+		{% include member.html photo="../images/people/peixia_li.jpg" name="Peixia Li" title="Ph.D. Student" homepage="https://lpxtt.github.io/
+"%}
 		{% include member.html photo="../images/people/xinzhu_ma.jpg" name="Xinzhu Ma" title="Ph.D. Student" %}
 		{% include member.html photo="../images/people/shixiang_tang.jpg" name="Shixiang Tang" title="Ph.D. Student" %}
 		{% include member.html photo="../images/people/zhenxun_yuan.jpg" name="Zhenxun Yuan" title="M.Phil. Student" %}
@@ -45,40 +46,34 @@ permalink: "/people/"
 		{% include member.html photo="../images/people/geng_zhan.jpg" name="Geng Zhan" title="Ph.D. Student" %}
 		{% include member.html photo="../images/people/dongzhan_zhou.jpg" name="Dongzhan Zhou" title="Ph.D. Student" %}
 		{% include member.html photo="../images/people/xinchi_zhou.jpg" name="Xinchi Zhou" title="Ph.D. Student" %}
-		{% include member.html photo="../images/people/peiqin_zhuang.jpg" name="Peiqin Zhuang" title="Ph.D. Student" %}
+		{% include member.html photo="../images/people/peiqin_zhuang.jpg" name="Peiqin Zhuang" title="Ph.D. Student" homepage="https://peiqinzhuang.github.io/"%}
     </div>
     <div class="row">
-    {% include member.html photo="../images/people/jinjin_gu.jpg" name="Jinjin Gu" title="Ph.D. Student" %}
-    {% include member.html photo="../images/people/lei_bai.jpg" name="Lei Bai" title="Post Doc" homepage="http://leibai.site"%}
+    {% include member.html photo="../images/people/jinjin_gu.jpg" name="Jinjin Gu" title="Ph.D. Student" homepage="https://www.jasongt.com/"%}
     {% include member.html photo="../images/people/yan_lu.png" name="Yan Lu" title="Ph.D. Student" %}
     {% include member.html photo="../images/people/yinmin_zhang.png" name="Yinmin Zhang" title="Ph.D. Student" %}
-  
-    </div>
-    <div class="row">
     {% include member.html photo="../images/people/chuming_li.png" name="Chuming Li" title="Ph.D. Student" %}
-    {% include member.html name="" title="" %}
-    {% include member.html name="" title="" %}
-    {% include member.html name="" title="" %}
     </div>
 </div>
 
 ---
 
-<!-- <div class="row">
+<div class="row">
 	<div class="row">
-		<h3 class="medium-12">Visiting Students</h3>
+		<h3 class="medium-12">Postdoc</h3>
 		<br/>
 	</div>
 
     <div class="row">
+      {% include member.html photo="../images/people/lei_bai.jpg" name="Lei Bai" title="Post Doc" homepage="http://leibai.site"%}
       {% include member.html name="" title="" %}
     	{% include member.html name="" title="" %}
     	{% include member.html name="" title="" %}
     </div>
 
-</div> -->
+</div>
 
-<!-- --- -->
+---
 
 <div class="row">
 	<div class="row">
