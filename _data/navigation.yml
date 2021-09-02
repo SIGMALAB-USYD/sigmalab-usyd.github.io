@@ -12,6 +12,7 @@
   #   url: "/publication/"
   # - title: "Publication by type"
   #   url: "/publication_type/"
+  
   #dropdown:
   #- title: "Grid & Colors"
   #  url: "/design/grid/"
@@ -66,7 +67,7 @@
   #   url: "/blog/archive/"
 
 - title: Videos
-  url: "/Videos/"
+  url: "/videos/"
   side: left
 
 - title: FYP Student Demo
